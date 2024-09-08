@@ -12,5 +12,6 @@
   "obsidian-image-auto-upload-plugin",
   "obsidian-local-rest-api",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-mind-map"
 ]
