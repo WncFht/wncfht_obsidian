@@ -1,7 +1,7 @@
 # 1. d2l_chapter3_线性神经网络
-## 1.1. 线性回归
+## 1 线性回归
 
-### 1.1.1. 线性回归的基本元素
+### 1.1 线性回归的基本元素
 * regression
 * prediction / inference
 * training set
@@ -55,10 +55,10 @@ $$
 * validationg dataset
 * generalization
 
-### 1.1.2. 矢量化加速
+### 1.2 矢量化加速
 * 矢量化代码
 
-### 1.1.3. 正态分布与平方损失
+### 1.3 正态分布与平方损失
 * normal distribution / Gaussian distribution
 
 $$
@@ -82,11 +82,11 @@ $$
 -\log P(\mathbf y \mid \mathbf X) = \sum_{i=1}^n \frac{1}{2} \log(2 \pi \sigma^2) + \frac{1}{2 \sigma^2} \left(y^{(i)} - \mathbf{w}^\top \mathbf{x}^{(i)} - b\right)^2.
 $$
 
-### 1.1.4. 从线性回归到神经网络
+### 1.4 从线性回归到神经网络
 * feature dimensionality
 * fully-connected layer / dense layer
 
-## 1.2. 线性回归的从零开始实现
+## 2 线性回归的从零开始实现
 ```
 %matplotlib inline
 import random
@@ -148,7 +148,7 @@ for epoch in range(num_epochs):
         print(f'epoch {epoch + 1}, loss {float(train_l.mean()):f}')
 ```
 
-## 1.3. 线性回归的简洁实现
+## 3 线性回归的简洁实现
 
 ```
 import numpy as np
@@ -194,14 +194,14 @@ b = net[0].bias.data
 print('b的估计误差：', true_b - b)
 ```
 
-## 1.4. softmax回归
-### 1.4.1. 分类问题
+## 4 softmax回归
+### 4.1 分类问题
 * one-hot encoding
 $$
 y \in \{(1, 0, 0), (0, 1, 0), (0, 0, 1)\}.
 $$
 
-### 1.4.2. 网络架构
+### 4.2 网络架构
 * affine function
 * logit
 
@@ -213,10 +213,10 @@ o_3 &= x_1 w_{31} + x_2 w_{32} + x_3 w_{33} + x_4 w_{34} + b_3.
 \end{aligned}\end{split}
 $$
 
-### 1.4.3. 全连接层的参数开销
+### 4.3 全连接层的参数开销
 不知道是什么东西
 
-### 1.4.4. softmax运算
+### 4.4 softmax运算
 * calibration
 * choice model
 
@@ -230,13 +230,13 @@ $$
 
 * linear model
 
-### 1.4.5. 小批样本的矢量化
+### 4.5 小批样本的矢量化
 
 $$
 \begin{split}\begin{aligned} \mathbf{O} &= \mathbf{X} \mathbf{W} + \mathbf{b}, \\ \hat{\mathbf{Y}} & = \mathrm{softmax}(\mathbf{O}). \end{aligned}\end{split}
 $$
 
-### 1.4.6. 损失函数
+### 4.6 损失函数
 
 $$
 P(\mathbf{Y} \mid \mathbf{X}) = \prod_{i=1}^n P(\mathbf{y}^{(i)} \mid \mathbf{x}^{(i)}).
@@ -265,7 +265,7 @@ $$
 \partial_{o_j} l(\mathbf{y}, \hat{\mathbf{y}}) = \frac{\exp(o_j)}{\sum_{k=1}^q \exp(o_k)} - y_j = \mathrm{softmax}(\mathbf{o})_j - y_j.
 $$
 
-### 1.4.7. 信息论基础
+### 4.7 信息论基础
 * information theory
 * entropy
 
@@ -273,10 +273,10 @@ $$
 H[P] = \sum_j - P(j) \log P(j).
 $$
 
-### 1.4.8. 模型预测和评估
+### 4.8 模型预测和评估
 * accuracy
 
-## 1.5. 图像分类数据集
+## 5 图像分类数据集
 ```
 %matplotlib inline
 import torch
@@ -349,7 +349,7 @@ for X, y in train_iter:
     break
 ```
 
-## 1.6. softmax回归的从零开始实现
+## 6 softmax回归的从零开始实现
 ```
 import torch
 from IPython import display
@@ -518,7 +518,7 @@ def predict_ch3(net, test_iter, n=6):  #@save
 predict_ch3(net, test_iter) # 预测
 ```
 
-## 1.7. softmax回归的简洁实现
+## 7 softmax回归的简洁实现
 ```
 import torch
 from torch import nn

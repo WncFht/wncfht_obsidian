@@ -11,8 +11,12 @@
             "id": "ed5ad364c540ce55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "公开课/Dive into deep learning/Dive into Deep Learning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -66,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a2f3e69f1404aa81",
@@ -92,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "公开课/Dive into deep learning/Dive into Deep Learning.md"
+              }
             }
           },
           {
@@ -108,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 595.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -122,54 +129,54 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "19b651156ee325f6",
+  "active": "3105222e2c0f0eaa",
   "lastOpenFiles": [
-    "转专业/软工8.md",
-    "Excalidraw/Drawing 2024-09-08 12.41.33.excalidraw.md",
+    "公开课/Dive into deep learning/d2l_chapter2_预备知识.md",
+    "公开课/Dive into deep learning/d2l_chapter3_线性神经网络.md",
+    "公开课/Dive into deep learning/Dive into Deep Learning.md",
     "读书笔记/视觉SLAM十四讲.md",
+    "Excalidraw/Drawing 2024-09-08 13.59.53.excalidraw.md",
+    "读书笔记/Accelerated C++.md",
+    "todo.md",
+    "网址.md",
+    "个人路线 1.0.0.md",
+    "转专业/IEEE的经验规划.md",
+    "转专业/ACM.md",
+    "tech/CMake.md",
+    "公开课/cs61c/cs61c_lec06.md",
+    "公开课/cs61c/cs61c.md",
+    "attachment/QQ_1723426283414.png",
+    "attachment/QQ_1723426340853.png",
+    "attachment/QQ_1723426500087.png",
+    "attachment/QQ_1723426837256.png",
+    "attachment/QQ_1723427555264.png",
+    "attachment/QQ_1723427974368.png",
+    "attachment/QQ_1723427912021.png",
+    "attachment/QQ_1723427744742.png",
+    "转专业/软工8.md",
+    "转专业/软工7.md",
+    "转专业/软工1.md",
+    "转专业/软工2.md",
+    "Excalidraw/Drawing 2024-09-08 12.41.33.excalidraw.md",
     "日记/2024.09.08.md",
     "读书笔记/概率论与数理统计 陈希孺.md",
     "日记/2024.09.07.md",
     "配置电脑.md",
-    "todo.md",
-    "网址.md",
     "Excalidraw",
-    "读书笔记/Accelerated C++.md",
     "2024-09-08.md",
     "日记",
-    "个人路线 1.0.0.md",
     "未命名.canvas",
-    "tech/CMake.md",
     "转专业/软工5（神）.md",
     "转专业/软工4（xlb）.md",
-    "转专业/软工3.md",
-    "转专业/软工2.md",
-    "转专业/软工1.md",
-    "转专业/计科2.md",
-    "转专业/计科1.md",
-    "转专业/概况.md",
-    "读书笔记/Elm Gudie.md",
-    "公开课/cs61b/cs61b.md",
-    "公开课/cs61a/COMPOSING PROGRAMS.md",
-    "公开课/cs61a/cs61a.md",
-    "读书笔记/计算机组成与设计硬件软件接口.md",
     "公开课",
     "tech",
     "QQ_1724935497889.png",
     "Head First Java, 3rd Edition (Kathy Sierra, Bert Bates, Trisha Gee) .pdf",
-    "attachment/QQ_1723427555264.png",
     "attachment/QQ_1723427524964.png",
-    "转SE简历.jpg",
     "test1",
     "日记",
     "公开课/cs61b",
     "公开课/cs61a",
-    "量化",
-    "attachment/QQ_1723427974368.png",
-    "attachment/QQ_1723428086546.png",
-    "attachment/QQ_1723428144501.png",
-    "attachment/QQ_1723428546109.png",
-    "attachment/QQ_1723427570635.png",
-    "attachment/QQ_1723427744742.png"
+    "量化"
   ]
 }

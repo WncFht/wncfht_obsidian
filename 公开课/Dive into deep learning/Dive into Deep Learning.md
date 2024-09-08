@@ -1,10 +1,12 @@
-# 1. Dive into deep learning
-## 1 d2l_chapter2_预备知识
-#### 1.1.1 数据操作
+# Dive into Deep Learning
+## 1 引言
+
+## 2 预备知识
+### 2.1 数据操作
 
 * tensor
-* ndarray(MXNet)
-* Tensor(TensorFlow)
+* ndarray (MXNet)
+* Tensor (TensorFlow)
 ```
 x = torch.arrange(12)
 x.shape
@@ -19,7 +21,7 @@ torch.randn(3, 4)
 	* -
 	* *
 	* /
-	* exp()
+	* exp ()
 	* ==
 
 * concatenate
@@ -33,24 +35,24 @@ x.sum()
 * 索引+切片
 * 切片保持地址不变：节省内存
 * ndarry <-> Tensor
-* item()
+* item ()
 
-#### 1.1.2 数据预处理
+### 2.2 数据预处理
 
 pandas
 
-* read_csv()
+* read_csv ()
 * NaN
-	* fillna(inputs.mean())
-	* np.array(inputs.to_numpy(dtype = float))
-#### 1.1.3 线性代数
+	* fillna (inputs.mean ())
+	* np.array (inputs. to_numpy (dtype = float))
+### 2.3 线性代数
 
 * scalar
 * variable
 * space
 * element / component
 * dimension 
-	* len()
+	* len ()
 	* shape
 * square matrix
 * transpose
@@ -69,25 +71,27 @@ a_{21}  b_{21} & a_{22}  b_{22} & \dots  & a_{2n}  b_{2n} \\
 a_{m1}  b_{m1} & a_{m2}  b_{m2} & \dots  & a_{mn}  b_{mn}
 \end{bmatrix}.\end{split}
 $$
-* A.sum(axis = 0) # 竖着求和
-* A.sum(axis = [0, 1]) = A.sum()
-* A.mean() = A.sum() / A.size()
-* A.cumsum(axis = 0)
+* A.sum (axis = 0) # 竖着求和
+* A.sum (axis = [0, 1]) = A.sum ()
+* A.mean () = A.sum () / A.size ()
+* A.cumsum (axis = 0)
 * dot product
-	* torch.dot(x, y) = torch.sum(x * y)
+	* torch.dot (x, y) = torch.sum (x * y)
 	* weighted average
 * matrix-vector product
-	* torch.mv(A, x)
+	* torch.mv (A, x)
 * matrix-matric multiplication
-	* torch.mm(A, B)
+	* torch.mm (A, B)
 * norm
 	1. $f(\alpha \mathbf{x}) = |\alpha| f(\mathbf{x}).$
 	2. $(\mathbf{x} + \mathbf{y}) \leq f(\mathbf{x}) + f(\mathbf{y}).$
 	3. $f(\mathbf{x}) \geq 0.$
 
-#### 1.1.4 微积分
+### 2.4 微积分
+#### 2.4.1 导数和微分
+#### 2.4.2 偏导数
 
-#### 1.1.5 梯度
+#### 2.4.3 梯度
 $$
 \nabla_{\mathbf{x}} f(\mathbf{x}) = \bigg[\frac{\partial f(\mathbf{x})}{\partial x_1}, \frac{\partial f(\mathbf{x})}{\partial x_2}, \ldots, \frac{\partial f(\mathbf{x})}{\partial x_n}\bigg]^\top,
 $$
@@ -102,7 +106,9 @@ $\nabla_{\mathbf{x}} \|\mathbf{x} \|^2 = \nabla_{\mathbf{x}} \mathbf{x}^\top \ma
 
 $\nabla_{\mathbf{X}} \|\mathbf{X} \|_F^2 = 2\mathbf{X}$
 
-#### 1.1.6 自动微分（automatic differentiation）
+#### 2.4.4 链式法则
+#### 2.4.5 小结
+### 2.5 自动微分（automatic differentiation）
 
 * computational graph
 * backpropagate
@@ -115,7 +121,7 @@ x.grad
 x.grad == 4 * x
 ```
 
-#### 1.1.7 非标量变量的反向传播
+#### 2.5.1 非标量变量的反向传播
 
 ```
 # 对非标量调用backward需要传入一个gradient参数，该参数指定微分函数关于self的梯度。
@@ -126,7 +132,7 @@ y = x * x
 y.sum().backward()
 x.grad
 ```
-#### 1.1.8 分离计算
+#### 2.5.2 分离计算
 
 ```
 x.grad.zero_()
@@ -138,9 +144,9 @@ z.sum().backward()
 x.grad == u
 ```
 
-### 1.2 概率
+### 2.6 概率
 
-#### 1.2.1 基本概率论
+#### 2.6.1 基本概率论
 
 * sampling
 * distribution
@@ -149,7 +155,7 @@ x.grad == u
 fair_probs = torch.ones([6]) / 6
 multinomial.Multinomial(10, fair_probs).sample() # 多个样本
 ```
-#### 1.2.2 处理多个随机变量
+#### 2.6.2 处理多个随机变量
 
 * joint probability
 * conditional probability
@@ -157,7 +163,7 @@ multinomial.Multinomial(10, fair_probs).sample() # 多个样本
 $$
 P(A \mid B) = \frac{P(B \mid A) P(A)}{P(B)}. 
 $$
-* 其中P(A,B)是一个联合分布(joint distribution)， P(A∣B)是一个条件分布(conditional distribution)
+* 其中 P (A, B) 是一个联合分布 (joint distribution)， P (A∣B) 是一个条件分布 (conditional distribution)
 * marginalization
 	* marginal probability
 	* marginal distribution
@@ -184,10 +190,10 @@ $$
 \mathrm{Var}[f(x)] = E\left[\left(f(x) - E[f(x)]\right)^2\right]. 
 $$
 
-## 2 d2l_chapter 3_线性神经网络
-### 2.1 线性回归
+## 3 线性神经网络
+### 3.1 线性回归
 
-#### 2.1.1 线性回归的基本元素
+#### 3.1.1 线性回归的基本元素
 * regression
 * prediction / inference
 * training set
@@ -241,10 +247,10 @@ $$
 * validationg dataset
 * generalization
 
-### 2.2 矢量化加速
+#### 3.1.2 矢量化加速
 * 矢量化代码
 
-### 2.3 正态分布与平方损失
+#### 3.1.3 正态分布与平方损失
 * normal distribution / Gaussian distribution
 
 $$
@@ -268,11 +274,11 @@ $$
 -\log P(\mathbf y \mid \mathbf X) = \sum_{i=1}^n \frac{1}{2} \log(2 \pi \sigma^2) + \frac{1}{2 \sigma^2} \left(y^{(i)} - \mathbf{w}^\top \mathbf{x}^{(i)} - b\right)^2.
 $$
 
-### 2.4 从线性回归到神经网络
+#### 3.1.4 从线性回归到神经网络
 * feature dimensionality
 * fully-connected layer / dense layer
 
-### 2.5 线性回归的从零开始实现
+### 3.2 线性回归的从零开始实现
 ```
 %matplotlib inline
 import random
@@ -334,7 +340,7 @@ for epoch in range(num_epochs):
         print(f'epoch {epoch + 1}, loss {float(train_l.mean()):f}')
 ```
 
-### 2.6 线性回归的简洁实现
+### 3.3 线性回归的简洁实现
 
 ```
 import numpy as np
@@ -380,14 +386,14 @@ b = net[0].bias.data
 print('b的估计误差：', true_b - b)
 ```
 
-### 2.7 softmax 回归
-### 2.8 分类问题
+### 3.4 softmax 回归
+#### 3.4.1 分类问题
 * one-hot encoding
 $$
 y \in \{(1, 0, 0), (0, 1, 0), (0, 0, 1)\}.
 $$
 
-### 2.9 网络架构
+#### 3.4.2 网络架构
 * affine function
 * logit
 
@@ -399,10 +405,10 @@ o_3 &= x_1 w_{31} + x_2 w_{32} + x_3 w_{33} + x_4 w_{34} + b_3.
 \end{aligned}\end{split}
 $$
 
-### 2.10 全连接层的参数开销
+#### 3.4.3 全连接层的参数开销
 不知道是什么东西
 
-### 2.11 softmax 运算
+#### 3.4.4 softmax 运算
 * calibration
 * choice model
 
@@ -416,13 +422,13 @@ $$
 
 * linear model
 
-### 2.12 小批样本的矢量化
+#### 3.4.5 小批样本的矢量化
 
 $$
 \begin{split}\begin{aligned} \mathbf{O} &= \mathbf{X} \mathbf{W} + \mathbf{b}, \\ \hat{\mathbf{Y}} & = \mathrm{softmax}(\mathbf{O}). \end{aligned}\end{split}
 $$
 
-### 2.13 损失函数
+#### 3.4.6 损失函数
 
 $$
 P(\mathbf{Y} \mid \mathbf{X}) = \prod_{i=1}^n P(\mathbf{y}^{(i)} \mid \mathbf{x}^{(i)}).
@@ -451,7 +457,7 @@ $$
 \partial_{o_j} l(\mathbf{y}, \hat{\mathbf{y}}) = \frac{\exp(o_j)}{\sum_{k=1}^q \exp(o_k)} - y_j = \mathrm{softmax}(\mathbf{o})_j - y_j.
 $$
 
-### 2.14 信息论基础
+#### 3.4.7 信息论基础
 * information theory
 * entropy
 
@@ -459,10 +465,10 @@ $$
 H[P] = \sum_j - P(j) \log P(j).
 $$
 
-### 2.15 模型预测和评估
+#### 3.4.8 模型预测和评估
 * accuracy
 
-### 2.16 图像分类数据集
+### 3.5 图像分类数据集
 ```
 %matplotlib inline
 import torch
@@ -535,7 +541,7 @@ for X, y in train_iter:
     break
 ```
 
-### 2.17 softmax 回归的从零开始实现
+### 3.6 softmax 回归的从零开始实现
 ```
 import torch
 from IPython import display
@@ -704,7 +710,7 @@ def predict_ch3(net, test_iter, n=6):  #@save
 predict_ch3(net, test_iter) # 预测
 ```
 
-### 2.18 softmax 回归的简洁实现
+### 3.7 softmax 回归的简洁实现
 ```
 import torch
 from torch import nn
