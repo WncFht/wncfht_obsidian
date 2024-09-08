@@ -11,11 +11,10 @@
             "id": "4d2ddce69b383577",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "公开课/Dive into deep learning/Dive into Deep Learning.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -96,9 +95,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "公开课/Dive into deep learning/Dive into Deep Learning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,21 +125,27 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3105222e2c0f0eaa",
+  "active": "4d2ddce69b383577",
   "lastOpenFiles": [
+    "读书笔记/概率论与数理统计 陈希孺.md",
+    "读书笔记/计算机组成与设计硬件软件接口.md",
+    "读书笔记/视觉SLAM十四讲.md",
+    "读书笔记/统计学习方法.md",
+    "读书笔记/Accelerated C++.md",
+    "读书笔记/Elm Gudie.md",
+    "读书笔记/survivesjtu_note.md",
+    "读书笔记/STLC开始的类型论入门.md",
+    "公开课/Dive into deep learning/Dive into Deep Learning.md",
     "个人路线 1.0.0.md",
     "配置电脑.md",
     "日记/2024.09.08.md",
-    "读书笔记/视觉SLAM十四讲.md",
     "日记/2024.09.07.md",
     "公开课/games101/resource.md",
     "公开课/games101",
     "Excalidraw/d2l_chapter3_线性神经网络 2024-09-08 14.46.45.excalidraw.md",
     "Excalidraw/Drawing 2024-09-08 13.59.53.excalidraw.md",
     "公开课/Dive into deep learning/d2l_chapter3_线性神经网络.md",
-    "公开课/Dive into deep learning/Dive into Deep Learning.md",
     "公开课/Dive into deep learning/d2l_chapter2_预备知识.md",
-    "读书笔记/Accelerated C++.md",
     "todo.md",
     "网址.md",
     "转专业/IEEE的经验规划.md",
@@ -159,13 +162,7 @@
     "attachment/QQ_1723427912021.png",
     "attachment/QQ_1723427744742.png",
     "转专业/软工8.md",
-    "转专业/软工7.md",
-    "转专业/软工1.md",
-    "转专业/软工2.md",
-    "Excalidraw/Drawing 2024-09-08 12.41.33.excalidraw.md",
-    "读书笔记/概率论与数理统计 陈希孺.md",
     "Excalidraw",
-    "2024-09-08.md",
     "日记",
     "未命名.canvas",
     "公开课",
