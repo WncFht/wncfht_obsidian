@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a724399aff0248",
+        "id": "4dd4e521925a6f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "9b6d5b4696c48e9a",
+            "id": "275f58d33d89ef5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,35 +81,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "611e03fef0f75299",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "读书笔记/视觉SLAM十四讲.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "030c48d989dd203b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "读书笔记/视觉SLAM十四讲.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "563892e8b45c44d0",
             "type": "leaf",
             "state": {
@@ -121,7 +92,7 @@
             }
           },
           {
-            "id": "3be037950982ab75",
+            "id": "3105222e2c0f0eaa",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -131,15 +102,7 @@
             }
           },
           {
-            "id": "032f249a8f762268",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "434e773c575dd03e",
+            "id": "19b651156ee325f6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -147,11 +110,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 595.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,16 +128,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9b6d5b4696c48e9a",
+  "active": "275f58d33d89ef5b",
   "lastOpenFiles": [
+    "读书笔记/概率论与数理统计 陈希孺.md",
+    "读书笔记/视觉SLAM十四讲.md",
+    "2024.09.08.md",
+    "日记/2024.09.07.md",
     "配置电脑.md",
     "todo.md",
     "网址.md",
     "Excalidraw/Drawing 2024-09-08 12.41.33.excalidraw.md",
-    "读书笔记/视觉SLAM十四讲.md",
     "Excalidraw",
     "读书笔记/Accelerated C++.md",
-    "日记/2024.09.07.md",
     "2024-09-08.md",
     "日记",
     "个人路线 1.0.0.md",
@@ -194,9 +159,7 @@
     "公开课/cs61a/cs61a.md",
     "读书笔记/计算机组成与设计硬件软件接口.md",
     "读书笔记/统计学习方法.md",
-    "公开课/cs70/cs70_note.md",
     "公开课",
-    "公开课/cs70/cs70 notes.md",
     "tech",
     "QQ_1724935497889.png",
     "Head First Java, 3rd Edition (Kathy Sierra, Bert Bates, Trisha Gee) .pdf",
