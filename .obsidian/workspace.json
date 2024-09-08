@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人路线 1.0.0.md",
+                "file": "公开课/Dive into deep learning/Dive into Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人路线 1.0.0.md"
+                "file": "公开课/Dive into deep learning/Dive into Deep Learning.md"
               }
             }
           },
@@ -128,8 +128,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4d2ddce69b383577",
+  "active": "3105222e2c0f0eaa",
   "lastOpenFiles": [
+    "个人路线 1.0.0.md",
     "配置电脑.md",
     "日记/2024.09.08.md",
     "读书笔记/视觉SLAM十四讲.md",
@@ -144,7 +145,6 @@
     "读书笔记/Accelerated C++.md",
     "todo.md",
     "网址.md",
-    "个人路线 1.0.0.md",
     "转专业/IEEE的经验规划.md",
     "转专业/ACM.md",
     "tech/CMake.md",
