@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "199d9449ae20e424",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5a724399aff0248",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b6d5b4696c48e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/视觉SLAM十四讲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f14b17e268f90b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "88a447b3194ed60c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed6c87ad8e4e2f25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d3e0639cf4c759c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4619f622bb7ea8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a2f3e69f1404aa81",
+    "type": "split",
+    "children": [
+      {
+        "id": "98328103bdce2a61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "611e03fef0f75299",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "读书笔记/视觉SLAM十四讲.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "030c48d989dd203b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "读书笔记/视觉SLAM十四讲.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "563892e8b45c44d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3be037950982ab75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "读书笔记/视觉SLAM十四讲.md"
+              }
+            }
+          },
+          {
+            "id": "032f249a8f762268",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "9b6d5b4696c48e9a",
+  "lastOpenFiles": [
+    "配置电脑.md",
+    "todo.md",
+    "网址.md",
+    "Excalidraw/Drawing 2024-09-08 12.41.33.excalidraw.md",
+    "读书笔记/视觉SLAM十四讲.md",
+    "Excalidraw",
+    "读书笔记/Accelerated C++.md",
+    "日记/2024.09.07.md",
+    "2024-09-08.md",
+    "日记",
+    "个人路线 1.0.0.md",
+    "未命名.canvas",
+    "tech/CMake.md",
+    "转专业/软工5（神）.md",
+    "转专业/软工4（xlb）.md",
+    "转专业/软工3.md",
+    "转专业/软工2.md",
+    "转专业/软工1.md",
+    "转专业/计科2.md",
+    "转专业/计科1.md",
+    "转专业/概况.md",
+    "读书笔记/Elm Gudie.md",
+    "公开课/cs61b/cs61b.md",
+    "公开课/cs61a/COMPOSING PROGRAMS.md",
+    "公开课/cs61a/cs61a.md",
+    "读书笔记/计算机组成与设计硬件软件接口.md",
+    "读书笔记/统计学习方法.md",
+    "公开课/cs70/cs70_note.md",
+    "公开课",
+    "公开课/cs70/cs70 notes.md",
+    "tech",
+    "QQ_1724935497889.png",
+    "Head First Java, 3rd Edition (Kathy Sierra, Bert Bates, Trisha Gee) .pdf",
+    "attachment/QQ_1723427555264.png",
+    "attachment/QQ_1723427524964.png",
+    "转SE简历.jpg",
+    "test1",
+    "日记",
+    "公开课/cs61b",
+    "公开课/cs61a",
+    "量化",
+    "attachment/QQ_1723427974368.png",
+    "attachment/QQ_1723428086546.png",
+    "attachment/QQ_1723428144501.png",
+    "attachment/QQ_1723428546109.png",
+    "attachment/QQ_1723427570635.png",
+    "attachment/QQ_1723427744742.png"
+  ]
+}
