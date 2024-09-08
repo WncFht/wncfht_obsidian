@@ -111,5 +111,15 @@
       "key": "L"
     }
   ],
-  "editor:toggle-checklist-status": []
+  "editor:toggle-checklist-status": [],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-popout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
 }
