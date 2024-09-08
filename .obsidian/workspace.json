@@ -11,8 +11,12 @@
             "id": "ed5ad364c540ce55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "公开课/games101/resource.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -92,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "公开课/games101/resource.md"
+              }
             }
           },
           {
@@ -122,14 +128,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "19b651156ee325f6",
+  "active": "ed6c87ad8e4e2f25",
   "lastOpenFiles": [
+    "读书笔记/视觉SLAM十四讲.md",
+    "公开课/games101/resource.md",
+    "公开课/games101",
     "Excalidraw/d2l_chapter3_线性神经网络 2024-09-08 14.46.45.excalidraw.md",
     "Excalidraw/Drawing 2024-09-08 13.59.53.excalidraw.md",
     "公开课/Dive into deep learning/d2l_chapter3_线性神经网络.md",
     "公开课/Dive into deep learning/Dive into Deep Learning.md",
     "公开课/Dive into deep learning/d2l_chapter2_预备知识.md",
-    "读书笔记/视觉SLAM十四讲.md",
     "读书笔记/Accelerated C++.md",
     "todo.md",
     "网址.md",
@@ -160,7 +168,6 @@
     "2024-09-08.md",
     "日记",
     "未命名.canvas",
-    "转专业/软工5（神）.md",
     "公开课",
     "tech",
     "QQ_1724935497889.png",
@@ -169,7 +176,6 @@
     "test1",
     "日记",
     "公开课/cs61b",
-    "公开课/cs61a",
-    "量化"
+    "公开课/cs61a"
   ]
 }
