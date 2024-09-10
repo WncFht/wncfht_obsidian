@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/统计学习方法.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a2f3e69f1404aa81",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/统计学习方法.md"
+                "file": "todo.md"
               }
             }
           },
@@ -131,6 +130,9 @@
   },
   "active": "111984f06da72563",
   "lastOpenFiles": [
+    "网址.md",
+    "todo.md",
+    "读书笔记/统计学习方法.md",
     "读书笔记/Accelerated C++.md",
     "读书笔记/Convex Optimization.md",
     "读书笔记/视觉SLAM十四讲.md",
@@ -140,13 +142,10 @@
     "2024年高三-大一暑假总结.md",
     "个人路线 1.0.0.md",
     "入党申请书.md",
-    "网址.md",
-    "todo.md",
     "读书笔记/计算机组成与设计硬件软件接口.md",
     "Excalidraw/圣经 2024-09-09 21.34.11.excalidraw.md",
     "一些文章未分类/配置电脑.md",
     "读书笔记/概率论与数理统计 陈希孺.md",
-    "读书笔记/统计学习方法.md",
     "读书笔记/Elm Gudie.md",
     "读书笔记/survivesjtu_note.md",
     "读书笔记/STLC开始的类型论入门.md",

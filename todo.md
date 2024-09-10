@@ -33,6 +33,10 @@ slam 感觉像是三维建模，通过传感器信息构建基本地形，感兴
 	- [Web page of the course ITT9131 - Concrete Mathematics](https://cs.ioc.ee/cm/)
 	- [roadmap UCB](https://hkn.eecs.berkeley.edu/courseguides)
 	- [【凸优化 10-725 2018】卡耐基梅隆—中英字幕\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1NYHve9EdX)
+		- [Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/)
+	- [优化基本理论与方法 - 图灵班学习指南](https://zju-turing.github.io/TuringCourses/major_basic/convex_optimization)
+	- [我的凸优化学习之路 | 韩鼎の个人网站](https://deanhan.com/2018/01/17/convex/)
+	- [图灵班学习指南](https://zju-turing.github.io/TuringCourses/)
 
 
 
