@@ -109,35 +109,6 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "682aa708bc5d40fc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "读书笔记/统计学习方法.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "804a2c39ede6c9e8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "读书笔记/统计学习方法.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ],
         "currentTab": 2
