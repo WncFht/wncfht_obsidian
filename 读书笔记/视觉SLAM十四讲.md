@@ -1159,7 +1159,338 @@ Homography
 
 
 ## 8 视觉里程计 2
+### 8.1 直接法的引出
+- 特征点法的缺点
+	- 关键点的提取与描述子的计算非常耗时
+	- 使用特征点时，会忽略除特征点以外的所有信息
+	- 相机有时会运动到特征缺失的地方
+- 那么如何克服这些缺点
+	- 保留特征点，但只计算关键点，不计算描述子。使用光流法（Optical Flow）跟踪特征点的运动
+	- 只计算关键点，不计算描述子。使用直接法（Direct Method）
+- 第一种方法仍然使用特征点，只是把匹配描述字替换成了光流跟踪，估计相机运动时仍然是哦那个对极几何、PnP 或 ICP 算法（即，我们需要提到角点）
+- 特征点法:通过最小化重投影误差（Reprojection error）优化相机运动
+- 直接法: 通过最小化光度误差（Photometric error）
+- 只要场景中存在明暗变化就可以工作
+	- 稠密
+	- 半稠密
+	- 稀疏
+### 8.2 D 光流
+- 计算部分像素运动: 稀疏光流
+	- Lucas-Kanasde
+- 计算所有像素运动: 稠密光流
+	- Horn-Schunck
+![QQ_1725858685580.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409091311387.png)
+**Lucas-Kanade 光流**
+- 灰度不变假设: 同一个空间点的像素灰度值，在各个图像中时固定不变的
+$$
+I(x+\mathrm{d}x,y+\mathrm{d}y,t+\mathrm{d}t)=I(x,y,t).
+$$
+$$
+\boldsymbol{I}\left(x+\mathrm{d}x,y+\mathrm{d}y,t+\mathrm{d}t\right)\approx\boldsymbol{I}\left(x,y,t\right)+\frac{\partial\boldsymbol{I}}{\partial x}\mathrm{d}x+\frac{\partial\boldsymbol{I}}{\partial y}\mathrm{d}y+\frac{\partial\boldsymbol{I}}{\partial t}\mathrm{d}t.
+$$
+$$
+\frac{\partial\boldsymbol{I}}{\partial x}\frac{\mathrm{d}x}{\mathrm{d}t}+\frac{\partial\boldsymbol{I}}{\partial y}\frac{\mathrm{d}y}{\mathrm{d}t}=-\frac{\partial\boldsymbol{I}}{\partial t}.
+$$
+$$
+\begin{bmatrix}I_x&I_y\end{bmatrix}\begin{bmatrix}u\\\\v\end{bmatrix}=-I_t.
+$$
+$$
+\begin{bmatrix}I_x&I_y\end{bmatrix}_k\begin{bmatrix}u\\\\v\end{bmatrix}=-I_{tk},\quad k=1,\ldots,w^2.
+$$
+$$
+A\begin{bmatrix}u\\\\v\end{bmatrix}=-b.
+$$
+$$
+\begin{bmatrix}u\\\\v\end{bmatrix}^*=-\begin{pmatrix}\boldsymbol{A}^\mathrm{T}\boldsymbol{A}\end{pmatrix}^{-1}\boldsymbol{A}^\mathrm{T}\boldsymbol{b}.
+$$
+### 8.3 实践: LK 光流
+#### 8.3.1 使用 LK 光流
+```C++
+vector<Point2f> pt1, pt2;
+for (auto &kp: kp1) pt1.push_back(kp.pt);
+vector<uchar> status;
+vector<float> error;
+cv::calcOpticalFlowPyrLK(img1, img2, pt1, pt2, status, error);
+```
+#### 8.3.2 用高斯牛顿法实现光流
+**单层光流**
+TODO
+$$
+\min_{\Delta x,\Delta y}\left\|\boldsymbol{I}_1\left(x,y\right)-\boldsymbol{I}_2\left(x+\Delta x,y+\Delta y\right)\right\|_2^2.
+$$
+**多层光流**
+- 由粗至精（Coarse-to-fine）
+#### 8.3.3 光流实践小结
+### 8.4 直接法
+#### 8.4.1 直接法的推导
+![QQ_1725859950007.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409091332369.png)
+$$
+\boldsymbol{p}_1=\begin{bmatrix}u\\\\v\\\\1\end{bmatrix}_1=\frac{1}{Z_1}\boldsymbol{K}\boldsymbol{P},
+$$
+$$
+\boldsymbol{p}_{2}=\begin{bmatrix}u\\\\v\\\\1\end{bmatrix}_{2}=\frac{1}{Z_{2}}\boldsymbol{K}\left(\boldsymbol{R}\boldsymbol{P}+\boldsymbol{t}\right)=\frac{1}{Z_{2}}\boldsymbol{K}\left(\boldsymbol{T}\boldsymbol{P}\right)_{1:3}.
+$$
+$$
+e=\boldsymbol{I}_1\left(\boldsymbol{p}_1\right)-\boldsymbol{I}_2\left(\boldsymbol{p}_2\right).
+$$
+$$
+\min_{T}J\left(T\right)=\left\|e\right\|^{2}.
+$$
+$$
+\min_{\boldsymbol{T}}J\left(\boldsymbol{T}\right)=\sum_{i=1}^{N}e_{i}^{\mathrm{T}}e_{i},\quad e_{i}=\boldsymbol{I}_{1}\left(\boldsymbol{p}_{1,i}\right)-\boldsymbol{I}_{2}\left(\boldsymbol{p}_{2,i}\right).
+$$
+$$
+\begin{aligned}&q=TP,\\&\boldsymbol{u}=\frac{1}{Z_{2}}Kq.\end{aligned}
+$$
+$$
+e(T)=I_1(p_1)-I_2(u),
+$$
+$$
+\frac{\partial e}{\partial\boldsymbol{T}}=\frac{\partial\boldsymbol{I}_{2}}{\partial\boldsymbol{u}}\frac{\partial\boldsymbol{u}}{\partial\boldsymbol{q}}\frac{\partial\boldsymbol{q}}{\partial\delta\boldsymbol{\xi}}\delta\boldsymbol{\xi},
+$$
+$$
+\frac{\partial\boldsymbol{u}}{\partial\boldsymbol{q}}=\begin{bmatrix}\frac{\partial u}{\partial X}&\frac{\partial u}{\partial Y}&\frac{\partial u}{\partial Z}\\\frac{\partial v}{\partial X}&\frac{\partial v}{\partial Y}&\frac{\partial v}{\partial Z}\end{bmatrix}=\begin{bmatrix}\frac{f_x}{Z}&0&-\frac{f_xX}{Z^2}\\0&\frac{f_y}{Z}&-\frac{f_yY}{Z^2}\end{bmatrix}.
+$$
+$$
+\frac{\partial\boldsymbol{q}}{\partial\delta\boldsymbol{\xi}}=\left[I,-\boldsymbol{q}^{\wedge}\right].
+$$
+$$
+\frac{\partial\boldsymbol{u}}{\partial\delta\boldsymbol{\xi}}=\begin{bmatrix}\frac{f_x}{Z}&0&-\frac{f_xX}{Z^2}&-\frac{f_xXY}{Z^2}&f_x+\frac{f_xX^2}{Z^2}&-\frac{f_xY}{Z}\\0&\frac{f_y}{Z}&-\frac{f_yY}{Z^2}&-f_y-\frac{f_yY^2}{Z^2}&\frac{f_yXY}{Z^2}&\frac{f_yX}{Z}\end{bmatrix}.
+$$
+$$
+J=-\frac{\partial I_2}{\partial u}\frac{\partial u}{\partial\delta\xi}.
+$$
+#### 8.4.2 直接法的讨论
+### 8.5 实践: 直接法
+#### 8.5.1 单层直接法
+#### 8.5.2 多层直接法
+#### 8.5.3 结果讨论
+- Normalized Cross
+#### 8.5.4 直接法优缺点总结
 ## 9 后端 1
+### 9.1 概述
+#### 9.1.1 状态估计的概率解释
+- 只使用过去的信息: 渐进的（Incremental）
+- 使用未来的信息更新: 批量的（Batch）
+$$
+\begin{cases}\boldsymbol{x}_k=f\left(\boldsymbol{x}_{k-1},\boldsymbol{u}_k\right)+\boldsymbol{w}_k\\\boldsymbol{z}_{k,j}=h\left(\boldsymbol{y}_j,\boldsymbol{x}_k\right)+\boldsymbol{v}_{k,j}\end{cases}\quad k=1,\ldots,N, j=1,\ldots,M.
+$$
+- 观测方程的数量会远远大于运动方程
+- 当没有运动方程的时候，我们可以假设相机不动，或假设相机匀速运动
+- 问题：当存在一些运动数据和观测数据时，我们如何估计状态量的高斯分布
+- 误差时逐渐累积的
+- 最大似然估计: 批量状态估计问题可以转化为最大似然估计问题，并使用最小二乘法进行求解
+$$
+x_k\stackrel{\mathrm{def}}{=}\{x_k,y_1,\ldots,y_m\}.
+$$
+$$
+\begin{cases}\boldsymbol{x}_k=f\left(\boldsymbol{x}_{k-1},\boldsymbol{u}_k\right)+\boldsymbol{w}_k\\\boldsymbol{z}_k=h\left(\boldsymbol{x}_k\right)+\boldsymbol{v}_k\end{cases}\quad k=1,\ldots,N.
+$$
+$$
+P\left(\boldsymbol{x}_k|\boldsymbol{x}_0,\boldsymbol{u}_{1:k},\boldsymbol{z}_{1:k}\right)\propto P\left(\boldsymbol{z}_k|\boldsymbol{x}_k\right)P\left(\boldsymbol{x}_k|\boldsymbol{x}_0,\boldsymbol{u}_{1:k},\boldsymbol{z}_{1:k-1}\right).
+$$
+- 第一项称为似然，第二项称为先验
+$$
+P\left(\boldsymbol{x}_{k}|\boldsymbol{x}_{0},\boldsymbol{u}_{1:k},\boldsymbol{z}_{1:k-1}\right)=\int P\left(\boldsymbol{x}_{k}|\boldsymbol{x}_{k-1},\boldsymbol{x}_{0},\boldsymbol{u}_{1:k},\boldsymbol{z}_{1:k-1}\right)P\left(\boldsymbol{x}_{k-1}|\boldsymbol{x}_{0},\boldsymbol{u}_{1:k},\boldsymbol{z}_{1:k-1}\right)\mathrm{d}\boldsymbol{x}_{k-1}.
+$$
+- 虽然可以继续对此式进行展开，但我们只关心 $\displaystyle k$ 时刻和 $\displaystyle k - 1$ 时刻的情况
+	- 第一种方法是假设马尔可夫性: 即认为 $\displaystyle k$ 时刻状态只与 $\displaystyle k - 1$ 时刻状态有关
+		- 那么我们就可以得到以扩展卡尔曼滤波（EKF）为代表的滤波器方式
+	- 第二种方法是依然考虑和之前所有状态的关系，姿势会得到非线性优化为主体的优化框架。
+	- 主流是非线性优化
+#### 9.1.2 线性系统和 KF
+$$
+P\left(\boldsymbol{x}_k|\boldsymbol{x}_{k-1},\boldsymbol{x}_0,\boldsymbol{u}_{1:k},\boldsymbol{z}_{1:k-1}\right)=P\left(\boldsymbol{x}_k|\boldsymbol{x}_{k-1},\boldsymbol{u}_k\right).
+$$
+$$
+P\left(\boldsymbol{x}_{k-1}|\boldsymbol{x}_0,\boldsymbol{u}_{1:k},\boldsymbol{z}_{1:k-1}\right)=P\left(\boldsymbol{x}_{k-1}|\boldsymbol{x}_0,\boldsymbol{u}_{1:k-1},\boldsymbol{z}_{1:k-1}\right).
+$$
+- 所以我们实际在做的事如何把 $\displaystyle k - 1$ 时刻的状态分布推导至 $\displaystyle k$ 时刻
+	- 即我们只要维护一个状态，并不断地迭代更新
+		- 只要维护状态量的均值和协方差（状态量服从高斯分布）
+$$
+\begin{cases}x_k=A_kx_{k-1}+u_k+w_k\\z_k=C_kx_k+v_k\end{cases}\quad k=1,\ldots,N.
+$$
+$$
+w_k\sim N(0,\boldsymbol{R}).\quad\boldsymbol{v}_k\sim N(\boldsymbol{0},\boldsymbol{Q}).
+$$
+- 上帽子表示后验，下帽子表示先验
+$$
+P\left(\boldsymbol{x}_k|\boldsymbol{x}_0,\boldsymbol{u}_{1:k},\boldsymbol{z}_{1:k-1}\right)=N\left(\boldsymbol{A}_k\hat{x}_{k-1}+\boldsymbol{u}_k,\boldsymbol{A}_k\hat{\boldsymbol{P}}_{k-1}\boldsymbol{A}_k^\mathrm{T}+\boldsymbol{R}\right).
+$$
+- 这一步称为预测（Predict）
+$$
+\check{\boldsymbol{x}}_k=\boldsymbol{A}_k\hat{\boldsymbol{x}}_{k-1}+\boldsymbol{u}_k,\quad\check{\boldsymbol{P}}_k=A_k\hat{\boldsymbol{P}}_{k-1}\boldsymbol{A}_k^\mathrm{T}+\boldsymbol{R}.
+$$
+$$
+P\left(\boldsymbol{z}_k|\boldsymbol{x}_k\right)=N\left(\boldsymbol{C}_k\boldsymbol{x}_k,\boldsymbol{Q}\right).
+$$
+- 如果结果设为 $\displaystyle x_k\sim N(\hat{\boldsymbol{x}}_k,\hat{\boldsymbol{P}}_k)$，那么
+$$
+N(\hat{\boldsymbol{x}}_k,\hat{\boldsymbol{P}}_k)=\eta N\left(\boldsymbol{C}_k\boldsymbol{x}_k,\boldsymbol{Q}\right)\cdot N(\check{\boldsymbol{x}}_k,\check{\boldsymbol{P}}_k).
+$$
+$$
+(\boldsymbol{x}_{k}-\hat{\boldsymbol{x}}_{k})^{\mathrm{T}}\hat{\boldsymbol{P}}_{k}^{-1}\left(\boldsymbol{x}_{k}-\hat{\boldsymbol{x}}_{k}\right)=\left(\boldsymbol{z}_{k}-\boldsymbol{C}_{k}\boldsymbol{x}_{k}\right)^{\mathrm{T}}\boldsymbol{Q}^{-1}\left(\boldsymbol{z}_{k}-\boldsymbol{C}_{k}\boldsymbol{x}_{k}\right)+\left(\boldsymbol{x}_{k}-\check{\boldsymbol{x}}_{k}\right)^{\mathrm{T}}\boldsymbol{P}_{k}^{-1}\left(\boldsymbol{x}_{k}-\check{\boldsymbol{x}}_{k}\right).
+$$
+- 二次系数
+$$
+\hat{P}_k^{-1}=C_k^{\mathrm{T}}Q^{-1}C_k+\check{P}_k^{-1}.
+$$
+- 定义一个中间变量
+$$
+K=\hat{P}_kC_k^{\mathrm{T}}Q^{-1}.
+$$
+$$
+I=\hat{P}_{k}C_{k}^{\mathrm{T}}Q^{-1}C_{k}+\hat{P}_{k}\check{P}_{k}^{-1}=KC_{k}+\hat{P}_{k}\check{P}_{k}^{-1}.
+$$
+$$
+\hat{P}_{k}=(I-KC_{k})\check{P}_{k}.
+$$
+- 一次项系数
+$$
+-2\hat{\boldsymbol{x}}_k^\mathrm{T}\hat{\boldsymbol{P}}_k^{-1}\boldsymbol{x}_k=-2\boldsymbol{z}_k^\mathrm{T}\boldsymbol{Q}^{-1}\boldsymbol{C}_k\boldsymbol{x}_k-2\boldsymbol{\dot{x}}_k^\mathrm{T}\check{\boldsymbol{P}}_k^{-1}\boldsymbol{x}_k.
+$$
+$$
+\hat{\boldsymbol{P}}_k^{-1}\hat{\boldsymbol{x}}_k=\boldsymbol{C}_k^\mathrm{T}\boldsymbol{Q}^{-1}\boldsymbol{z}_k+\check{\boldsymbol{P}}_k^{-1}\check{\boldsymbol{x}}_k.
+$$
+$$
+\begin{aligned}
+\hat{x}_{k}& =\hat{\boldsymbol{P}}_k\boldsymbol{C}_k^\mathrm{T}\boldsymbol{Q}^{-1}\boldsymbol{z}_k+\hat{\boldsymbol{P}}_k\check{\boldsymbol{P}}_k^{-1}\check{\boldsymbol{x}}_k \\
+&=K\boldsymbol{z}_k+\left(\boldsymbol{I}-\boldsymbol{K}\boldsymbol{C}_k\right)\check{\boldsymbol{x}}_k=\check{\boldsymbol{x}}_k+\boldsymbol{K}\left(\boldsymbol{z}_k-\boldsymbol{C}_k\check{\boldsymbol{x}}_k\right).
+\end{aligned}
+$$
+![QQ_1725871447753.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409091644803.png)
+#### 9.1.3 非线性系统和 EKF
+- 扩展卡尔曼滤波器
+	- 即把非高斯分布近似成高斯分布
+$$
+\boldsymbol{x}_k\approx f\left(\hat{\boldsymbol{x}}_{k-1},\boldsymbol{u}_k\right)+\left.\frac{\partial f}{\partial\boldsymbol{x}_{k-1}}\right|_{\tilde{\boldsymbol{x}}_{k-1}}\left(\boldsymbol{x}_{k-1}-\hat{\boldsymbol{x}}_{k-1}\right)+\boldsymbol{w}_k.
+$$
+$$
+\boldsymbol{F}=\left.\frac{\partial f}{\partial\boldsymbol{x}_{k-1}}\right|_{\hat{\boldsymbol{x}}_{k-1}}.
+$$
+$$
+z_k\approx h\left(\check{\boldsymbol{x}}_k\right)+\left.\frac{\partial h}{\partial\boldsymbol{x}_k}\right|_{\dot{\boldsymbol{x}}_k}\left(\boldsymbol{x}_k-\check{\boldsymbol{x}}_k\right)+\boldsymbol{n}_k.
+$$
+$$
+H=\left.\frac{\partial h}{\partial\boldsymbol{x}_k}\right|_{\check{\boldsymbol{x}}_k}.
+$$
+$$
+P\left(\boldsymbol{x}_k|\boldsymbol{x}_0,\boldsymbol{u}_{1:k},\boldsymbol{z}_{0:k-1}\right)=N(f\left(\hat{\boldsymbol{x}}_{k-1},\boldsymbol{u}_k\right),\boldsymbol{F}\hat{\boldsymbol{P}}_{k-1}\boldsymbol{F}^\mathrm{T}+\boldsymbol{R}_k).
+$$
+$$
+\check{\boldsymbol{x}}_k=f\left(\hat{\boldsymbol{x}}_{k-1},\boldsymbol{u}_k\right),\quad\check{\boldsymbol{P}}_k=\boldsymbol{F}\hat{\boldsymbol{P}}_{k-1}\boldsymbol{F}^\mathrm{T}+\boldsymbol{R}_k.
+$$
+$$
+P\left(\boldsymbol{z}_k|\boldsymbol{x}_k\right)=N(h\left(\check{\boldsymbol{x}}_k\right)+\boldsymbol{H}\left(\boldsymbol{x}_k-\check{\boldsymbol{x}}_k\right),Q_k).
+$$
+- 定义一个卡尔曼增益 $\displaystyle \boldsymbol{K}_{k}$
+$$
+K_{k}=\check{P}_{k}H^{\mathrm{T}}(H\check{P}_{k}H^{\mathrm{T}}+Q_{k})^{-1}.
+$$
+$$
+\hat{\boldsymbol{x}}_k=\check{\boldsymbol{x}}_k+\boldsymbol{K}_k\left(\boldsymbol{z}_k-h\left(\check{\boldsymbol{x}}_k\right)\right),\hat{\boldsymbol{P}}_k=\left(\boldsymbol{I}-\boldsymbol{K}_k\boldsymbol{H}\right)\check{\boldsymbol{P}}_k.
+$$
+#### 9.1.4 EKF 的讨论
+- 局限
+	- 假设了马尔可夫性，但是非线性优化是全体时间上的 SLAM (Full-SLAM)
+	- 有非线性误差（主要问题所在）
+	- 如果把路标也放进状态，存不下
+	- 没有异常检测机制
+### 9.2 BA 与图优化
+- Bundle Adjustment
+	- 从视觉图像中提炼出最有的 3 D 模型和相机参数，让光线最终收束到相机的光心
+#### 9.2.1 投影模型和 BA 代价函数
+$$
+P^{\prime}=Rp+t=[X^{\prime},Y^{\prime},Z^{\prime}]^\mathrm{T}.
+$$
+$$
+\boldsymbol{P}_{\mathrm{c}}=[u_{\mathrm{c}},v_{\mathrm{c}},1]^{\mathrm{T}}=[X^{\prime}/Z^{\prime},Y^{\prime}/Z^{\prime},1]^{\mathrm{T}}.
+$$
+$$
+\begin{cases}u_\mathrm{c}'=u_\mathrm{c}\left(1+k_1r_\mathrm{c}^2+k_2r_\mathrm{c}^4\right)\\v_\mathrm{c}'=v_\mathrm{c}\left(1+k_1r_\mathrm{c}^2+k_2r_\mathrm{c}^4\right)\end{cases}.
+$$
+$$
+\begin{cases}u_s=f_xu_\mathrm{c}'+c_x\\[2ex]v_s=f_yv_\mathrm{c}'+c_y\end{cases}.
+$$
+$$
+z=h(\boldsymbol{x},\boldsymbol{y}).
+$$
+![QQ_1725872841730.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409091707361.png)
+$$
+e=z-h(\boldsymbol{T},\boldsymbol{p}).
+$$
+$$
+z\overset{\mathrm{def}}{\operatorname*{=}}[u_s,v_s]^\mathrm{T}
+$$
+$$
+\frac12\sum_{i=1}^m\sum_{j=1}^n\|e_{ij}\|^2=\frac12\sum_{i=1}^m\sum_{j=1}^n\|z_{ij}-h(\boldsymbol{T}_i,\boldsymbol{p}_j)\|^2.
+$$
+#### 9.2.2 BA 的求解
+$$
+x=[T_1,\ldots,T_m,p_1,\ldots,p_n]^\mathrm{T}.
+$$
+$$
+\frac12\left\|f(\boldsymbol{x}+\Delta\boldsymbol{x})\right\|^2\approx\frac12\sum_{i=1}^m\sum_{j=1}^n\left\|\boldsymbol{e}_{ij}+\boldsymbol{F}_{ij}\Delta\boldsymbol{\xi}_i+\boldsymbol{E}_{ij}\Delta\boldsymbol{p}_j\right\|^2.
+$$
+$$
+x_{\mathfrak{c}}=[\boldsymbol{\xi}_1,\boldsymbol{\xi}_2,\ldots,\boldsymbol{\xi}_m]^{\mathrm{T}}\in\mathbb{R}^{6m}
+$$
+$$
+\boldsymbol{x}_p=[\boldsymbol{p}_1,\boldsymbol{p}_2,\ldots,\boldsymbol{p}_n]^\mathrm{T}\in\mathbb{R}^{3n}
+$$
+$$
+\frac12\left\|f(\boldsymbol{x}+\Delta\boldsymbol{x})\right\|^2=\frac12\left\|\boldsymbol{e}+\boldsymbol{F}\Delta\boldsymbol{x}_c+\boldsymbol{E}\Delta\boldsymbol{x}_p\right\|^2.
+$$
+$$
+\boldsymbol{J}=[\boldsymbol{F}\boldsymbol{E}].
+$$
+$$
+H=J^\mathrm{T}J=\begin{bmatrix}F^\mathrm{T}F&F^\mathrm{T}E\\E^\mathrm{T}F&E^\mathrm{T}E\end{bmatrix}.
+$$
+#### 9.2.3 稀疏性和边缘化
+$$
+J_{ij}(x)=\left(\mathbf{0}_{2\times6},\ldots\mathbf{0}_{2\times6},\frac{\partial\boldsymbol{e}_{ij}}{\partial\boldsymbol{T}_{i}},\mathbf{0}_{2\times6},\ldots\mathbf{0}_{2\times3},\ldots\mathbf{0}_{2\times3},\frac{\partial\boldsymbol{e}_{ij}}{\partial\boldsymbol{p}_{j}},\mathbf{0}_{2\times3},\ldots\mathbf{0}_{2\times3}\right).
+$$
+$$
+H=\sum_{i,j}J_{ij}^{\top}J_{ij},
+$$
+$$
+H=\begin{bmatrix}H_{11}&H_{12}\\\\H_{21}&H_{22}\end{bmatrix}.
+$$
+![QQ_1725873562244.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409091719496.png)
+![QQ_1725874123833.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409091728991.png)
+- 对于稀疏矩阵，我们用 Schur 消元（Marginalization）
+$$
+\begin{bmatrix}B&E\\E^\mathrm{T}&C\end{bmatrix}\begin{bmatrix}\Delta x_\mathrm{c}\\\Delta x_p\end{bmatrix}=\begin{bmatrix}v\\w\end{bmatrix}.
+$$
+$$
+\begin{bmatrix}I&-EC^{-1}\\0&I\end{bmatrix}\begin{bmatrix}B&E\\E^{\intercal}&C\end{bmatrix}\begin{bmatrix}\Delta x_\mathrm{c}\\\Delta x_p\end{bmatrix}=\begin{bmatrix}I&-EC^{-1}\\0&I\end{bmatrix}\begin{bmatrix}v\\w\end{bmatrix}.
+$$
+$$
+\begin{bmatrix}B-EC^{-1}E^\mathrm{T}&0\\E^\mathrm{T}&C\end{bmatrix}\begin{bmatrix}\Delta x_\mathrm{c}\\\Delta x_p\end{bmatrix}=\begin{bmatrix}v-EC^{-1}w\\\\w\end{bmatrix}.
+$$
+$$
+\begin{bmatrix}B-EC^{-1}E^\mathrm{T}\end{bmatrix}\Delta x_\mathrm{c}=v-EC^{-1}w.
+$$
+- 优势
+	- $\displaystyle \boldsymbol{C}$ 为对角块，逆比较容易解出
+- 非对角线上的非零矩阵块表示对应的两个相机变量之间存在共同观测的路标点，即共视（Co-visibility）
+- 
+#### 9.2.4 鲁棒核函数
+- Robust Kernel
+$$
+H(e)=\begin{cases}\frac{1}{2}e^2&\text{当}|e|\leqslant\delta,\\\\\delta\left(|e|-\frac{1}{2}\delta\right)&\text{其他}\end{cases}
+$$
+![QQ_1725898890681.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409100021134.png)
+### 9.3 实践: Ceres BA
+#### 9.3.1 BAL 数据集
+#### 9.3.2 Ceres BA 的书写
+### 9.4 实践: g 2 o 求解 BA
+### 9.5 小结
+
+
+
 ## 10 后端 2
 ## 11 回环检测
 ## 12 建图
