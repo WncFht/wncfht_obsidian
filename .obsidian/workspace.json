@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/Convex Optimization.md",
+                "file": "读书笔记/统计学习方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a2f3e69f1404aa81",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/Convex Optimization.md"
+                "file": "读书笔记/统计学习方法.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/Convex Optimization.md",
+                "file": "读书笔记/统计学习方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/Convex Optimization.md",
+                "file": "读书笔记/统计学习方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +160,10 @@
   },
   "active": "111984f06da72563",
   "lastOpenFiles": [
+    "读书笔记/Accelerated C++.md",
+    "读书笔记/Convex Optimization.md",
+    "读书笔记/视觉SLAM十四讲.md",
+    "读书笔记/圣经.md",
     "日记/2024.09.07.md",
     "日记/2024.09.08.md",
     "2024年高三-大一暑假总结.md",
@@ -166,12 +171,8 @@
     "入党申请书.md",
     "网址.md",
     "todo.md",
-    "读书笔记/Convex Optimization.md",
     "读书笔记/计算机组成与设计硬件软件接口.md",
-    "读书笔记/视觉SLAM十四讲.md",
-    "读书笔记/圣经.md",
     "Excalidraw/圣经 2024-09-09 21.34.11.excalidraw.md",
-    "读书笔记/Accelerated C++.md",
     "一些文章未分类/配置电脑.md",
     "读书笔记/概率论与数理统计 陈希孺.md",
     "读书笔记/统计学习方法.md",
