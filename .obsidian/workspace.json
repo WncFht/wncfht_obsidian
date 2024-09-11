@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "111984f06da72563",
+            "id": "cb8fc858c0881d50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/统计学习方法.md",
+                "file": "读书笔记/圣经.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a2f3e69f1404aa81",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/统计学习方法.md"
+                "file": "读书笔记/圣经.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/统计学习方法.md",
+                "file": "读书笔记/圣经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/统计学习方法.md",
+                "file": "读书笔记/圣经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,14 +157,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fab85c7a0ef85fea",
+  "active": "cb8fc858c0881d50",
   "lastOpenFiles": [
     "todo.md",
     "网址.md",
-    "读书笔记/统计学习方法.md",
-    "读书笔记/Accelerated C++.md",
+    "test.md",
     "读书笔记/Convex Optimization.md",
+    "读书笔记/统计学习方法.md",
     "读书笔记/视觉SLAM十四讲.md",
+    "读书笔记/Accelerated C++.md",
     "读书笔记/圣经.md",
     "日记/2024.09.07.md",
     "日记/2024.09.08.md",
@@ -186,7 +186,6 @@
     "Excalidraw/Drawing 2024-09-08 13.59.53.excalidraw.md",
     "公开课/Dive into deep learning/d2l_chapter3_线性神经网络.md",
     "公开课/Dive into deep learning/d2l_chapter2_预备知识.md",
-    "转专业/IEEE的经验规划.md",
     "attachment/QQ_1723426283414.png",
     "attachment/QQ_1723426340853.png",
     "attachment/QQ_1723426500087.png",

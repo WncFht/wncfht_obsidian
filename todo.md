@@ -37,6 +37,8 @@ slam 感觉像是三维建模，通过传感器信息构建基本地形，感兴
 	- [优化基本理论与方法 - 图灵班学习指南](https://zju-turing.github.io/TuringCourses/major_basic/convex_optimization)
 	- [我的凸优化学习之路 | 韩鼎の个人网站](https://deanhan.com/2018/01/17/convex/)
 	- [图灵班学习指南](https://zju-turing.github.io/TuringCourses/)
+	- [Linux C编程一站式学习](https://akaedu.github.io/book/)
+	- [zhihu.com/people/zengen-38](https://www.zhihu.com/people/zengen-38)
 
 
 
