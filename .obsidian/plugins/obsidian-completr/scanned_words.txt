@@ -3288,6 +3288,10 @@ city
 cycling
 composing
 constrained
+cost
+classification
+classificationd
+cell
 Computer
 Concepts
 ChatGpt
@@ -12960,6 +12964,7 @@ a`V
 awP
 another
 armCortex
+absolute
 Design
 Data
 Database
@@ -39236,6 +39241,9 @@ prTY
 pjOj
 pssS
 problems
+posterior
+precision
+perception
 Understanding
 USTC
 Unix
@@ -52228,6 +52236,7 @@ oGbZ
 o```
 openGL
 optimization
+over
 net
 nn
 need
@@ -55334,6 +55343,8 @@ nkE
 nyd
 nEho
 ndI
+nearest
+neighbor
 Network
 Nvidia
 NCNN
@@ -65159,6 +65170,7 @@ gGMp
 gGMt
 ggY
 gZb
+generative
 MLsystem
 MLsys
 Mlsys
@@ -78102,6 +78114,9 @@ lAQ
 lcAY
 lOrq
 lgwH
+loos
+logarithmic
+log
 GPU
 GPT
 Google
@@ -81136,6 +81151,7 @@ GMc
 GuA
 GGS
 Geometric
+Gram
 spring
 system
 size
@@ -84469,6 +84485,9 @@ stXm
 sPWe
 sOy
 swap
+structural
+structure
+separating
 torch
 training
 tune
@@ -87784,6 +87803,7 @@ tslTI
 tjW
 tTW
 tcvi
+tagging
 for
 fancy
 follow
@@ -90997,6 +91017,7 @@ fHXQ
 fKz
 fine
 fitting
+formed
 model
 mass
 mindspore
@@ -94289,6 +94310,7 @@ mrM
 mgXf
 mkdocs
 minimization
+maximum
 blog
 batchsize
 batch
@@ -116892,6 +116914,7 @@ hXBWA
 hSZ
 hCTT
 hXgx
+hyperplane
 up
 ucb
 universal
@@ -129650,6 +129673,9 @@ rZT
 rcyLXB
 rPR
 rxrf
+risk
+regularization
+recall
 xv
 xpy
 xlb
@@ -148809,6 +148835,7 @@ qep
 qSUe
 qvR
 qfyP
+quadratic
 zsm
 zn
 zO
@@ -154972,6 +154999,8 @@ edO`K
 ewAvy
 epppx
 estimation
+expected
+empirical
 vue
 vision
 variance
@@ -158070,6 +158099,7 @@ vSSS
 vAll
 vmware
 visibility
+validation
 debug
 design
 dead
@@ -161425,6 +161455,7 @@ dSn
 dLTYb
 dxm
 dIDX
+discriminative
 Youtube
 YOLO
 Your

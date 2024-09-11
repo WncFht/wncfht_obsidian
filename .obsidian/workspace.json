@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "读书笔记/统计学习方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a2f3e69f1404aa81",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "读书笔记/统计学习方法.md"
               }
             }
           },
@@ -107,6 +108,35 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "b01f17d3b6a011e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "读书笔记/统计学习方法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a77a8fd2948fdb75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "读书笔记/统计学习方法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
@@ -130,8 +160,8 @@
   },
   "active": "111984f06da72563",
   "lastOpenFiles": [
-    "网址.md",
     "todo.md",
+    "网址.md",
     "读书笔记/统计学习方法.md",
     "读书笔记/Accelerated C++.md",
     "读书笔记/Convex Optimization.md",
