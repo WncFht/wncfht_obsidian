@@ -39,6 +39,7 @@ slam 感觉像是三维建模，通过传感器信息构建基本地形，感兴
 	- [图灵班学习指南](https://zju-turing.github.io/TuringCourses/)
 	- [Linux C编程一站式学习](https://akaedu.github.io/book/)
 	- [zhihu.com/people/zengen-38](https://www.zhihu.com/people/zengen-38)
+	- [zhuanlan.zhihu.com/p/690582587](https://zhuanlan.zhihu.com/p/690582587)
 
 
 

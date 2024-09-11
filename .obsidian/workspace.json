@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/圣经.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/圣经.md"
+                "file": "todo.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/圣经.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/圣经.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,14 +159,14 @@
   },
   "active": "cb8fc858c0881d50",
   "lastOpenFiles": [
+    "读书笔记/统计学习方法.md",
+    "读书笔记/圣经.md",
     "todo.md",
     "网址.md",
     "test.md",
     "读书笔记/Convex Optimization.md",
-    "读书笔记/统计学习方法.md",
     "读书笔记/视觉SLAM十四讲.md",
     "读书笔记/Accelerated C++.md",
-    "读书笔记/圣经.md",
     "日记/2024.09.07.md",
     "日记/2024.09.08.md",
     "2024年高三-大一暑假总结.md",
