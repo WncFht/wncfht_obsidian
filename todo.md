@@ -40,6 +40,8 @@ slam 感觉像是三维建模，通过传感器信息构建基本地形，感兴
 	- [Linux C编程一站式学习](https://akaedu.github.io/book/)
 	- [zhihu.com/people/zengen-38](https://www.zhihu.com/people/zengen-38)
 	- [zhuanlan.zhihu.com/p/690582587](https://zhuanlan.zhihu.com/p/690582587)
+	- [GitHub - ivaquero/book-control: DR\_CAN 哔站系列课程笔记 + 代码](https://github.com/ivaquero/book-control)
+		- [zhuanlan.zhihu.com/p/642509853](https://zhuanlan.zhihu.com/p/642509853)
 
 
-
+{"uid":"tipl9400-5jq3-jpql-uta9-g3sx0e8a0mjs","license":"rz9d-650fdt-90dcee-2tr8"}

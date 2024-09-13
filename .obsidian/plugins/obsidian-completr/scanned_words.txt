@@ -3292,6 +3292,12 @@ cost
 classification
 classificationd
 cell
+clion
+catkin
+cloud
+ceres
+candidate
+codeforces
 Computer
 Concepts
 ChatGpt
@@ -6521,6 +6527,11 @@ Cortex
 Coarse
 Cross
 CART
+Comsol
+Controller
+CubeMX
+Citadel
+CitSec
 Organazation
 OSTEP
 Operating
@@ -9706,6 +9717,8 @@ OfSKt
 OmI
 Oep
 Optical
+Ozone
+Over
 and
 all
 amp
@@ -12967,6 +12980,8 @@ another
 armCortex
 absolute
 approximation
+ansys
+akuna
 Design
 Data
 Database
@@ -19545,6 +19560,9 @@ THL
 TcRp
 Tmi
 TaG
+Trading
+Teaser
+Trader
 Hardware
 HPC
 Hulu
@@ -22793,6 +22811,7 @@ HAub
 HgSG
 HqcZ
 Horn
+HFA
 Software
 Structure
 System
@@ -26233,6 +26252,13 @@ SRAM
 Schunck
 Schur
 SyHiGe
+SolidWorks
+STM
+SEGGER
+SSH
+ScreenToGif
+Solidworks
+Securities
 Interface
 Isomorphic
 Inference
@@ -32596,6 +32622,14 @@ Azj
 Adjustment
 Approximation
 Appendx
+Ansys
+Altium
+Again
+AnaConda
+AutoCAD
+ANSYS
+APDL
+Adams
 java
 jyy
 js
@@ -35990,6 +36024,9 @@ jch
 jDG
 jlq
 jYe
+jlink
+jerbrain
+jpql
 proj
 python
 paper
@@ -39250,6 +39287,8 @@ partition
 pruning
 plus
 pro
+professional
+preference
 Understanding
 USTC
 Unix
@@ -45715,6 +45754,7 @@ LXk
 LpY
 Lucas
 Laplace
+Lisp
 Kernel
 Kernal
 Keys
@@ -49000,6 +49040,7 @@ Kez
 K`Q
 Kanasde
 Kanade
+KEIL
 os
 of
 on
@@ -52245,6 +52286,7 @@ openGL
 optimization
 over
 optimal
+option
 net
 nn
 need
@@ -55353,6 +55395,8 @@ nEho
 ndI
 nearest
 neighbor
+nomachine
+night
 Network
 Nvidia
 NCNN
@@ -58481,6 +58525,9 @@ NAZg
 Nucc
 NGtiR
 Normalized
+Neob
+Nebo
+Numpy
 Programming
 Parallel
 PLAM
@@ -61927,6 +61974,9 @@ PkH
 Photometric
 Predict
 PRIME
+PyTorch
+PowerPoint
+Pandas
 games
 go
 google
@@ -65181,6 +65231,10 @@ ggY
 gZb
 generative
 gain
+gazebo
+goat
+gsm
+game
 MLsystem
 MLsys
 Mlsys
@@ -68429,6 +68483,11 @@ Mykz
 MKd
 Marginalization
 Minkowski
+Miniconda
+MyScript
+Mathematica
+Market
+Making
 JYY
 Jim
 Jina
@@ -71687,6 +71746,7 @@ JkJw
 JFx
 JuaC
 JEj
+Julia
 workload
 wfn
 work
@@ -74860,6 +74920,9 @@ wfoY
 weAB
 wUk
 wifi
+windows
+wolfram
+wireshark
 lab
 lightning
 latex
@@ -78131,6 +78194,11 @@ logarithmic
 log
 least
 logistic
+learn
+library
+license
+live
+lcx
 GPU
 GPT
 Google
@@ -81167,6 +81235,9 @@ GGS
 Geometric
 Gram
 Gini
+Gif
+Great
+Game
 spring
 system
 size
@@ -84507,6 +84578,11 @@ scan
 smoothing
 splitting
 squares
+segger
+simscape
+simulink
+sklearn
+summer
 torch
 training
 tune
@@ -87824,6 +87900,12 @@ tTW
 tcvi
 tagging
 theta
+typora
+tipl
+trader
+teaser
+trivia
+trading
 for
 fancy
 follow
@@ -91039,6 +91121,7 @@ fine
 fitting
 formed
 frac
+full
 model
 mass
 mindspore
@@ -94334,6 +94417,11 @@ minimization
 maximum
 majority
 mutual
+microsoft
+minicom
+matlab
+markdown
+making
 blog
 batchsize
 batch
@@ -97677,6 +97765,9 @@ bccoH
 bHM
 bible
 binomial
+bootloader
+brain
+behavior
 is
 inference
 in
@@ -110248,6 +110339,8 @@ FbJu
 FastMATH
 Flow
 Full
+FDCAN
+Field
 Quant
 Qa
 QR
@@ -123267,6 +123360,7 @@ kyZ
 kPr
 kGGR
 kHcn
+keil
 BladeDISC
 Bagua
 Blog
@@ -126508,6 +126602,8 @@ BOXWCR
 Batch
 Bundle
 BAL
+BING
+Brain
 rust
 recording
 ref
@@ -129702,6 +129798,7 @@ regularization
 recall
 reduce
 rule
+rviz
 xv
 xpy
 xlb
@@ -135968,6 +136065,8 @@ Eqt
 ESu
 ECi
 Equality
+Ether
+ESP
 Raft
 Rocksdb
 Reader
@@ -139261,6 +139360,8 @@ RYD
 RPu
 Reprojection
 Robust
+Ruby
+Roboanalyzer
 WiscKey
 Web
 WIFI
@@ -142637,6 +142738,9 @@ WVBY
 Wzo
 WWa
 WuK
+Webots
+Wolfram
+Wall
 Values
 VP
 Vz
@@ -145790,6 +145894,10 @@ VKq
 Vel
 VWRT
 VaO
+VSCode
+VOFA
+VMware
+VScode
 qq
 questions
 query
@@ -148862,6 +148970,7 @@ qSUe
 qvR
 qfyP
 quadratic
+quant
 zsm
 zn
 zO
@@ -155027,6 +155136,8 @@ epppx
 estimation
 expected
 empirical
+edu
+electron
 vue
 vision
 variance
@@ -158128,6 +158239,7 @@ visibility
 validation
 voting
 varphi
+viewer
 debug
 design
 dead
@@ -161486,6 +161598,8 @@ dIDX
 discriminative
 distamce
 decision
+daplink
+dcee
 Youtube
 YOLO
 Your
