@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机系统基础.md",
+                "file": "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bce6ca58e6217af2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "深入理解计算机系统.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -70,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a2f3e69f1404aa81",
@@ -98,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机系统基础.md"
+                "file": "深入理解计算机系统.md"
               }
             }
           },
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机系统基础.md",
+                "file": "深入理解计算机系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机系统基础.md",
+                "file": "深入理解计算机系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,10 +170,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fab85c7a0ef85fea",
+  "active": "bce6ca58e6217af2",
   "lastOpenFiles": [
+    "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
+    "深入理解计算机系统.md",
+    "公开课/CSAPP/csapp相关资源.md",
+    "读书笔记/计算机系统基础.md",
     "量化/北大量化4.md",
-    "计算机系统基础.md",
     "todo.md",
     "电脑配置.md",
     "读书笔记/视觉SLAM十四讲.md",
@@ -185,9 +200,6 @@
     "读书笔记/计算机组成与设计硬件软件接口.md",
     "Excalidraw/圣经 2024-09-09 21.34.11.excalidraw.md",
     "一些文章未分类/配置电脑.md",
-    "读书笔记/Elm Gudie.md",
-    "读书笔记/survivesjtu_note.md",
-    "读书笔记/STLC开始的类型论入门.md",
     "公开课/games101",
     "attachment/QQ_1723426283414.png",
     "attachment/QQ_1723426340853.png",
