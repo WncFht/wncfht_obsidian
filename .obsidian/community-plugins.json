@@ -13,5 +13,6 @@
   "obsidian-local-rest-api",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "remember-cursor-position"
 ]

@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68f218b2aaac3f60",
+            "id": "27f414723dc6f2da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
+                "file": "日记/2024.09.08.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bce6ca58e6217af2",
+            "id": "cf40636955e4ba55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深入理解计算机系统.md",
+                "file": "2024.09.13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -62,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "安装",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,25 +109,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深入理解计算机系统.md"
+                "file": "日记/2024.09.08.md"
               }
             }
           },
           {
-            "id": "fab85c7a0ef85fea",
+            "id": "a77a8fd2948fdb75",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/2024.09.08.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
-            "id": "b01f17d3b6a011e5",
+            "id": "94e64c801fdbd62b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深入理解计算机系统.md",
+                "file": "日记/2024.09.08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,19 +143,15 @@
             }
           },
           {
-            "id": "a77a8fd2948fdb75",
+            "id": "7543aa36b0e205f5",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "深入理解计算机系统.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,36 +169,36 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bce6ca58e6217af2",
+  "active": "27f414723dc6f2da",
   "lastOpenFiles": [
-    "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
-    "深入理解计算机系统.md",
-    "公开课/CSAPP/csapp相关资源.md",
-    "读书笔记/计算机系统基础.md",
-    "量化/北大量化4.md",
+    "2024.09.13.md",
+    "日记/2024.09.08.md",
     "todo.md",
     "电脑配置.md",
+    "网址.md",
+    "一些文章未分类/配置电脑.md",
     "读书笔记/视觉SLAM十四讲.md",
+    "读书笔记/深入理解计算机系统.md",
+    "读书笔记/计算机组成与设计硬件软件接口.md",
+    "读书笔记/计算机系统基础.md",
+    "读书笔记/概率论与数理统计 陈希孺.md",
+    "公开课/CSAPP/csapp相关资源.md",
+    "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
+    "量化/北大量化4.md",
     "个人路线 1.0.0.md",
     "robomaster.md",
-    "读书笔记/概率论与数理统计 陈希孺.md",
     "读书笔记/圣经.md",
     "机器人专业的必学软件有哪些？.md",
     "/机器人专业的必学软件有哪些？.md",
     "内含你的账户信息，请勿再遗失 1.json",
     "内含你的账户信息，请勿再遗失.json",
-    "2024年高三-大一暑假总结.md",
-    "网址.md",
+    "日记/2024年高三-大一暑假总结.md",
     "读书笔记/统计学习方法.md",
     "test.md",
     "读书笔记/Convex Optimization.md",
     "读书笔记/Accelerated C++.md",
     "日记/2024.09.07.md",
-    "日记/2024.09.08.md",
     "入党申请书.md",
-    "读书笔记/计算机组成与设计硬件软件接口.md",
-    "Excalidraw/圣经 2024-09-09 21.34.11.excalidraw.md",
-    "一些文章未分类/配置电脑.md",
     "公开课/games101",
     "attachment/QQ_1723426283414.png",
     "attachment/QQ_1723426340853.png",

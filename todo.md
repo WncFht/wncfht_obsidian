@@ -42,6 +42,17 @@ slam 感觉像是三维建模，通过传感器信息构建基本地形，感兴
 	- [zhuanlan.zhihu.com/p/690582587](https://zhuanlan.zhihu.com/p/690582587)
 	- [GitHub - ivaquero/book-control: DR\_CAN 哔站系列课程笔记 + 代码](https://github.com/ivaquero/book-control)
 		- [zhuanlan.zhihu.com/p/642509853](https://zhuanlan.zhihu.com/p/642509853)
+	- [状态估计/控制算法实践 - 知乎](https://www.zhihu.com/column/c_1296379521394929664)
+	- [Links • Arthals' ink](https://arthals.ink/links)
+	- [#个人总结 - BlogFinder](https://bf.zzxworld.com/t/summary)
+	- Rust
+	- [Fundamentals-Of-Artificial-Intelligence-2024Spring-PKU/Note at main · zhuozhiyongde/Fundamentals-Of-Artificial-Intelligence-2024Spring-PKU · GitHub](https://github.com/zhuozhiyongde/Fundamentals-Of-Artificial-Intelligence-2024Spring-PKU/blob/main/Note/)
+	- [GitHub中文社区 | GitHub中文网首页](https://www.github-zh.com/)
+	- github Action
+		- [GitHub Action 快速入门课程 | GitHub 中文社区](https://www.github-zh.com/getting-started/hello-github-actions)
+		- [GitHub Actions 快速入门 - GitHub 文档](https://docs.github.com/zh/actions/writing-workflows/quickstart)
+		- [zhuanlan.zhihu.com/p/164744104#:\~:text=Github Act](https://zhuanlan.zhihu.com/p/164744104#:~:text=Github%20Act)
+		- [使用 GitHub Workflow 快速构建和部署 MkDocs 项目文档-CSDN博客](https://blog.csdn.net/li_yatao/article/details/141035509#:~:text=%E9%80%9A%E8%BF%87%E7%BC%96%E5%86%99%20Workf)
 
 
 {"uid":"tipl9400-5jq3-jpql-uta9-g3sx0e8a0mjs","license":"rz9d-650fdt-90dcee-2tr8"}
