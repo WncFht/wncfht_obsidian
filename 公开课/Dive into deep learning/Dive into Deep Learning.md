@@ -1,12 +1,15 @@
 # Dive into Deep Learning
+
 ## 1 引言
 
 ## 2 预备知识
+
 ### 2.1 数据操作
 
-* tensor
-* ndarray (MXNet)
-* Tensor (TensorFlow)
+- tensor
+- ndarray (MXNet)
+- Tensor (TensorFlow)
+
 ```
 x = torch.arrange(12)
 x.shape
@@ -16,51 +19,54 @@ torch.zeros((2, 3, 4))
 torch.ones((2, 3, 4))
 torch.randn(3, 4)
 ```
-* elementwise：
-	* +
-	* -
-	* *
-	* /
-	* exp ()
-	* ==
 
-* concatenate
+- elementwise：
+	- +
+	- -
+	- -
+	- /
+	- exp ()
+	- ==
+- concatenate
+
 ```
 torch.cat((X, Y), dim = 0) # 竖着加
 torch.cat((X, Y), dim = 1) # 横着加
 x.sum()
 ```
-* broadcasting mechanism
-	* 复制拓展到形状一致后相加
-* 索引+切片
-* 切片保持地址不变：节省内存
-* ndarry <-> Tensor
-* item ()
+
+- broadcasting mechanism
+	- 复制拓展到形状一致后相加
+- 索引+切片
+- 切片保持地址不变：节省内存
+- ndarry <-> Tensor
+- item ()
 
 ### 2.2 数据预处理
 
 pandas
 
-* read_csv ()
-* NaN
-	* fillna (inputs.mean ())
-	* np.array (inputs. to_numpy (dtype = float))
+- read_csv ()
+- NaN
+	- fillna (inputs.mean ())
+	- np.array (inputs. to_numpy (dtype = float))
+
 ### 2.3 线性代数
 
-* scalar
-* variable
-* space
-* element / component
-* dimension 
-	* len ()
-	* shape
-* square matrix
-* transpose
-	* A.T
-* symmetric matrix
-	* A == A.T
-* channel
-* Hadamard product
+- scalar
+- variable
+- space
+- element / component
+- dimension 
+	- len ()
+	- shape
+- square matrix
+- transpose
+	- A.T
+- symmetric matrix
+	- A == A.T
+- channel
+- Hadamard product
 
 $$
 \begin{split}\mathbf{A} \odot \mathbf{B} =
@@ -71,47 +77,64 @@ a_{21}  b_{21} & a_{22}  b_{22} & \dots  & a_{2n}  b_{2n} \\
 a_{m1}  b_{m1} & a_{m2}  b_{m2} & \dots  & a_{mn}  b_{mn}
 \end{bmatrix}.\end{split}
 $$
-* A.sum (axis = 0) # 竖着求和
-* A.sum (axis = [0, 1]) = A.sum ()
-* A.mean () = A.sum () / A.size ()
-* A.cumsum (axis = 0)
-* dot product
-	* torch.dot (x, y) = torch.sum (x * y)
-	* weighted average
-* matrix-vector product
-	* torch.mv (A, x)
-* matrix-matric multiplication
-	* torch.mm (A, B)
-* norm
+
+- A.sum (axis = 0) # 竖着求和
+- A.sum (axis = [0, 1]) = A.sum ()
+- A.mean () = A.sum () / A.size ()
+- A.cumsum (axis = 0)
+- dot product
+	- torch.dot (x, y) = torch.sum (x * y)
+	- weighted average
+- matrix-vector product
+	- torch.mv (A, x)
+- matrix-matric multiplication
+	- torch.mm (A, B)
+- norm
 	1. $f(\alpha \mathbf{x}) = |\alpha| f(\mathbf{x}).$
 	2. $(\mathbf{x} + \mathbf{y}) \leq f(\mathbf{x}) + f(\mathbf{y}).$
 	3. $f(\mathbf{x}) \geq 0.$
 
 ### 2.4 微积分
+
 #### 2.4.1 导数和微分
+
 #### 2.4.2 偏导数
 
 #### 2.4.3 梯度
+
 $$
 \nabla_{\mathbf{x}} f(\mathbf{x}) = \bigg[\frac{\partial f(\mathbf{x})}{\partial x_1}, \frac{\partial f(\mathbf{x})}{\partial x_2}, \ldots, \frac{\partial f(\mathbf{x})}{\partial x_n}\bigg]^\top,
 $$
 
-$\nabla_{\mathbf{x}} \mathbf{A} \mathbf{x} = \mathbf{A}^\top$
+$$
+\nabla_{\mathbf{x}} \mathbf{A} \mathbf{x} = \mathbf{A}^\top
+$$
 
-$\nabla_{\mathbf{x}} \mathbf{x}^\top \mathbf{A} = \mathbf{A}$
+$$
+\nabla_{\mathbf{x}} \mathbf{x}^\top \mathbf{A} = \mathbf{A}
+$$
 
-$\nabla_{\mathbf{x}} \mathbf{x}^\top \mathbf{A} \mathbf{x} = (\mathbf{A} + \mathbf{A}^\top)\mathbf{x}$
+$$
+\nabla_{\mathbf{x}} \mathbf{x}^\top \mathbf{A} \mathbf{x} = (\mathbf{A} + \mathbf{A}^\top)\mathbf{x}
+$$
 
-$\nabla_{\mathbf{x}} \|\mathbf{x} \|^2 = \nabla_{\mathbf{x}} \mathbf{x}^\top \mathbf{x} = 2\mathbf{x}$
+$$
+\nabla_{\mathbf{x}} \|\mathbf{x} \|^2 = \nabla_{\mathbf{x}} \mathbf{x}^\top \mathbf{x} = 2\mathbf{x}
+$$
 
-$\nabla_{\mathbf{X}} \|\mathbf{X} \|_F^2 = 2\mathbf{X}$
+$$
+\nabla_{\mathbf{X}} \|\mathbf{X} \|_F^2 = 2\mathbf{X}
+$$
 
 #### 2.4.4 链式法则
+
 #### 2.4.5 小结
+
 ### 2.5 自动微分（automatic differentiation）
 
-* computational graph
-* backpropagate
+- computational graph
+- backpropagate
+
 ```
 x.requires_grad_(True)  # 等价于x=torch.arange(4.0,requires_grad=True)
 x.grad  # 默认值是None
@@ -132,6 +155,7 @@ y = x * x
 y.sum().backward()
 x.grad
 ```
+
 #### 2.5.2 分离计算
 
 ```
@@ -148,75 +172,88 @@ x.grad == u
 
 #### 2.6.1 基本概率论
 
-* sampling
-* distribution
-* multinomial distribution
+- sampling
+- distribution
+- multinomial distribution
+
 ```
 fair_probs = torch.ones([6]) / 6
 multinomial.Multinomial(10, fair_probs).sample() # 多个样本
 ```
+
 #### 2.6.2 处理多个随机变量
 
-* joint probability
-* conditional probability
-* Bayes’ theorem
+- joint probability
+- conditional probability
+- Bayes’ theorem
+
 $$
 P(A \mid B) = \frac{P(B \mid A) P(A)}{P(B)}. 
 $$
-* 其中 P (A, B) 是一个联合分布 (joint distribution)， P (A∣B) 是一个条件分布 (conditional distribution)
-* marginalization
-	* marginal probability
-	* marginal distribution
-* conditionally independent
- $$ 
- P(A, B \mid C) = P(A \mid C)P(B \mid C) 
+
+- 其中 P (A, B) 是一个联合分布 (joint distribution)， P (A∣B) 是一个条件分布 (conditional distribution)
+- marginalization
+	- marginal probability
+	- marginal distribution
+- conditionally independent
+
  $$
-$$ 
+ P(A, B \mid C) = P(A \mid C)P(B \mid C) 
+$$
+
+$$
 A \perp B \mid C 
 $$
-* expectation
-$$ 
+
+- expectation
+
+$$
 E[X] = \sum_{x} x P(X = x). 
 $$
-$$ 
+
+$$
 E_{x \sim P}[f(x)] = \sum_x f(x) P(x). 
 $$
-* standard deviation
-$$ 
+
+- standard deviation
+
+$$
 \mathrm{Var}[X] = E\left[(X - E[X])^2\right] =
 E[X^2] - E[X]^2. 
 $$
+
 $$
 \mathrm{Var}[f(x)] = E\left[\left(f(x) - E[f(x)]\right)^2\right]. 
 $$
 
 ## 3 线性神经网络
+
 ### 3.1 线性回归
 
 #### 3.1.1 线性回归的基本元素
-* regression
-* prediction / inference
-* training set
-* sample / data point / data instance
-* label / target
-* feature / covariate
+
+- regression
+- prediction / inference
+- training set
+- sample / data point / data instance
+- label / target
+- feature / covariate
 
 $$
 \mathrm{price} = w_{\mathrm{area}} \cdot \mathrm{area} + w_{\mathrm{age}} \cdot \mathrm{age} + b. 
 $$
 
-* weight
-* bias / offset / intercept
-* affine transformation
-	* linear transformation
-	* translation
-* model parameters
-* loss function
+- weight
+- bias / offset / intercept
+- affine transformation
+	- linear transformation
+	- translation
+- model parameters
+- loss function
 
-$$ 
+$$
 l^{(i)}(\mathbf{w}, b) = \frac{1}{2} \left(\hat{y}^{(i)} - y^{(i)}\right)^2.
 $$
-
 
 $$
 L(\mathbf{w}, b) =\frac{1}{n}\sum_{i=1}^n l^{(i)}(\mathbf{w}, b) =\frac{1}{n} \sum_{i=1}^n \frac{1}{2}\left(\mathbf{w}^\top \mathbf{x}^{(i)} + b - y^{(i)}\right)^2.
@@ -230,9 +267,9 @@ $$
 \mathbf{w}^{*} = (\mathbf X^\top \mathbf X)^{-1}\mathbf X^\top \mathbf{y}.
 $$
 
-* analytical solution
-* gradient descent
-	* minibatch stochastic gradient descent
+- analytical solution
+- gradient descent
+	- minibatch stochastic gradient descent
 
 $$
 (\mathbf{w},b) \leftarrow (\mathbf{w},b) - \frac{\eta}{|\mathcal{B}|} \sum_{i \in \mathcal{B}} \partial_{(\mathbf{w},b)} l^{(i)}(\mathbf{w},b).
@@ -240,28 +277,31 @@ $$
 
 1. 初始化模型参数的值，如随机初始化
 2. 从数据集中随机抽取小批量样本且在负梯度的方向上更新参数，并不断迭代这一步骤
-* hyperparameter
-	* $|\mathcal{B}|$: batch size
-	* $\eta$: learning rate
-* hyperparameter tuning
-* validationg dataset
-* generalization
+- hyperparameter
+	- $|\mathcal{B}|$: batch size
+	- $\eta$: learning rate
+- hyperparameter tuning
+- validationg dataset
+- generalization
 
 #### 3.1.2 矢量化加速
-* 矢量化代码
+
+- 矢量化代码
 
 #### 3.1.3 正态分布与平方损失
-* normal distribution / Gaussian distribution
+
+- normal distribution / Gaussian distribution
 
 $$
 p(x) = \frac{1}{\sqrt{2 \pi \sigma^2}} \exp\left(-\frac{1}{2 \sigma^2} (x - \mu)^2\right).
 $$
 
-
 $$
 y = \mathbf{w}^\top \mathbf{x} + b + \epsilon,
 $$
+
 其中 $\epsilon \sim \mathcal{N}(0, \sigma^2)$. 因此 y 的 likelihood:
+
 $$
 P(y \mid \mathbf{x}) = \frac{1}{\sqrt{2 \pi \sigma^2}} \exp\left(-\frac{1}{2 \sigma^2} (y - \mathbf{w}^\top \mathbf{x} - b)^2\right).
 $$
@@ -275,10 +315,12 @@ $$
 $$
 
 #### 3.1.4 从线性回归到神经网络
-* feature dimensionality
-* fully-connected layer / dense layer
+
+- feature dimensionality
+- fully-connected layer / dense layer
 
 ### 3.2 线性回归的从零开始实现
+
 ```
 %matplotlib inline
 import random
@@ -387,15 +429,19 @@ print('b的估计误差：', true_b - b)
 ```
 
 ### 3.4 softmax 回归
+
 #### 3.4.1 分类问题
-* one-hot encoding
+
+- one-hot encoding
+
 $$
 y \in \{(1, 0, 0), (0, 1, 0), (0, 0, 1)\}.
 $$
 
 #### 3.4.2 网络架构
-* affine function
-* logit
+
+- affine function
+- logit
 
 $$
 \begin{split}\begin{aligned}
@@ -406,11 +452,13 @@ o_3 &= x_1 w_{31} + x_2 w_{32} + x_3 w_{33} + x_4 w_{34} + b_3.
 $$
 
 #### 3.4.3 全连接层的参数开销
+
 不知道是什么东西
 
 #### 3.4.4 softmax 运算
-* calibration
-* choice model
+
+- calibration
+- choice model
 
 $$
 \hat{\mathbf{y}} = \mathrm{softmax}(\mathbf{o})\quad \text{其中}\quad \hat{y}_j = \frac{\exp(o_j)}{\sum_k \exp(o_k)}
@@ -420,7 +468,7 @@ $$
 \operatorname*{argmax}_j \hat y_j = \operatorname*{argmax}_j o_j.
 $$
 
-* linear model
+- linear model
 
 #### 3.4.5 小批样本的矢量化
 
@@ -443,7 +491,7 @@ $$
 l(\mathbf{y}, \hat{\mathbf{y}}) = - \sum_{j=1}^q y_j \log \hat{y}_j.
 $$
 
-* cross-entropy loss
+- cross-entropy loss
 
 $$
 \begin{split}\begin{aligned}
@@ -458,17 +506,20 @@ $$
 $$
 
 #### 3.4.7 信息论基础
-* information theory
-* entropy
+
+- information theory
+- entropy
 
 $$
 H[P] = \sum_j - P(j) \log P(j).
 $$
 
 #### 3.4.8 模型预测和评估
-* accuracy
+
+- accuracy
 
 ### 3.5 图像分类数据集
+
 ```
 %matplotlib inline
 import torch
@@ -542,6 +593,7 @@ for X, y in train_iter:
 ```
 
 ### 3.6 softmax 回归的从零开始实现
+
 ```
 import torch
 from IPython import display
@@ -711,6 +763,7 @@ predict_ch3(net, test_iter) # 预测
 ```
 
 ### 3.7 softmax 回归的简洁实现
+
 ```
 import torch
 from torch import nn
@@ -744,6 +797,7 @@ $$
 & = o_j - \max(o_k) -\log{\left( \sum_k \exp(o_k - \max(o_k)) \right)}.
 \end{aligned}\end{split}
 $$
+
 ```
 loss = nn.CrossEntropyLoss(reduction='none') # LogSumExp技巧
 

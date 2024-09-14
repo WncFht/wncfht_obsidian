@@ -126,7 +126,7 @@
       "default-language": ""
     },
     "emphasis-style": {
-      "enabled": true,
+      "enabled": false,
       "style": "asterisk"
     },
     "no-bare-urls": {
@@ -134,7 +134,7 @@
       "no-bare-uris": false
     },
     "ordered-list-style": {
-      "enabled": true,
+      "enabled": false,
       "number-style": "ascending",
       "list-end-style": "."
     },
@@ -149,7 +149,7 @@
       "double-quote-style": "\"\""
     },
     "remove-consecutive-list-markers": {
-      "enabled": true
+      "enabled": false
     },
     "remove-empty-list-markers": {
       "enabled": true
