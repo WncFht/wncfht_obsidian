@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人路线 1.0.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c09d5df8d0e72ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/统计学习方法.md",
+                "file": "入党申请书.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人路线 1.0.0.md"
+                "file": "入党申请书.md"
               }
             }
           },
@@ -119,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人路线 1.0.0.md",
+                "file": "入党申请书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人路线 1.0.0.md",
+                "file": "入党申请书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,34 +159,34 @@
   },
   "active": "27f414723dc6f2da",
   "lastOpenFiles": [
+    "电脑配置.md",
+    "公开课/cs61b/cs61b.md",
+    "入党申请书.md",
+    "网址.md",
+    "test.md",
+    "robomaster.md",
     "读书笔记/统计学习方法.md",
-    "个人路线 1.0.0.md",
+    "公开课/cs61a/COMPOSING PROGRAMS.md",
+    "公开课/cs61a/cs61a.md",
+    "读书笔记/概率论与数理统计 陈希孺.md",
+    "读书笔记/计算机系统基础.md",
+    "读书笔记/计算机组成与设计硬件软件接口.md",
+    "读书笔记/深入理解计算机系统.md",
+    "读书笔记/圣经.md",
+    "读书笔记/视觉SLAM十四讲.md",
+    "todo.md",
+    "日记/2024.09.13.md",
     "公开课/CSAPP/csapp相关资源.md",
+    "个人路线 1.0.0.md",
     "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
     "读书笔记/STLC开始的类型论入门.md",
     "公开课/Dive into deep learning/Dive into Deep Learning.md",
-    "读书笔记/深入理解计算机系统.md",
-    "读书笔记/视觉SLAM十四讲.md",
-    "网址.md",
-    "test.md",
-    "todo.md",
-    "robomaster.md",
-    "2024.09.13.md",
     "日记/2024.09.08.md",
-    "电脑配置.md",
     "一些文章未分类/配置电脑.md",
-    "读书笔记/计算机组成与设计硬件软件接口.md",
-    "读书笔记/计算机系统基础.md",
-    "读书笔记/概率论与数理统计 陈希孺.md",
     "量化/北大量化4.md",
-    "读书笔记/圣经.md",
     "机器人专业的必学软件有哪些？.md",
-    "/机器人专业的必学软件有哪些？.md",
     "内含你的账户信息，请勿再遗失 1.json",
     "内含你的账户信息，请勿再遗失.json",
-    "日记/2024年高三-大一暑假总结.md",
-    "读书笔记/Convex Optimization.md",
-    "读书笔记/Accelerated C++.md",
     "公开课/games101",
     "attachment/QQ_1723426283414.png",
     "attachment/QQ_1723426340853.png",

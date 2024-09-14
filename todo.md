@@ -6,7 +6,6 @@
 
 slam 感觉像是三维建模，通过传感器信息构建基本地形，感兴趣的话可以去学院里找 byt 和 rzq 教授聊聊，这俩研究领域都涉及 slam
 
-
 - 军训结束之前:
 	- 入党申请书
 	- accelerate C++
@@ -54,6 +53,5 @@ slam 感觉像是三维建模，通过传感器信息构建基本地形，感兴
 		- [zhuanlan.zhihu.com/p/164744104#:\~:text=Github Act](https://zhuanlan.zhihu.com/p/164744104#:~:text=Github%20Act)
 		- [使用 GitHub Workflow 快速构建和部署 MkDocs 项目文档-CSDN博客](https://blog.csdn.net/li_yatao/article/details/141035509#:~:text=%E9%80%9A%E8%BF%87%E7%BC%96%E5%86%99%20Workf)
 	- mdbook
-
 
 {"uid":"tipl9400-5jq3-jpql-uta9-g3sx0e8a0mjs","license":"rz9d-650fdt-90dcee-2tr8"}
