@@ -57,5 +57,7 @@ slam 感觉像是三维建模，通过传感器信息构建基本地形，感兴
 		- [zhuanlan.zhihu.com/p/164744104#:\~:text=Github Act](https://zhuanlan.zhihu.com/p/164744104#:~:text=Github%20Act)
 		- [使用 GitHub Workflow 快速构建和部署 MkDocs 项目文档-CSDN博客](https://blog.csdn.net/li_yatao/article/details/141035509#:~:text=%E9%80%9A%E8%BF%87%E7%BC%96%E5%86%99%20Workf)
 	- mdbook
+	- web
+		- [【UW–M CS571】【Web技术】【中英字幕】（2023 Fall）\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1vK421y7aY)
 
 {"uid": "tipl9400-5jq3-jpql-uta9-g3sx0e8a0mjs","license": "rz9d-650fdt-90dcee-2tr8"}
