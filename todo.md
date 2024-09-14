@@ -17,6 +17,7 @@ slam 感觉像是三维建模，通过传感器信息构建基本地形，感兴
 - 以后
 	- C++
 		- 看看咸鱼暄的 blog
+		- [简介 - Effective Modern C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
 		- 代码随想录
 	- 看看 csapp
 	- 看看概率论
@@ -41,7 +42,7 @@ slam 感觉像是三维建模，通过传感器信息构建基本地形，感兴
 	- [zhuanlan.zhihu.com/p/690582587](https://zhuanlan.zhihu.com/p/690582587)
 	- [GitHub - ivaquero/book-control: DR\_CAN 哔站系列课程笔记 + 代码](https://github.com/ivaquero/book-control)
 		- [zhuanlan.zhihu.com/p/642509853](https://zhuanlan.zhihu.com/p/642509853)
-	- [状态估计/控制算法实践 - 知乎](https://www.zhihu.com/column/c_1296379521394929664)
+		- [状态估计/控制算法实践 - 知乎](https://www.zhihu.com/column/c_1296379521394929664)
 	- [Links • Arthals' ink](https://arthals.ink/links)
 	- [#个人总结 - BlogFinder](https://bf.zzxworld.com/t/summary)
 	- Rust
