@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024.09.08.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024.09.08.md"
+                "file": "todo.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024.09.08.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024.09.08.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,11 +171,11 @@
   },
   "active": "27f414723dc6f2da",
   "lastOpenFiles": [
-    "2024.09.13.md",
+    "网址.md",
     "日记/2024.09.08.md",
+    "2024.09.13.md",
     "todo.md",
     "电脑配置.md",
-    "网址.md",
     "一些文章未分类/配置电脑.md",
     "读书笔记/视觉SLAM十四讲.md",
     "读书笔记/深入理解计算机系统.md",
