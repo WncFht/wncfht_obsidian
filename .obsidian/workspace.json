@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software list.md",
+                "file": "plan/todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software list.md"
+                "file": "plan/todo.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software list.md",
+                "file": "plan/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software list.md",
+                "file": "plan/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,22 +159,25 @@
   },
   "active": "af66042a91473e14",
   "lastOpenFiles": [
+    "robot/robomaster.md",
+    "robot",
+    "plan",
+    "environment",
+    "environment/software list.md",
     "日记/2024.09.13.md",
-    "software list.md",
-    "英语.md",
+    "plan/英语.md",
     "日记/2024.09.08.md",
     "日记/2024.09.07.md",
     "读书笔记/圣经.md",
     "公开课/CSAPP/csapp相关资源.md",
-    "todo.md",
+    "plan/todo.md",
     "密院/学习规划.md",
     "公开课/cs61a/COMPOSING PROGRAMS.md",
     "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
     "读书笔记/统计学习方法.md",
     "读书笔记/视觉SLAM十四讲.md",
     "公开课/Dive into deep learning/Dive into Deep Learning.md",
-    "网址.md",
-    "robomaster.md",
+    "plan/网址.md",
     "密院/密院相关.md",
     "密院/密院规划.md",
     "密院/101 or 151.md",
@@ -184,7 +187,6 @@
     "读书笔记/概率论与数理统计 陈希孺.md",
     "读书笔记/计算机组成与设计硬件软件接口.md",
     "读书笔记/深入理解计算机系统.md",
-    "读书笔记/Convex Optimization.md",
     "内含你的账户信息，请勿再遗失 1.json",
     "内含你的账户信息，请勿再遗失.json",
     "公开课/games101",
@@ -202,9 +204,6 @@
     "公开课",
     "tech",
     "QQ_1724935497889.png",
-    "Head First Java, 3rd Edition (Kathy Sierra, Bert Bates, Trisha Gee) .pdf",
-    "attachment/QQ_1723427524964.png",
-    "test1",
-    "日记"
+    "attachment/QQ_1723427524964.png"
   ]
 }
