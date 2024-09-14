@@ -14,5 +14,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-mind-map",
-  "remember-cursor-position"
+  "remember-cursor-position",
+  "typewriter-mode",
+  "obsidian-linter"
 ]
