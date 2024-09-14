@@ -1,0 +1,13 @@
+- Adobe Acrobat Pro
+- telegram
+- vpn
+	- v2ray
+	- clash
+	- nodesCatch
+- BaiduNetdisk
+- calibre
+- QQ
+- WeChat
+- obsidian
+- office
+- 
