@@ -3298,6 +3298,9 @@ cloud
 ceres
 candidate
 codeforces
+cash
+cpt
+curve
 Computer
 Concepts
 ChatGpt
@@ -9720,6 +9723,9 @@ Oep
 Optical
 Ozone
 Over
+OOP
+OpenGL
+OpengGL
 and
 all
 amp
@@ -22814,6 +22820,7 @@ HgSG
 HqcZ
 Horn
 HFA
+Homework
 Software
 Structure
 System
@@ -61985,6 +61992,7 @@ PRIME
 PyTorch
 PowerPoint
 Pandas
+Project
 games
 go
 google
@@ -65243,6 +65251,7 @@ gazebo
 goat
 gsm
 game
+gpt
 MLsystem
 MLsys
 Mlsys
@@ -68497,6 +68506,7 @@ Mathematica
 Market
 Making
 Million
+Manuel
 JYY
 Jim
 Jina
@@ -74932,6 +74942,7 @@ wifi
 windows
 wolfram
 wireshark
+wkld
 lab
 lightning
 latex
@@ -81247,6 +81258,7 @@ Gini
 Gif
 Great
 Game
+Gitea
 spring
 system
 size
@@ -84592,6 +84604,9 @@ simscape
 simulink
 sklearn
 summer
+snowflake
+sjtu
+sponsor
 torch
 training
 tune
@@ -101081,6 +101096,7 @@ iNj
 iCCC
 interpretation
 isohfi
+intern
 you
 yX
 yYX
@@ -120187,6 +120203,7 @@ uqss
 upup
 undefined
 unspecified
+umich
 kernel
 kickstart
 kdd
@@ -129819,6 +129836,7 @@ rule
 rviz
 response
 representation
+rmb
 xv
 xpy
 xlb
@@ -142762,6 +142780,7 @@ WuK
 Webots
 Wolfram
 Wall
+Workload
 Values
 VP
 Vz
