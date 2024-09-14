@@ -1,2 +1,9 @@
-![97455b6a78e08ada98da3f14761823e6.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409122014694.png)  
-![97048f6751b9936031f910c141e02393.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409122014437.png)
+- ![97455b6a78e08ada98da3f14761823e6.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409122014694.png)  
+- ![97048f6751b9936031f910c141e02393.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409122014437.png) \
+- [GitHub - AlchemicRonin/-STM32-RoboMaster-: 从STM32开始的RoboMaster生活系列教程](https://github.com/AlchemicRonin/-STM32-RoboMaster-)
+	- [从STM32开始的RoboMaster生活：入门篇 \~ Hexo](https://alchemicronin.github.io/posts/e8b315d3/)
+- [zhuanlan.zhihu.com/p/22266788](https://zhuanlan.zhihu.com/p/22266788)
+- [【分享帖】退役队员留给新队员的礼物（方便新人入坑）-RoboMaster 社区](https://bbs.robomaster.com/article/7477)
+- [ROBOMASTER机甲大师赛视觉组学习方案\_rm视觉组考核-CSDN博客](https://blog.csdn.net/weixin_46214675/article/details/107569314?utm_medium=distribute.pc_relevant.none-task-blog-title-8&spm=1001.2101.3001.4242)
+- [Site Unreachable](https://blog.csdn.net/weixin_42754478/article/details/108159529#comments_13272591)
+- [Site Unreachable](https://blog.csdn.net/whl970831/article/details/108851630)
