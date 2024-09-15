@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "plan/网址.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -170,10 +169,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ed6c87ad8e4e2f25",
+  "active": "af66042a91473e14",
   "lastOpenFiles": [
-    "一些文章未分类/一些重要信息的留档.md",
+    "plan/网址.md",
     "todo.md",
+    "一些文章未分类/一些重要信息的留档.md",
     "robot/robomaster.md",
     "robot",
     "plan",
@@ -191,7 +191,6 @@
     "读书笔记/统计学习方法.md",
     "读书笔记/视觉SLAM十四讲.md",
     "公开课/Dive into deep learning/Dive into Deep Learning.md",
-    "plan/网址.md",
     "密院/密院相关.md",
     "密院/密院规划.md",
     "密院/101 or 151.md",

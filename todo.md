@@ -11,6 +11,7 @@
 	- csapp
 	- 软硬件接口
 - 数学
+	- [linear algebra left undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)
 	- 概率论
 	- [Web page of the course ITT9131 - Concrete Mathematics](https://cs.ioc.ee/cm/)
 	- 凸优化
@@ -53,13 +54,29 @@
 	- [使用 GitHub Workflow 快速构建和部署 MkDocs 项目文档-CSDN博客](https://blog.csdn.net/li_yatao/article/details/141035509#:~:text=%E9%80%9A%E8%BF%87%E7%BC%96%E5%86%99%20Workf)
 - web
 	- [【UW–M CS571】【Web技术】【中英字幕】（2023 Fall）\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1vK421y7aY)
-- 算法
-	- 代码随想录
+- 算法：
+	- 刷题：
+		- [一个动态更新的洛谷综合题单 – Studying Father's blog](https://studyingfather.com/archives/841)
+		- [力扣 (LeetCode) 全球极客挚爱的技术成长平台](https://leetcode.cn/)
+		- [首页 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/)
+	- 教程：
+		- [代码随想录](https://programmercarl.com/)
+		- [Hello 算法](https://www.hello-algo.com/)
 - 排版
 	- typst
 		- [脚本 – Typst 中文文档](https://typst-doc-cn.github.io/docs/reference/scripting)
 		- [搭建舒适的typst写作环境](https://zhuanlan.zhihu.com/p/642509853)
 	- Axmath
 	- mdbook
-- vim
-	- [VSCodeVim 最佳实践 | 周岩的 BLOG](https://zhouyanlt.github.io/vim/2019/09/20/vscode-vim-best-practices.html) 
+	- [Material for MkDocs - Material for MkDocs 中文文档](https://mkdoc-material.llango.com/)
+	- [实验文档降压宝典](https://hypotensor.tonycrane.cc/)
+- vim：
+	- [A Great Vim Cheat Sheet](https://vimsheet.com/)
+	- [Vim Cheat Sheet](https://vim.rtorr.com/lang/zh_cn)
+	- [VSCodeVim 最佳实践 | 周岩的 BLOG](https://zhouyanlt.github.io/vim/2019/09/20/vscode-vim-best-practices.html)
+	- [VSCode Vim 使用指南](https://hanzhen.wang/posts/vscode-vim)
+	- [vim相关的一个键位教程](https://cworld.top/blog/vim-key)  
+- git：
+	- [Learn Git Branching](https://learngitbranching.js.org/?demo=&locale=zh_CN)
+	- [超详细的前端程序员 git 指北 | Justin3go](https://justin3go.com/posts/2022/10/14%E8%B6%85%E8%AF%A6%E7%BB%86%E7%9A%84%E5%89%8D%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98git%E6%8C%87%E5%8C%97)
+	- [git 常用操作 | Justin3go](https://justin3go.com/posts/2022/02/04git%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C)
