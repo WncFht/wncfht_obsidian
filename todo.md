@@ -11,6 +11,7 @@
 	- csapp
 	- 软硬件接口
 - 数学
+	- [矩阵求导公式推导](https://zhuanlan.zhihu.com/p/273729929)
 	- [linear algebra left undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)
 	- 概率论
 	- [Web page of the course ITT9131 - Concrete Mathematics](https://cs.ioc.ee/cm/)
@@ -62,7 +63,7 @@
 	- 教程：
 		- [代码随想录](https://programmercarl.com/)
 		- [Hello 算法](https://www.hello-algo.com/)
-- 排版
+- 排版、blog
 	- typst
 		- [脚本 – Typst 中文文档](https://typst-doc-cn.github.io/docs/reference/scripting)
 		- [搭建舒适的typst写作环境](https://zhuanlan.zhihu.com/p/642509853)
@@ -70,6 +71,7 @@
 	- mdbook
 	- [Material for MkDocs - Material for MkDocs 中文文档](https://mkdoc-material.llango.com/)
 	- [实验文档降压宝典](https://hypotensor.tonycrane.cc/)
+	- [工具&&博客站点集合](https://wangloo.github.io/posts/tools/useful_sites/)
 - vim：
 	- [A Great Vim Cheat Sheet](https://vimsheet.com/)
 	- [Vim Cheat Sheet](https://vim.rtorr.com/lang/zh_cn)
@@ -80,3 +82,5 @@
 	- [Learn Git Branching](https://learngitbranching.js.org/?demo=&locale=zh_CN)
 	- [超详细的前端程序员 git 指北 | Justin3go](https://justin3go.com/posts/2022/10/14%E8%B6%85%E8%AF%A6%E7%BB%86%E7%9A%84%E5%89%8D%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98git%E6%8C%87%E5%8C%97)
 	- [git 常用操作 | Justin3go](https://justin3go.com/posts/2022/02/04git%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C)
+	- [git 宝典](https://wangloo.github.io/posts/tools/git/git/)
+

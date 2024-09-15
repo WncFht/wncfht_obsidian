@@ -149,7 +149,7 @@
       "double-quote-style": "\"\""
     },
     "remove-consecutive-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-empty-list-markers": {
       "enabled": true
@@ -162,7 +162,7 @@
     },
     "strong-style": {
       "enabled": true,
-      "style": "consistent"
+      "style": "asterisk"
     },
     "two-spaces-between-lines-with-content": {
       "enabled": true,
@@ -213,7 +213,7 @@
       "enabled": true
     },
     "remove-link-spacing": {
-      "enabled": true
+      "enabled": false
     },
     "remove-space-around-characters": {
       "enabled": false,
@@ -228,7 +228,7 @@
       "characters-to-remove-space-after": "¿¡‘“(["
     },
     "space-after-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "space-between-chinese-japanese-or-korean-and-english-or-numbers": {
       "enabled": false,
@@ -243,10 +243,10 @@
       "enabled": false
     },
     "prevent-double-checklist-indicator-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "prevent-double-list-item-indicator-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "proper-ellipsis-on-paste": {
       "enabled": false
