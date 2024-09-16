@@ -3306,6 +3306,7 @@ commands
 cursor
 conflicted
 conflicts
+clash
 Computer
 Concepts
 ChatGpt
@@ -39316,6 +39317,7 @@ preference
 plugins
 position
 positions
+powertoy
 Understanding
 USTC
 Unix
