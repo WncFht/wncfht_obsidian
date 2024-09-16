@@ -39318,6 +39318,7 @@ plugins
 position
 positions
 powertoy
+picgo
 Understanding
 USTC
 Unix
@@ -65271,6 +65272,7 @@ goat
 gsm
 game
 gpt
+gsudo
 MLsystem
 MLsys
 Mlsys
