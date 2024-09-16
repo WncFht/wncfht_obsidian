@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9232b299fa50c116",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "todo.md",
+                "staged": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -96,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "开发环境配置.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,11 +165,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f35a5d92e9e15f19",
+  "active": "9232b299fa50c116",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "开发环境配置.md",
     "todo.md",
     "environment/电脑配置.md",
-    "开发环境配置.md",
     "plan/网址.md",
     "一些文章未分类/一些重要信息的留档.md",
     "robot/robomaster.md",
@@ -187,7 +196,6 @@
     "密院/100工程导论.md",
     "公开课/games101/resource.md",
     "读书笔记/计算机系统基础.md",
-    "读书笔记/概率论与数理统计 陈希孺.md",
     "内含你的账户信息，请勿再遗失 1.json",
     "内含你的账户信息，请勿再遗失.json",
     "公开课/games101",
