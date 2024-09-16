@@ -60,6 +60,7 @@
 		- [一个动态更新的洛谷综合题单 – Studying Father's blog](https://studyingfather.com/archives/841)
 		- [力扣 (LeetCode) 全球极客挚爱的技术成长平台](https://leetcode.cn/)
 		- [首页 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/)
+		- [leetcode.cn/circle/discuss/RvFUtj/](https://leetcode.cn/circle/discuss/RvFUtj/)
 	- 教程：
 		- [代码随想录](https://programmercarl.com/)
 		- [Hello 算法](https://www.hello-algo.com/)
@@ -90,3 +91,5 @@
 - STLite
 	- ans:
 		- [GitHub - Geral-Yuan/STLite: This is the big homework of SJTU 2022-2023 Spring course CS0501H Data Structure (Honor), implementing part of cpp containers library based on the framework provided by TAs of ACM Class.](https://github.com/Geral-Yuan/STLite/tree/main)
+- blog
+	- [Yi Pan (Conless)](https://conless.dev/)

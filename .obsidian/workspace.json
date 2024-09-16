@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024.09.17.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024.09.17.md"
+                "file": "todo.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024.09.17.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024.09.17.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,11 +171,11 @@
   },
   "active": "6a55a1b0785211e6",
   "lastOpenFiles": [
-    "日记/2024.09.13.md",
-    "2024.09.17.md",
-    "日记/2024年高三-大一暑假总结.md",
-    "todo.md",
     "开发环境配置.md",
+    "todo.md",
+    "2024.09.17.md",
+    "日记/2024.09.13.md",
+    "日记/2024年高三-大一暑假总结.md",
     "读书笔记/统计学习方法.md",
     "读书笔记/视觉SLAM十四讲.md",
     "conflict-files-obsidian-git.md",
