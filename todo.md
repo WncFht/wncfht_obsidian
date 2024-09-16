@@ -73,6 +73,7 @@
 	- [Material for MkDocs - Material for MkDocs 中文文档](https://mkdoc-material.llango.com/)
 	- [实验文档降压宝典](https://hypotensor.tonycrane.cc/)
 	- [工具&&博客站点集合](https://wangloo.github.io/posts/tools/useful_sites/)
+	- git-revision-localized-plugin
 - vim：
 	- [A Great Vim Cheat Sheet](https://vimsheet.com/)
 	- [Vim Cheat Sheet](https://vim.rtorr.com/lang/zh_cn)

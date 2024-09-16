@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "开发环境配置.md"
               }
             }
           },
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "开发环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "开发环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,10 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2af27efde332241f",
+  "active": "f35a5d92e9e15f19",
   "lastOpenFiles": [
-    "开发环境配置.md",
     "todo.md",
+    "开发环境配置.md",
     "conflict-files-obsidian-git.md",
     "environment/电脑配置.md",
     "plan/网址.md",
