@@ -61,9 +61,11 @@
 		- [力扣 (LeetCode) 全球极客挚爱的技术成长平台](https://leetcode.cn/)
 		- [首页 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/)
 		- [leetcode.cn/circle/discuss/RvFUtj/](https://leetcode.cn/circle/discuss/RvFUtj/)
+		- [algorithmzuo (左程云) · GitHub](https://github.com/algorithmzuo)
 	- 教程：
 		- [代码随想录](https://programmercarl.com/)
 		- [Hello 算法](https://www.hello-algo.com/)
+		- [OI Wiki - OI Wiki](https://oi-wiki.org/)
 - 排版、blog
 	- typst
 		- [脚本 – Typst 中文文档](https://typst-doc-cn.github.io/docs/reference/scripting)
