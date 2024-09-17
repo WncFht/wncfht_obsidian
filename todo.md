@@ -95,3 +95,5 @@
 		- [GitHub - Geral-Yuan/STLite: This is the big homework of SJTU 2022-2023 Spring course CS0501H Data Structure (Honor), implementing part of cpp containers library based on the framework provided by TAs of ACM Class.](https://github.com/Geral-Yuan/STLite/tree/main)
 - blog
 	- [Yi Pan (Conless)](https://conless.dev/)
+- obsidian
+	- [Home - Obsidian Help](https://help.obsidian.md/)

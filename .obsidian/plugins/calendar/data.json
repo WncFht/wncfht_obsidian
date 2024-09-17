@@ -1,0 +1,9 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "locale",
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "gggg-[W]ww-MM",
+  "weeklyNoteTemplate": "",
+  "weeklyNoteFolder": "日记/",
+  "localeOverride": "system-default"
+}

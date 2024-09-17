@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a55a1b0785211e6",
+            "id": "ddba0e388934cf1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2af27efde332241f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
+                "file": "tech/C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,22 +34,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed6c87ad8e4e2f25",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "1d3e0639cf4c759c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "安装",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,18 +49,22 @@
             }
           },
           {
-            "id": "d4619f622bb7ea8c",
+            "id": "c43b02e295c4e846",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a2f3e69f1404aa81",
@@ -93,57 +75,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "563892e8b45c44d0",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "2f0a1b647b0e4e02",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "tech/C++.md"
               }
             }
           },
           {
-            "id": "a77a8fd2948fdb75",
+            "id": "45ce162197ed9d47",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "todo.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "calendar",
+              "state": {}
             }
           },
           {
-            "id": "94e64c801fdbd62b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "todo.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7543aa36b0e205f5",
+            "id": "0066b5e4f8b70434",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -151,11 +101,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,40 +116,44 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open today": false,
+      "publish:发布更改": false
     }
   },
-  "active": "6a55a1b0785211e6",
+  "active": "ddba0e388934cf1a",
   "lastOpenFiles": [
-    "开发环境配置.md",
-    "todo.md",
-    "2024.09.17.md",
-    "日记/2024.09.13.md",
+    "日记/2024-38-09-17-2.md",
+    "日记/2024-38-09-18-3.md",
+    "日记/2024-38-09-19-4.md",
+    "日记/2024-36-09-07-6.md",
+    "日记/2024-36-09-08-7.md",
+    "日记/2024-37-09-13-5.md",
+    "日记/2024-W37-09.md",
     "日记/2024年高三-大一暑假总结.md",
-    "读书笔记/统计学习方法.md",
-    "读书笔记/视觉SLAM十四讲.md",
-    "conflict-files-obsidian-git.md",
-    "environment/电脑配置.md",
-    "plan/网址.md",
-    "一些文章未分类/一些重要信息的留档.md",
-    "robot/robomaster.md",
+    "日记/2024-09.md",
+    "日记/2024-37-09-09-1.md",
+    "日记/2024-37-09-10-2.md",
+    "日记/2024-37-09-11-3.md",
+    "日记/2024-37-09-12-4.md",
+    "日记/2024-37-09-14-6.md",
+    "日记/2024-37-09-15-7.md",
+    "日记/2024-38-09-16-1.md",
+    "日记/2024-W38-09.md",
+    "template/weekly.md",
+    "template/daily.md",
+    "template",
+    "todo.md",
+    "日记/2024-W38-09-16.md",
+    "日记/2024-09-07.md",
+    "日记/2024-09-15.md",
+    "日记/2024-09-16.md",
+    "日记/2024-09-17.md",
+    "日记/2024.09.17.md",
     "robot",
     "plan",
     "environment",
-    "environment/software list.md",
-    "plan/英语.md",
-    "日记/2024.09.08.md",
-    "日记/2024.09.07.md",
-    "读书笔记/圣经.md",
-    "公开课/CSAPP/csapp相关资源.md",
-    "密院/学习规划.md",
-    "公开课/cs61a/COMPOSING PROGRAMS.md",
-    "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
-    "公开课/Dive into deep learning/Dive into Deep Learning.md",
-    "密院/密院相关.md",
-    "密院/密院规划.md",
-    "密院/101 or 151.md",
-    "密院/100工程导论.md",
     "内含你的账户信息，请勿再遗失 1.json",
     "内含你的账户信息，请勿再遗失.json",
     "公开课/games101",
@@ -215,7 +169,6 @@
     "日记",
     "未命名.canvas",
     "公开课",
-    "tech",
     "QQ_1724935497889.png",
     "attachment/QQ_1723427524964.png"
   ]

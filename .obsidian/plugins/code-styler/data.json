@@ -10,7 +10,7 @@
         },
         "gutter": {
           "highlight": true,
-          "activeLine": false
+          "activeLine": true
         },
         "header": {
           "title": {
@@ -19,13 +19,13 @@
             "textItalic": true
           },
           "languageTag": {
-            "display": "none",
+            "display": "always",
             "textFont": "",
             "textBold": true,
             "textItalic": false
           },
           "languageIcon": {
-            "display": "none",
+            "display": "always",
             "displayColour": true
           },
           "externalReference": {
