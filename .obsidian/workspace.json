@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/C++.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a2f3e69f1404aa81",
@@ -80,16 +79,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/C++.md"
+                "file": "todo.md"
               }
-            }
-          },
-          {
-            "id": "45ce162197ed9d47",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -101,29 +92,28 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open this week": false,
-      "periodic-notes:Open today": false,
-      "publish:发布更改": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ddba0e388934cf1a",
+  "active": "0066b5e4f8b70434",
   "lastOpenFiles": [
+    "开发环境配置.md",
+    "todo.md",
+    "C++/C++.md",
+    "C++/Accelerated C++.md",
+    "C++",
     "日记/2024-38-09-17-2.md",
     "日记/2024-38-09-18-3.md",
     "日记/2024-38-09-19-4.md",
@@ -144,13 +134,9 @@
     "template/weekly.md",
     "template/daily.md",
     "template",
-    "todo.md",
     "日记/2024-W38-09-16.md",
     "日记/2024-09-07.md",
     "日记/2024-09-15.md",
-    "日记/2024-09-16.md",
-    "日记/2024-09-17.md",
-    "日记/2024.09.17.md",
     "robot",
     "plan",
     "environment",
@@ -168,7 +154,6 @@
     "Excalidraw",
     "日记",
     "未命名.canvas",
-    "公开课",
     "QQ_1724935497889.png",
     "attachment/QQ_1723427524964.png"
   ]

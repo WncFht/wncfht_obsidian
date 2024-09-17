@@ -5,8 +5,10 @@
 - C++
 	- accelerate C++
 	- 看看咸鱼暄的 blog
+	- [介紹 | Effective C++](https://wizardforcel.gitbooks.io/effective-cpp/content/index.html)
 	- [简介 - Effective Modern C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
 	- 代码随想录
+	- [Fetching Title#axsi](https://zh.cppreference.com/)
 - 体系结构
 	- csapp
 	- 软硬件接口
@@ -95,5 +97,10 @@
 		- [GitHub - Geral-Yuan/STLite: This is the big homework of SJTU 2022-2023 Spring course CS0501H Data Structure (Honor), implementing part of cpp containers library based on the framework provided by TAs of ACM Class.](https://github.com/Geral-Yuan/STLite/tree/main)
 - blog
 	- [Yi Pan (Conless)](https://conless.dev/)
+	- [Bowling's TechStack](https://note.bowling233.top/)
+	- [Creativite Garden](https://blog.shad0wash.cc/)
+	- [Blog | 王子正的博客](https://www.zizheng.life/)
 - obsidian
 	- [Home - Obsidian Help](https://help.obsidian.md/)
+- some website
+	- [QuickRef.ME - Quick Reference Cheat Sheet](https://quickref.me/)
