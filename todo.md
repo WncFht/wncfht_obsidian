@@ -92,14 +92,13 @@
 	- [git 宝典](https://wangloo.github.io/posts/tools/git/git/)
 - 远程连接  
 	- [串流游戏百问百答（4）：PC进阶 | Parsec使用指南 - 哔哩哔哩](https://www.bilibili.com/read/cv32334628)  
+	- [win11使用ipad(平板)做副屏，纯软件实现方案【无需虚拟显示器】 - 哔哩哔哩](https://www.bilibili.com/read/cv23432170/#:~:text=%E6%89%93%E5%BC%80%E5%B9%B3%E6%9D%BF%E7%AB%AF%E7%9A%84moon)
+	- [zhuanlan.zhihu.com/p/657881254](https://zhuanlan.zhihu.com/p/657881254)
+	- [使用Sunshine+Moonlight实现游戏远程串流教程](https://www.hangge.com/blog/cache/detail_3544.html#:~:text=Sunshine%20+)
+	- [Parsec介绍及快速配置 - Makise](https://makise.xlog.app/parsec?)
 - STLite
 	- ans:
 		- [GitHub - Geral-Yuan/STLite: This is the big homework of SJTU 2022-2023 Spring course CS0501H Data Structure (Honor), implementing part of cpp containers library based on the framework provided by TAs of ACM Class.](https://github.com/Geral-Yuan/STLite/tree/main)
-- blog
-	- [Yi Pan (Conless)](https://conless.dev/)
-	- [Bowling's TechStack](https://note.bowling233.top/)
-	- [Creativite Garden](https://blog.shad0wash.cc/)
-	- [Blog | 王子正的博客](https://www.zizheng.life/)
 - obsidian
 	- [Home - Obsidian Help](https://help.obsidian.md/)
 - some website

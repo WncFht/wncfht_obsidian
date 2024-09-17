@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddba0e388934cf1a",
+            "id": "315d17905acfab04",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,6 +90,31 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "826b24b8e225cb11",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "01e652bd19f8ae45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "todo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -107,10 +132,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0066b5e4f8b70434",
+  "active": "315d17905acfab04",
   "lastOpenFiles": [
-    "开发环境配置.md",
+    "读书笔记/圣经.md",
+    "blog.md",
     "todo.md",
+    "开发环境配置.md",
     "C++/C++.md",
     "C++/Accelerated C++.md",
     "C++",
@@ -135,8 +162,6 @@
     "template/daily.md",
     "template",
     "日记/2024-W38-09-16.md",
-    "日记/2024-09-07.md",
-    "日记/2024-09-15.md",
     "robot",
     "plan",
     "environment",
