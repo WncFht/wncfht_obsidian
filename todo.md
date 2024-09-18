@@ -80,6 +80,7 @@
 	- [工具&&博客站点集合](https://wangloo.github.io/posts/tools/useful_sites/)
 	- git-revision-localized-plugin
 	- [技术 - Wcowin's Web](https://wcowin.work/blog/indexblog.html)
+	- [mkdocs-material 网站搭建与配置 & github pages 发布 & 搜索引擎收录 | Salvely's Blog](https://salvely.github.io/posts/mkdocs-material%20%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8E%E9%85%8D%E7%BD%AE%20_%20github%20pages%20%E5%8F%91%E5%B8%83%20_%20%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E6%94%B6%E5%BD%95.html)
 - vim：
 	- [A Great Vim Cheat Sheet](https://vimsheet.com/)
 	- [Vim Cheat Sheet](https://vim.rtorr.com/lang/zh_cn)
@@ -98,6 +99,7 @@
 	- [使用Sunshine+Moonlight实现游戏远程串流教程](https://www.hangge.com/blog/cache/detail_3544.html#:~:text=Sunshine%20+)
 	- [Parsec介绍及快速配置 - Makise](https://makise.xlog.app/parsec?)
 	- [ipads 用 moonlight + sunshine 实现副屏方案](https://zhuanlan.zhihu.com/p/669124021#:~:text=%E3%80%90%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%E3%80%91%201.%E8%BD%AF)
+	- [如何远程操作电脑](https://obsidian.zerokei.top/Hub/%E5%A6%82%E4%BD%95%E8%BF%9C%E7%A8%8B%E6%93%8D%E4%BD%9C%E7%94%B5%E8%84%91/)
 - STLite
 	- ans:
 		- [GitHub - Geral-Yuan/STLite: This is the big homework of SJTU 2022-2023 Spring course CS0501H Data Structure (Honor), implementing part of cpp containers library based on the framework provided by TAs of ACM Class.](https://github.com/Geral-Yuan/STLite/tree/main)
@@ -105,3 +107,12 @@
 	- [Home - Obsidian Help](https://help.obsidian.md/)
 - some website
 	- [QuickRef.ME - Quick Reference Cheat Sheet](https://quickref.me/)
+		- 好像不是很有用
+- articles
+	- [GitHub - pengsida/learning\_research: 本人的科研经验](https://github.com/pengsida/learning_research)
+	- [GitHub - zjufailure/how-to-succeed-in-zju-cs](https://github.com/zjufailure/how-to-succeed-in-zju-cs)
+	- [🍤 鱼肆周报主题认领！](https://www.yuque.com/xianyuxuan/saltfish_shop/weekly_headlines)
+	- [Yanyan's Wiki](https://jyywiki.cn/Reading_List.md)
+- 秋招
+	- 金融/量化
+		- [CC98论坛](https://www.cc98.org/topic/5132208)
