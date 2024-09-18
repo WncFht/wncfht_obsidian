@@ -4,3 +4,11 @@
 - [Creativite Garden](https://blog.shad0wash.cc/)
 - [Blog | 王子正的博客](https://www.zizheng.life/)
 - [Isshiki修 · 语雀](https://www.yuque.com/isshikixiu)
+- [GZTime's Blog - 崮郅的博客](https://blog.gzti.me/)
+- [Lu, Yukuan](https://lyk-love.cn/)
+- 
+- sjtu
+	- [awesome-cs | 👨‍💻 ❤️ 💻 上海交通大学计算机系本科作业参考](https://sjtu-cse.github.io/awesome-cs)
+	- [School of Software, Shanghai Jiao Tong University · GitHub](https://github.com/SJTU-SE)
+- zju
+	- [GitHub - IsshikiHugh/zju-cs-asio: 收集各类与 ZJU-CS 有关的网站形式的资料。](https://github.com/IsshikiHugh/zju-cs-asio)

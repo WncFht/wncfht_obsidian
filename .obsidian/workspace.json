@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "environment/电脑配置.md",
+                "file": "blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "environment/电脑配置.md"
+                "file": "blog.md"
               }
             }
           },
@@ -118,6 +118,10 @@
   },
   "active": "3e02bf156e540aa1",
   "lastOpenFiles": [
+    "todo.md",
+    "test.md",
+    "blog.md",
+    "environment/电脑配置.md",
     "开发环境配置.md",
     "一些文章未分类/配置电脑.md",
     "日记/2024-38-09-17-2.md",
@@ -125,13 +129,10 @@
     "日记/2024-W37-09.md",
     "日记/2024-38-09-19-4.md",
     "日记/2024-37-09-13-5.md",
-    "todo.md",
     "template/daily.md",
-    "test.md",
     "日记/2024-38-09-20-5.md",
     "日记/2024-38-09-21-6.md",
     "template/view.todo.md.md",
-    "blog.md",
     "Inbox.md",
     "password.md",
     "Excalidraw/Drawing 2024-09-18 08.51.43.excalidraw.md",
@@ -144,7 +145,6 @@
     "日记/2024年高三-大一暑假总结.md",
     "日记/2024-09.md",
     "日记/2024-37-09-09-1.md",
-    "日记/2024-37-09-10-2.md",
     "template",
     "robot",
     "plan",
