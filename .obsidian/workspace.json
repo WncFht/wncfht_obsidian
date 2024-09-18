@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "公开课/Dive into deep learning/Dive into Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "广播",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "公开课/Dive into deep learning/Dive into Deep Learning.md"
               }
             }
           },
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "公开课/Dive into deep learning/Dive into Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +139,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0066b5e4f8b70434",
+  "active": "1d3e0639cf4c759c",
   "lastOpenFiles": [
-    "日记/2024-38-09-18-3.md",
     "todo.md",
+    "test.md",
+    "日记/2024-38-09-18-3.md",
     "tech/CMake.md",
     "blog.md",
     "开发环境配置.md",
     "password.md",
-    "test.md",
     "笔记、博客 规范.md",
     "environment/电脑配置.md",
     "一些文章未分类/配置电脑.md",
