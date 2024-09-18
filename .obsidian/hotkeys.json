@@ -81,7 +81,7 @@
   "obsidian-completr:completr-select-next-suggestion": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "J"
     }
@@ -89,7 +89,7 @@
   "obsidian-completr:completr-select-previous-suggestion": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "K"
     }
@@ -103,15 +103,6 @@
       "key": "U"
     }
   ],
-  "editor:toggle-numbered-list": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
-  "editor:toggle-checklist-status": [],
   "easy-typing-obsidian:easy-typing-delete-blank-line": [],
   "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-popout": [
     {
@@ -120,6 +111,23 @@
         "Mod"
       ],
       "key": "A"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
     }
   ]
 }

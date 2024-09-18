@@ -19592,6 +19592,7 @@ Trader
 Typora
 THOUGHTS
 Thread
+Tasks
 Hardware
 HPC
 Hulu
@@ -55452,6 +55453,7 @@ nomachine
 night
 nominal
 nihao
+niaho
 Network
 Nvidia
 NCNN
@@ -84658,6 +84660,7 @@ snowflake
 sjtu
 sponsor
 strongly
+sunshine
 torch
 training
 tune

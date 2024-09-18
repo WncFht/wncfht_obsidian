@@ -96,6 +96,7 @@
 	- [zhuanlan.zhihu.com/p/657881254](https://zhuanlan.zhihu.com/p/657881254)
 	- [使用Sunshine+Moonlight实现游戏远程串流教程](https://www.hangge.com/blog/cache/detail_3544.html#:~:text=Sunshine%20+)
 	- [Parsec介绍及快速配置 - Makise](https://makise.xlog.app/parsec?)
+	- [ipads 用 moonlight + sunshine 实现副屏方案](https://zhuanlan.zhihu.com/p/669124021#:~:text=%E3%80%90%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%E3%80%91%201.%E8%BD%AF)
 - STLite
 	- ans:
 		- [GitHub - Geral-Yuan/STLite: This is the big homework of SJTU 2022-2023 Spring course CS0501H Data Structure (Honor), implementing part of cpp containers library based on the framework provided by TAs of ACM Class.](https://github.com/Geral-Yuan/STLite/tree/main)

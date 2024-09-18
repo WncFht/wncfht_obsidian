@@ -17,5 +17,8 @@
   "remember-cursor-position",
   "obsidian-linter",
   "calendar",
-  "periodic-notes"
+  "periodic-notes",
+  "obsidian-task-progress-bar",
+  "tasks-calendar-wrapper",
+  "obsidian-tasks-plugin"
 ]
