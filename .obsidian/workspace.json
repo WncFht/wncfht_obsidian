@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-38-09-17-2.md",
+                "file": "environment/电脑配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-38-09-17-2.md"
+                "file": "environment/电脑配置.md"
               }
             }
           },
@@ -116,12 +116,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2f0a1b647b0e4e02",
+  "active": "3e02bf156e540aa1",
   "lastOpenFiles": [
+    "开发环境配置.md",
+    "一些文章未分类/配置电脑.md",
+    "日记/2024-38-09-17-2.md",
     "日记/2024-38-09-18-3.md",
     "日记/2024-W37-09.md",
     "日记/2024-38-09-19-4.md",
-    "日记/2024-38-09-17-2.md",
     "日记/2024-37-09-13-5.md",
     "todo.md",
     "template/daily.md",
@@ -134,7 +136,6 @@
     "password.md",
     "Excalidraw/Drawing 2024-09-18 08.51.43.excalidraw.md",
     "读书笔记/圣经.md",
-    "开发环境配置.md",
     "C++/C++.md",
     "C++/Accelerated C++.md",
     "C++",
@@ -144,7 +145,6 @@
     "日记/2024-09.md",
     "日记/2024-37-09-09-1.md",
     "日记/2024-37-09-10-2.md",
-    "日记/2024-37-09-11-3.md",
     "template",
     "robot",
     "plan",
