@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "07fe852cdbdf045f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/CMake.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "stacked": true
@@ -110,6 +98,31 @@
               "type": "tasks_timeline_view",
               "state": {}
             }
+          },
+          {
+            "id": "ddb72eb1f6e093fc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b18d1150561d7de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "todo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -124,23 +137,22 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "3e02bf156e540aa1",
+  "active": "0066b5e4f8b70434",
   "lastOpenFiles": [
-    "blog.md",
+    "日记/2024-38-09-18-3.md",
     "todo.md",
+    "tech/CMake.md",
+    "blog.md",
     "开发环境配置.md",
     "password.md",
     "test.md",
-    "tech/CMake.md",
     "笔记、博客 规范.md",
     "environment/电脑配置.md",
     "一些文章未分类/配置电脑.md",
     "日记/2024-38-09-17-2.md",
-    "日记/2024-38-09-18-3.md",
     "日记/2024-W37-09.md",
     "日记/2024-38-09-19-4.md",
     "日记/2024-37-09-13-5.md",
