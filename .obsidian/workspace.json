@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog.md",
+                "file": "todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07fe852cdbdf045f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记、博客 规范.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -79,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog.md"
+                "file": "笔记、博客 规范.md"
               }
             }
           },
@@ -116,11 +129,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3e02bf156e540aa1",
+  "active": "07fe852cdbdf045f",
   "lastOpenFiles": [
     "todo.md",
-    "test.md",
+    "笔记、博客 规范.md",
     "blog.md",
+    "test.md",
     "environment/电脑配置.md",
     "开发环境配置.md",
     "一些文章未分类/配置电脑.md",
@@ -144,7 +158,6 @@
     "日记/2024-36-09-08-7.md",
     "日记/2024年高三-大一暑假总结.md",
     "日记/2024-09.md",
-    "日记/2024-37-09-09-1.md",
     "template",
     "robot",
     "plan",
