@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8745e7ae787133b8",
+            "id": "078199ebe89ba0c8",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "开发环境配置.md",
+                "file": "传统计算机视觉.md",
                 "staged": false
               }
             }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a2f3e69f1404aa81",
@@ -136,23 +137,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0066b5e4f8b70434",
+  "active": "078199ebe89ba0c8",
   "lastOpenFiles": [
+    "传统计算机视觉.md",
+    "todo.md",
+    "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
+    "VY100ENGL1000J/Lewis, Norman - Word Power Made Easy-Knopf Doubleday Publishing Group (2014).pdf",
+    "VY100ENGL1000J/VY100ENGL1000J.md",
+    "VY100ENGL1000J/jeffrey_r._wilson_academic_writing.pdf",
     "Untitled-2.aux",
     "password.md",
     "Excalidraw/Drawing 2024-09-19 22.05.51.excalidraw.md",
     "blog.md",
     "开发环境配置.md",
-    "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
-    "todo.md",
     "卡尔曼滤波.md",
     "个人路线 1.0.0.md",
     "笔记、博客 规范.md",
     "environment/software list.md",
     "environment/电脑配置.md",
     "VY100ENGL1000J/Dreyer_s_English_An_Utterly_Correct_Guid.pdf",
-    "VY100ENGL1000J/Lewis, Norman - Word Power Made Easy-Knopf Doubleday Publishing Group (2014).pdf",
-    "VY100ENGL1000J/jeffrey_r._wilson_academic_writing.pdf",
     "VY100ENGL1000J.md",
     "读书笔记/统计学习方法.md",
     "读书笔记/视觉SLAM十四讲.md",
@@ -168,7 +171,6 @@
     "配置.md",
     "转SE简历.jpg",
     "cs70.md",
-    "test1.md",
     "Untitled-2.tex",
     "Untitled-2.xdv",
     "Untitled-2.fls",
