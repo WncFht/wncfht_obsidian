@@ -11,8 +11,12 @@
             "id": "3e02bf156e540aa1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "个人路线 1.0.0.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -74,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "个人路线 1.0.0.md"
+              }
             }
           },
           {
@@ -107,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "个人路线 1.0.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +143,13 @@
   },
   "active": "3e02bf156e540aa1",
   "lastOpenFiles": [
+    "个人路线 1.0.0.md",
+    "todo.md",
+    "test.md",
+    "开发环境配置.md",
+    "blog.md",
+    "笔记、博客 规范.md",
+    "password.md",
     "日记/2024.09.13.md",
     "日记/2024.09.08.md",
     "日记/2024.09.07.md",
@@ -145,15 +159,10 @@
     "trash/单词本整理.md",
     "未命名.md",
     "template/weekly.md",
-    "笔记、博客 规范.md",
-    "个人路线 1.0.0.md",
     "配置.md",
-    "blog.md",
     "转SE简历.jpg",
     "cs70.md",
-    "password.md",
     "test1.md",
-    "todo.md",
     "公开课/Dive into deep learning/Dive into Deep Learning.md",
     "cs70/cs70.md",
     "trash/台词本摘抄.md",
@@ -167,8 +176,6 @@
     "Untitled-2.log",
     "Untitled-2.aux",
     "Untitled-2.toc",
-    "trash/nimo备考.md",
-    "高中经验分享/技术经验分享.md",
     "高中经验分享/技术经验分享.pdf",
     "Untitled-2.synctex.gz",
     "Untitled-2.fdb_latexmk",
