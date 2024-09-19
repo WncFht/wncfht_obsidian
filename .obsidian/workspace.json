@@ -8,14 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e02bf156e540aa1",
+            "id": "8745e7ae787133b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "个人路线 1.0.0.md",
-                "mode": "source",
-                "source": false
+                "file": "开发环境配置.md",
+                "staged": false
               }
             }
           }
@@ -78,9 +77,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "个人路线 1.0.0.md"
-              }
+              "state": {}
             }
           },
           {
@@ -113,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人路线 1.0.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,19 +133,30 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
-      "remotely-save:Remotely Save": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "0066b5e4f8b70434",
   "lastOpenFiles": [
-    "个人路线 1.0.0.md",
-    "todo.md",
-    "test.md",
-    "开发环境配置.md",
-    "blog.md",
-    "笔记、博客 规范.md",
+    "Untitled-2.aux",
     "password.md",
+    "Excalidraw/Drawing 2024-09-19 22.05.51.excalidraw.md",
+    "blog.md",
+    "开发环境配置.md",
+    "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
+    "todo.md",
+    "卡尔曼滤波.md",
+    "个人路线 1.0.0.md",
+    "笔记、博客 规范.md",
+    "environment/software list.md",
+    "environment/电脑配置.md",
+    "VY100ENGL1000J/Dreyer_s_English_An_Utterly_Correct_Guid.pdf",
+    "VY100ENGL1000J/Lewis, Norman - Word Power Made Easy-Knopf Doubleday Publishing Group (2014).pdf",
+    "VY100ENGL1000J/jeffrey_r._wilson_academic_writing.pdf",
+    "VY100ENGL1000J.md",
+    "读书笔记/统计学习方法.md",
+    "读书笔记/视觉SLAM十四讲.md",
+    "test.md",
     "日记/2024.09.13.md",
     "日记/2024.09.08.md",
     "日记/2024.09.07.md",
@@ -157,28 +164,16 @@
     "plan/英语.md",
     "plan/网址.md",
     "trash/单词本整理.md",
-    "未命名.md",
     "template/weekly.md",
     "配置.md",
     "转SE简历.jpg",
     "cs70.md",
     "test1.md",
-    "公开课/Dive into deep learning/Dive into Deep Learning.md",
-    "cs70/cs70.md",
-    "trash/台词本摘抄.md",
-    "trash/翻译第二期.md",
-    "cs61c/cs61c.md",
-    "cs61b/cs61b.md",
-    "cs61a/cs61a.md",
     "Untitled-2.tex",
     "Untitled-2.xdv",
     "Untitled-2.fls",
     "Untitled-2.log",
-    "Untitled-2.aux",
     "Untitled-2.toc",
-    "高中经验分享/技术经验分享.pdf",
-    "Untitled-2.synctex.gz",
-    "Untitled-2.fdb_latexmk",
     "attachment/QQ_1723428546109.png",
     "attachment/QQ_1723428144501.png",
     "attachment/QQ_1723427744742.png",
@@ -188,7 +183,6 @@
     "attachment/QQ_1723426283414.png",
     "attachment/QQ_1723426340853.png",
     "attachment/QQ_1723426500087.png",
-    "cs70",
     "未命名.canvas"
   ]
 }
