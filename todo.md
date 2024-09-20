@@ -118,7 +118,7 @@
 - [ ] 秋招
 	- [ ] 金融/量化
 		- [ ] [CC98论坛](https://www.cc98.org/topic/5132208)
-- [ ] openc⏫ v
+- [ ] openc⏫ 
 	- [ ] [OpenCV快速入门：移动物体检测和目标跟踪\_移动目标跟踪-CSDN博客](https://blog.csdn.net/qq_31463571/article/details/134646806#:~:text=%E9%80%9A%E8%BF%87%E5%88%86%E6%9E%90%E8%BF%99%E4%BA%9B%E5%90%91%E9%87%8F%EF%BC%8C%E5%8F%AF)
 	- [ ] [OpenCV: OpenCV modules](https://docs.opencv.org/4.x/index.html)
 - [传统视觉处理方法笔记 - NickD - 博客园](https://www.cnblogs.com/cntech/p/15342241.html#:~:text=1.%20%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2%20%E4%BC%A0%E7%BB%9F)

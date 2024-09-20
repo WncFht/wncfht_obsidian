@@ -13,9 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "Notes/irvin--what-is-academic-writing.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0eb4c25d8f350c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "138ae2973b152239",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
+                "page": 8,
+                "left": -11,
+                "top": 547,
+                "zoom": 1.3177083333333335
               }
             }
           }
@@ -62,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a2f3e69f1404aa81",
@@ -78,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "Notes/irvin--what-is-academic-writing.md"
               }
             }
           },
@@ -105,23 +126,6 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "1b18d1150561d7de",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "todo.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -142,17 +146,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f081a0484b46d53c",
+  "active": "0066b5e4f8b70434",
   "lastOpenFiles": [
+    "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
     "Notes/irvin--what-is-academic-writing.md",
+    "开发环境配置.md",
+    "todo.md",
     "日记/2024-38-09-20-5.md",
     "卡尔曼滤波.md",
-    "开发环境配置.md",
     "blog.md",
     "个人路线 1.0.0.md",
     "传统计算机视觉.md",
-    "todo.md",
-    "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
     "Notes/irvin--what-is-academic-writing 1.md",
     "Notes",
     "template/weekly.md",
@@ -175,7 +179,6 @@
     "日记/2024.09.08.md",
     "日记/2024.09.07.md",
     "读书笔记/Accelerated C++.md",
-    "plan/英语.md",
     "转SE简历.jpg",
     "Untitled-2.tex",
     "Untitled-2.xdv",
