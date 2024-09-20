@@ -128,3 +128,4 @@
 	- [一些关于计算机视觉的思考和学习方法\_牛客博客](https://blog.nowcoder.net/n/79b7219009fb4ed6b863944a7eb7ce85?from=nowcoder_improve)
 - oj
 	- [主页 · ACMOJ](https://acm.sjtu.edu.cn/OnlineJudge/)
+- neovim

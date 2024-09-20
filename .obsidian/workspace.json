@@ -4,25 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0cdd7d75adb642b2",
+        "id": "a262a85ae70eef1e",
         "type": "tabs",
         "children": [
           {
-            "id": "3233df69621c0f7a",
+            "id": "f081a0484b46d53c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
-                "page": 12,
-                "left": -269,
-                "top": 496,
-                "zoom": 1.1
+                "file": "Notes/irvin--what-is-academic-writing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VY100ENGL1000J/irvin--what-is-academic-writing.pdf"
+                "file": "Notes/irvin--what-is-academic-writing.md"
               }
             }
           },
@@ -115,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
+                "file": "Notes/irvin--what-is-academic-writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,25 +142,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3233df69621c0f7a",
+  "active": "f081a0484b46d53c",
   "lastOpenFiles": [
-    "个人路线 1.0.0.md",
+    "日记/2024-38-09-20-5.md",
     "Notes/irvin--what-is-academic-writing.md",
+    "卡尔曼滤波.md",
+    "开发环境配置.md",
+    "blog.md",
+    "个人路线 1.0.0.md",
+    "传统计算机视觉.md",
+    "todo.md",
     "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
+    "Notes/irvin--what-is-academic-writing 1.md",
     "Notes",
     "template/weekly.md",
     "template/PDFtpl.md",
-    "传统计算机视觉.md",
-    "todo.md",
     "VY100ENGL1000J/Lewis, Norman - Word Power Made Easy-Knopf Doubleday Publishing Group (2014).pdf",
     "VY100ENGL1000J/VY100ENGL1000J.md",
     "VY100ENGL1000J/jeffrey_r._wilson_academic_writing.pdf",
     "Untitled-2.aux",
     "password.md",
     "Excalidraw/Drawing 2024-09-19 22.05.51.excalidraw.md",
-    "blog.md",
-    "开发环境配置.md",
-    "卡尔曼滤波.md",
     "笔记、博客 规范.md",
     "environment/software list.md",
     "environment/电脑配置.md",
@@ -177,7 +176,6 @@
     "日记/2024.09.07.md",
     "读书笔记/Accelerated C++.md",
     "plan/英语.md",
-    "plan/网址.md",
     "转SE简历.jpg",
     "Untitled-2.tex",
     "Untitled-2.xdv",
