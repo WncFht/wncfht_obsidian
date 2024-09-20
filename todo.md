@@ -87,12 +87,16 @@
 	- [ ] [技术 - Wcowin's Web](https://wcowin.work/blog/indexblog.html)
 	- [ ] [mkdocs-material 网站搭建与配置 & github pages 发布 & 搜索引擎收录 | Salvely's Blog](https://salvely.github.io/posts/mkdocs-material%20%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8E%E9%85%8D%E7%BD%AE%20_%20github%20pages%20%E5%8F%91%E5%B8%83%20_%20%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E6%94%B6%E5%BD%95.html)
 	- [ ] [Slidev](https://cn.sli.dev/)
+- [ ] 秋招
+	- [ ] 金融/量化
+		- [ ] [CC98论坛](https://www.cc98.org/topic/5132208)
 - [ ] vim：
 	- [ ] [A Great Vim Cheat Sheet](https://vimsheet.com/)
 	- [ ] [Vim Cheat Sheet](https://vim.rtorr.com/lang/zh_cn)
 	- [ ] [VSCodeVim 最佳实践 | 周岩的 BLOG](https://zhouyanlt.github.io/vim/2019/09/20/vscode-vim-best-practices.html)
 	- [ ] [VSCode Vim 使用指南](https://hanzhen.wang/posts/vscode-vim)
 	- [ ] [vim相关的一个键位教程](https://cworld.top/blog/vim-key)  
+	- [ ] neovim
 - [ ] 远程连接  
 	- [ ] [串流游戏百问百答（4）：PC进阶 | Parsec使用指南 - 哔哩哔哩](https://www.bilibili.com/read/cv32334628)  
 	- [ ] [win11使用ipad(平板)做副屏，纯软件实现方案【无需虚拟显示器】 - 哔哩哔哩](https://www.bilibili.com/read/cv23432170/#:~:text=%E6%89%93%E5%BC%80%E5%B9%B3%E6%9D%BF%E7%AB%AF%E7%9A%84moon)
@@ -115,17 +119,19 @@
 	- [ ] [GitHub - zjufailure/how-to-succeed-in-zju-cs](https://github.com/zjufailure/how-to-succeed-in-zju-cs)
 	- [ ] [🍤 鱼肆周报主题认领！](https://www.yuque.com/xianyuxuan/saltfish_shop/weekly_headlines)
 	- [ ] [Yanyan's Wiki](https://jyywiki.cn/Reading_List.md)
-- [ ] 秋招
-	- [ ] 金融/量化
-		- [ ] [CC98论坛](https://www.cc98.org/topic/5132208)
 - [ ] openc⏫ 
 	- [ ] [OpenCV快速入门：移动物体检测和目标跟踪\_移动目标跟踪-CSDN博客](https://blog.csdn.net/qq_31463571/article/details/134646806#:~:text=%E9%80%9A%E8%BF%87%E5%88%86%E6%9E%90%E8%BF%99%E4%BA%9B%E5%90%91%E9%87%8F%EF%BC%8C%E5%8F%AF)
 	- [ ] [OpenCV: OpenCV modules](https://docs.opencv.org/4.x/index.html)
-- [传统视觉处理方法笔记 - NickD - 博客园](https://www.cnblogs.com/cntech/p/15342241.html#:~:text=1.%20%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2%20%E4%BC%A0%E7%BB%9F)
-- [GitHub - deskflow/deskflow: Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.](https://github.com/deskflow/deskflow)
-- zotero
-- 传统计算机视觉
-	- [一些关于计算机视觉的思考和学习方法\_牛客博客](https://blog.nowcoder.net/n/79b7219009fb4ed6b863944a7eb7ce85?from=nowcoder_improve)
-- oj
-	- [主页 · ACMOJ](https://acm.sjtu.edu.cn/OnlineJudge/)
-- neovim
+- [ ] [传统视觉处理方法笔记 - NickD - 博客园](https://www.cnblogs.com/cntech/p/15342241.html#:~:text=1.%20%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2%20%E4%BC%A0%E7%BB%9F)
+- [ ] [GitHub - deskflow/deskflow: Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.](https://github.com/deskflow/deskflow)
+- [ ] zotero
+- [ ] 传统计算机视觉
+	- [ ] [一些关于计算机视觉的思考和学习方法\_牛客博客](https://blog.nowcoder.net/n/79b7219009fb4ed6b863944a7eb7ce85?from=nowcoder_improve)
+- [ ] oj
+	- [ ] [主页 · ACMOJ](https://acm.sjtu.edu.cn/OnlineJudge/)
+- [ ] software
+	- [ ] [Site Unreachable](https://blog.xm.mk/posts/b15e/)
+- [ ] [GitHub - mzdluo123/SurfingTutorial: 给中国新大学生的网上冲浪和计算机使用教程](https://github.com/mzdluo123/SurfingTutorial)
+- [ ] [Site not found · GitHub Pages](https://hpc-sjtu.github.io/)
+- [ ] [zhuanlan.zhihu.com/p/166375631#:\~:text=ProxyChain](https://zhuanlan.zhihu.com/p/166375631#:~:text=ProxyChain)
+- [ ] [LINUX DO](https://linux.do/latest)

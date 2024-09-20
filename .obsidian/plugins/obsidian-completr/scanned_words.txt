@@ -54322,6 +54322,8 @@ oAx
 opencv
 occasion
 occasionally
+openc
+openArk
 net
 nn
 need
@@ -87774,6 +87776,7 @@ slavery
 sustained
 study
 smooth
+software
 torch
 training
 tune
