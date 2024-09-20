@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/irvin--what-is-academic-writing.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/irvin--what-is-academic-writing.md"
+                "file": "todo.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/irvin--what-is-academic-writing.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,8 +144,8 @@
   },
   "active": "f081a0484b46d53c",
   "lastOpenFiles": [
-    "日记/2024-38-09-20-5.md",
     "Notes/irvin--what-is-academic-writing.md",
+    "日记/2024-38-09-20-5.md",
     "卡尔曼滤波.md",
     "开发环境配置.md",
     "blog.md",

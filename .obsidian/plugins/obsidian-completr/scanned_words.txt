@@ -57538,6 +57538,7 @@ nUOd
 none
 nHDs
 needs
+neovim
 Network
 Nvidia
 NCNN

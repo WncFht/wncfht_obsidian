@@ -1,3 +1,8 @@
+- [ ] git：⏫ 
+	- [ ] [Learn Git Branching](https://learngitbranching.js.org/?demo=&locale=zh_CN)
+	- [ ] [超详细的前端程序员 git 指北 | Justin3go](https://justin3go.com/posts/2022/10/14%E8%B6%85%E8%AF%A6%E7%BB%86%E7%9A%84%E5%89%8D%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98git%E6%8C%87%E5%8C%97)
+	- [ ] [git 常用操作 | Justin3go](https://justin3go.com/posts/2022/02/04git%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C)
+	- [ ] [git 宝典](https://wangloo.github.io/posts/tools/git/git/)
 - 图形学
 	- slam 十四讲
 	- games 101
@@ -88,11 +93,6 @@
 	- [ ] [VSCodeVim 最佳实践 | 周岩的 BLOG](https://zhouyanlt.github.io/vim/2019/09/20/vscode-vim-best-practices.html)
 	- [ ] [VSCode Vim 使用指南](https://hanzhen.wang/posts/vscode-vim)
 	- [ ] [vim相关的一个键位教程](https://cworld.top/blog/vim-key)  
-- [ ] git：
-	- [ ] [Learn Git Branching](https://learngitbranching.js.org/?demo=&locale=zh_CN)
-	- [ ] [超详细的前端程序员 git 指北 | Justin3go](https://justin3go.com/posts/2022/10/14%E8%B6%85%E8%AF%A6%E7%BB%86%E7%9A%84%E5%89%8D%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98git%E6%8C%87%E5%8C%97)
-	- [ ] [git 常用操作 | Justin3go](https://justin3go.com/posts/2022/02/04git%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C)
-	- [ ] [git 宝典](https://wangloo.github.io/posts/tools/git/git/)
 - [ ] 远程连接  
 	- [ ] [串流游戏百问百答（4）：PC进阶 | Parsec使用指南 - 哔哩哔哩](https://www.bilibili.com/read/cv32334628)  
 	- [ ] [win11使用ipad(平板)做副屏，纯软件实现方案【无需虚拟显示器】 - 哔哩哔哩](https://www.bilibili.com/read/cv23432170/#:~:text=%E6%89%93%E5%BC%80%E5%B9%B3%E6%9D%BF%E7%AB%AF%E7%9A%84moon)
@@ -118,12 +118,12 @@
 - [ ] 秋招
 	- [ ] 金融/量化
 		- [ ] [CC98论坛](https://www.cc98.org/topic/5132208)
+- [ ] openc⏫ v
+	- [ ] [OpenCV快速入门：移动物体检测和目标跟踪\_移动目标跟踪-CSDN博客](https://blog.csdn.net/qq_31463571/article/details/134646806#:~:text=%E9%80%9A%E8%BF%87%E5%88%86%E6%9E%90%E8%BF%99%E4%BA%9B%E5%90%91%E9%87%8F%EF%BC%8C%E5%8F%AF)
+	- [ ] [OpenCV: OpenCV modules](https://docs.opencv.org/4.x/index.html)
 - [传统视觉处理方法笔记 - NickD - 博客园](https://www.cnblogs.com/cntech/p/15342241.html#:~:text=1.%20%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2%20%E4%BC%A0%E7%BB%9F)
 - [GitHub - deskflow/deskflow: Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.](https://github.com/deskflow/deskflow)
 - zotero
-- opencv
-	- [OpenCV快速入门：移动物体检测和目标跟踪\_移动目标跟踪-CSDN博客](https://blog.csdn.net/qq_31463571/article/details/134646806#:~:text=%E9%80%9A%E8%BF%87%E5%88%86%E6%9E%90%E8%BF%99%E4%BA%9B%E5%90%91%E9%87%8F%EF%BC%8C%E5%8F%AF)
-	- [OpenCV: OpenCV modules](https://docs.opencv.org/4.x/index.html)
 - 传统计算机视觉
 	- [一些关于计算机视觉的思考和学习方法\_牛客博客](https://blog.nowcoder.net/n/79b7219009fb4ed6b863944a7eb7ce85?from=nowcoder_improve)
 - oj
