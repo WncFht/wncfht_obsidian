@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2389b8d7ec77bcbc",
+        "id": "0cdd7d75adb642b2",
         "type": "tabs",
         "children": [
           {
-            "id": "078199ebe89ba0c8",
+            "id": "3233df69621c0f7a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "pdf",
               "state": {
-                "file": "传统计算机视觉.md",
-                "staged": false
+                "file": "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
+                "page": 12,
+                "left": -269,
+                "top": 496,
+                "zoom": 1.1
               }
             }
           }
@@ -62,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a2f3e69f1404aa81",
@@ -78,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VY100ENGL1000J/irvin--what-is-academic-writing.pdf"
+              }
             }
           },
           {
@@ -111,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,14 +139,22 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "078199ebe89ba0c8",
+  "active": "3233df69621c0f7a",
   "lastOpenFiles": [
+    "个人路线 1.0.0.md",
+    "Notes/irvin--what-is-academic-writing.md",
+    "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
+    "Notes",
+    "template/weekly.md",
+    "template/PDFtpl.md",
     "传统计算机视觉.md",
     "todo.md",
-    "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
     "VY100ENGL1000J/Lewis, Norman - Word Power Made Easy-Knopf Doubleday Publishing Group (2014).pdf",
     "VY100ENGL1000J/VY100ENGL1000J.md",
     "VY100ENGL1000J/jeffrey_r._wilson_academic_writing.pdf",
@@ -151,7 +164,6 @@
     "blog.md",
     "开发环境配置.md",
     "卡尔曼滤波.md",
-    "个人路线 1.0.0.md",
     "笔记、博客 规范.md",
     "environment/software list.md",
     "environment/电脑配置.md",
@@ -166,16 +178,11 @@
     "读书笔记/Accelerated C++.md",
     "plan/英语.md",
     "plan/网址.md",
-    "trash/单词本整理.md",
-    "template/weekly.md",
-    "配置.md",
     "转SE简历.jpg",
-    "cs70.md",
     "Untitled-2.tex",
     "Untitled-2.xdv",
     "Untitled-2.fls",
     "Untitled-2.log",
-    "Untitled-2.toc",
     "attachment/QQ_1723428546109.png",
     "attachment/QQ_1723428144501.png",
     "attachment/QQ_1723427744742.png",

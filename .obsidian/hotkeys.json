@@ -129,5 +129,23 @@
       ],
       "key": "K"
     }
+  ],
+  "workspace:goto-tab-2": [],
+  "pdf-plus:copy-link-to-page-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "pdf-plus:copy-link-to-selection": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
   ]
 }
