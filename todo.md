@@ -92,6 +92,8 @@
 	- Technology
 		- make/makefile
 			- [一个简单的 make & makefile 教程](https://zhuanlan.zhihu.com/p/92010728)
+		- python 虚拟环境
+			- [zhuanlan.zhihu.com/p/216157886](https://zhuanlan.zhihu.com/p/216157886)
 		- 排版、blog
 			- typst
 				- [脚本 – Typst 中文文档](https://typst-doc-cn.github.io/docs/reference/scripting)

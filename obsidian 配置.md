@@ -11,7 +11,9 @@
 
 - Latex Suite
 - LaTex-like Theorem & Equation Referencer
-- MathLinks
+- MathLinks  
+
+搭配 simpleTex 使用
 
 ### 2.2 编辑增强
 

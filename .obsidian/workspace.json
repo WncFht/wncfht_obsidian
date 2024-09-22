@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-38-09-22-7.md",
+                "file": "todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71b4936c8bedbc4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/视觉SLAM十四讲.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian 配置.md"
+                "file": "读书笔记/视觉SLAM十四讲.md"
               }
             }
           },
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian 配置.md",
+                "file": "读书笔记/视觉SLAM十四讲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,14 +179,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dcdbd1064438ddd8",
+  "active": "71b4936c8bedbc4e",
   "lastOpenFiles": [
-    "日记/2024-38-09-22-7.md",
-    "obsidian 配置.md",
-    "开发环境配置.md",
-    "password.md",
-    "C++/Accelerated C++.md",
+    "读书笔记/Accelerated C++.md",
     "todo.md",
+    "四元数.md",
+    "password.md",
+    "obsidian 配置.md",
+    "blog.md",
+    "日记/2024-38-09-22-7.md",
+    "开发环境配置.md",
+    "C++/Accelerated C++.md",
     "个人路线 1.0.0.md",
     "卡尔曼滤波.md",
     "笔记、博客 规范.md",
@@ -183,7 +198,6 @@
     "Notes/irvin--what-is-academic-writing.md",
     "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
     "日记/2024-38-09-20-5.md",
-    "blog.md",
     "传统计算机视觉.md",
     "Notes/irvin--what-is-academic-writing 1.md",
     "Notes",
@@ -199,8 +213,6 @@
     "VY100ENGL1000J/Dreyer_s_English_An_Utterly_Correct_Guid.pdf",
     "VY100ENGL1000J.md",
     "读书笔记/统计学习方法.md",
-    "读书笔记/视觉SLAM十四讲.md",
-    "日记/2024.09.13.md",
     "转SE简历.jpg",
     "Untitled-2.tex",
     "Untitled-2.xdv",
