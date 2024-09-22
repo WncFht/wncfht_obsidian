@@ -13533,6 +13533,9 @@ adapted
 appropriate
 analyzing
 argumentation
+avoiding
+anything
+added
 Design
 Data
 Database
@@ -34006,6 +34009,7 @@ Analyzing
 Assignments
 Antigone
 Analyze
+APPROPRIATE
 java
 jyy
 js
@@ -40903,6 +40907,8 @@ paragraphsph
 pronouns
 presenting
 prompts
+plan
+progress
 Understanding
 USTC
 Unix
@@ -54324,6 +54330,7 @@ occasion
 occasionally
 openc
 openArk
+organize
 net
 nn
 need
@@ -57541,6 +57548,7 @@ none
 nHDs
 needs
 neovim
+notes
 Network
 Nvidia
 NCNN
@@ -64329,6 +64337,7 @@ Primarily
 Purpose
 Persistence
 Proper
+PLAN
 games
 go
 google
@@ -67706,6 +67715,7 @@ gaps
 grammar
 good
 grade
+going
 MLsystem
 MLsys
 Mlsys
@@ -71071,6 +71081,7 @@ Many
 Myths
 Myth
 More
+MAKE
 JYY
 Jim
 Jina
@@ -77742,6 +77753,7 @@ writing
 want
 wrote
 where
+weekly
 lab
 lightning
 latex
@@ -97944,6 +97956,8 @@ mental
 models
 material
 mad
+myself
+monthly
 blog
 batchsize
 batch
@@ -101392,6 +101406,7 @@ behind
 blob
 bundle
 breaking
+big
 is
 inference
 in
@@ -127752,6 +127767,7 @@ kwtpt
 kme
 king
 kinds
+kind
 BladeDISC
 Bagua
 Blog
@@ -134427,6 +134443,12 @@ responses
 rational
 reasoned
 reasoning
+record
+reflect
+really
+rearrange
+reconsidering
+route
 xv
 xpy
 xlb
@@ -160630,6 +160652,7 @@ examining
 ended
 emotion
 expecting
+everyday
 vue
 vision
 variance
@@ -167319,6 +167342,8 @@ down
 determine
 discipline
 debatable
+daily
+don
 Youtube
 YOLO
 Your

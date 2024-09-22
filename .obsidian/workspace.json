@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发环境配置.md",
+                "file": "日记/2024-38-09-22-7.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发环境配置.md"
+                "file": "日记/2024-38-09-22-7.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发环境配置.md",
+                "file": "日记/2024-38-09-22-7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "20838f2043d32806",
   "lastOpenFiles": [
+    "开发环境配置.md",
     "password.md",
     "C++/Accelerated C++.md",
     "todo.md",
@@ -165,7 +166,6 @@
     "日记/2024-38-09-22-7.md",
     "笔记、博客 规范.md",
     "test.md",
-    "开发环境配置.md",
     "C++/C++.md",
     "Notes/irvin--what-is-academic-writing.md",
     "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
