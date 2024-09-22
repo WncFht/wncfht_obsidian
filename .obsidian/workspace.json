@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Accelerated C++.md",
+                "file": "开发环境配置.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "开发环境配置.md"
               }
             }
           },
@@ -117,6 +118,23 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2d72ca3fad7801e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "开发环境配置.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -131,25 +149,28 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "2f0a1b647b0e4e02",
+  "active": "20838f2043d32806",
   "lastOpenFiles": [
-    "开发环境配置.md",
-    "todo.md",
+    "password.md",
     "C++/Accelerated C++.md",
+    "todo.md",
+    "个人路线 1.0.0.md",
+    "卡尔曼滤波.md",
+    "日记/2024-38-09-22-7.md",
+    "笔记、博客 规范.md",
+    "test.md",
+    "开发环境配置.md",
     "C++/C++.md",
     "Notes/irvin--what-is-academic-writing.md",
     "VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
     "日记/2024-38-09-20-5.md",
-    "卡尔曼滤波.md",
     "blog.md",
-    "个人路线 1.0.0.md",
     "传统计算机视觉.md",
     "Notes/irvin--what-is-academic-writing 1.md",
     "Notes",
@@ -159,19 +180,15 @@
     "VY100ENGL1000J/VY100ENGL1000J.md",
     "VY100ENGL1000J/jeffrey_r._wilson_academic_writing.pdf",
     "Untitled-2.aux",
-    "password.md",
     "Excalidraw/Drawing 2024-09-19 22.05.51.excalidraw.md",
-    "笔记、博客 规范.md",
     "environment/software list.md",
     "environment/电脑配置.md",
     "VY100ENGL1000J/Dreyer_s_English_An_Utterly_Correct_Guid.pdf",
     "VY100ENGL1000J.md",
     "读书笔记/统计学习方法.md",
     "读书笔记/视觉SLAM十四讲.md",
-    "test.md",
     "日记/2024.09.13.md",
     "日记/2024.09.08.md",
-    "日记/2024.09.07.md",
     "转SE简历.jpg",
     "Untitled-2.tex",
     "Untitled-2.xdv",
