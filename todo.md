@@ -150,3 +150,5 @@
 		- [目录 - 《Linux C编程一站式学习》 - 书栈网 · BookStack](https://www.bookstack.cn/read/linux-c/menu.md)
 			- [Linux C编程一站式学习](https://akaedu.github.io/book/)
 			- [鸟哥的Linux私房菜：基础学习篇 第四版 | 鸟哥的 Linux 私房菜：基础学习篇 第四版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e)
+- 数学建模
+	- [“数学建模培训营”管理网站](https://anl.sjtu.edu.cn/mcm)
