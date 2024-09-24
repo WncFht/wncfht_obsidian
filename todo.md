@@ -108,6 +108,7 @@
 			- [技术 - Wcowin's Web](https://wcowin.work/blog/indexblog.html)
 			- [mkdocs-material 网站搭建与配置 & github pages 发布 & 搜索引擎收录 | Salvely's Blog](https://salvely.github.io/posts/mkdocs-material%20%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8E%E9%85%8D%E7%BD%AE%20_%20github%20pages%20%E5%8F%91%E5%B8%83%20_%20%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E6%94%B6%E5%BD%95.html)
 			- [Slidev](https://cn.sli.dev/)
+			- latex beamer
 		- github Action
 			- [GitHub Action 快速入门课程 | GitHub 中文社区](https://www.github-zh.com/getting-started/hello-github-actions)
 			- [GitHub Actions 快速入门 - GitHub 文档](https://docs.github.com/zh/actions/writing-workflows/quickstart)

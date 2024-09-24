@@ -22,3 +22,4 @@
 	- [所有博客 - 甘小蔗的价值观](https://gxzv.com/blog/)
 	- [Index - Stormckey's Page](https://stormckey.github.io/)
 	- [Home - HowJul的学习笔记](https://note.howjul.com/)
+	- [Harry's Blog](https://harry-hhj.github.io/)
