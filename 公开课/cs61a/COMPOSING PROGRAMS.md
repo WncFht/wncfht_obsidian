@@ -18,19 +18,19 @@
 
 #### 1.2.1 表达式
 
-语言要有的机制:
-
-- 原始表达式和语句：语言所关心的最简单的个体
-- 组合方法：由简单元素组合构建复合元素
-- 抽象方法：命名复合元素，并将其作为单元进行操作  
-infix notation
+- 语言要有的机制:
+	- 原始表达式和语句：语言所关心的最简单的个体
+	- 组合方法：由简单元素组合构建复合元素
+	- 抽象方法：命名复合元素，并将其作为单元进行操作  
+- infix notation
 
 #### 1.2.2 调用表达式
 
 ![image.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202408272149580.png)  
-subexpressions  
-用参数来调用函数  
-nested（嵌套）
+
+- subexpressions  
+- 用参数来调用函数  
+- nested（嵌套）
 
 #### 1.2.3 导入库函数
 
@@ -44,7 +44,8 @@ nested（嵌套）
 
 求值程序本质上是递归的  
 ![image.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202408272158291.png)  
-表达式树
+
+- 表达式树
 
 #### 1.2.6 非纯函数 print
 
@@ -210,16 +211,16 @@ ok
 
 ### 1.6 高阶函数
 
-general patterns  
-named concepts  
-higher-order functions  
-	可以把函数当作参数或者返回值
+- general patterns  
+- named concepts  
+- higher-order functions  
+	- 可以把函数当作参数或者返回值
 
 #### 1.6.1 作为参数的函数
 
-slots  
-step through （单步调试）  
-一个几乎没必要看的例子:
+- slots  
+- step through （单步调试）  
+- 一个几乎没必要看的例子:
 
 ```python
 >>> def summation(n, term):
@@ -237,10 +238,10 @@ step through （单步调试）
 
 #### 1.6.2 作为通用方法的函数
 
-user-defined functions  
-general methods  
-iterative improvement  
-repetitive refinement
+- user-defined functions  
+- general methods  
+- iterative improvement  
+- repetitive refinement
 
 #### 1.6.3 定义函数 III：嵌套定义
 
@@ -248,9 +249,9 @@ repetitive refinement
 
 - 全局帧变混乱
 - 函数签名限制  
-Nested function definition  
-Lexical scope  
-	这种在嵌套定义之间共享名称的规则称为词法作用域
+- Nested function definition  
+- Lexical scope  
+	- 这种在嵌套定义之间共享名称的规则称为词法作用域
 
 1. 每个用户定义的函数都有一个父环境：定义它的环境。
 2. 调用用户定义的函数时，其局部帧会继承其父环境。
@@ -258,18 +259,18 @@ Lexical scope
 - 关键优势:
 	- 局部函数的名称不会影响定义它的函数的外部名称，因为局部函数的名称将绑定在定义它的当前局部环境中，而不是全局环境中。
 	- 局部函数可以访问外层函数的环境，这是因为局部函数的函数体的求值环境会继承定义它的求值环境。  
-Extended Environments  
-局部定义的函数通常被称为闭包（closures）
+- Extended Environments  
+- 局部定义的函数通常被称为闭包（closures）
 
 #### 1.6.4 作为返回值的函数
 
-composition
+- composition
 
 #### 1.6.5 示例：牛顿法
 
 #### 1.6.6 Currying
 
-uncurrying transformation
+- uncurrying transformation
 
 ```python
 >>> def curry2(f):
@@ -319,7 +320,7 @@ $\displaystyle \lambda$
 
 #### 1.6.8 抽象和一等函数
 
-first-class status
+- first-class status
 
 1. 可以与名称绑定
 2. 可以作为参数传递给函数
@@ -328,7 +329,7 @@ first-class status
 
 #### 1.6.9 函数装饰器
 
-decorator
+- decorator
 
 ```python
 >>> def trace(fn):
@@ -346,8 +347,8 @@ decorator
 36
 ```
 
-annotation  
-等价于:
+- annotation  
+- 等价于:
 
 ```python
 >>> def triple(x):
@@ -357,21 +358,21 @@ annotation
 
 ### 1.7 递归函数
 
-rucursive  
-circular nature
+- rucursive  
+- circular nature
 
 #### 1.7.1 递归函数剖析
 
-base case  
-unwinds  
-recursive calls  
-induction
+- base case  
+- unwinds  
+- recursive calls  
+- induction
 
 #### 1.7.2 mutually recursive
 
 #### 1.7.3 递归函数中的打印
 
-abstraction barrier
+- abstraction barrier
 
 #### 1.7.4 tree recursive
 
@@ -470,9 +471,9 @@ from operator import getitem
 
 #### 2.2.3 抽象屏障
 
-数据抽象: 用一组基本操作来操作数据。  
-avbstraction barrier  
-the best:
+- 数据抽象: 用一组基本操作来操作数据。  
+- avbstraction barrier  
+- the best:
 
 ```python
 >>> def square_rational(x):
@@ -723,9 +724,9 @@ Python Particulars
 
 #### 2.4.6 非局部 Non-local 赋值的代价
 
-正确理解包含 nonlocal 声明的代码的关键是记住：只有函数调用才能引入新帧。赋值语句只能更改现有帧中的绑定关系。在这种情况下，除非 make_withdraw 被调用两次，否则只能有一个 balance 绑定。  
-Sameness and change  
-referentially transparent
+- 正确理解包含 nonlocal 声明的代码的关键是记住：只有函数调用才能引入新帧。赋值语句只能更改现有帧中的绑定关系。在这种情况下，除非 make_withdraw 被调用两次，否则只能有一个 balance 绑定。  
+- Sameness and change  
+- referentially transparent
 
 #### 2.4.7 列表和字典实现
 

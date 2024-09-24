@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog.md",
+                "file": "公开课/cs61a/COMPOSING PROGRAMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog.md"
+                "file": "公开课/cs61a/COMPOSING PROGRAMS.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog.md",
+                "file": "公开课/cs61a/COMPOSING PROGRAMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,16 +193,16 @@
   },
   "active": "c3ebee0c83295292",
   "lastOpenFiles": [
+    "todo.md",
+    "blog.md",
+    "日记/2024-39-09-24-2.md",
     "DartDetect.md",
     "Notes/irvin--what-is-academic-writing.md",
-    "日记/2024-39-09-24-2.md",
     "日记/2024-38-09-18-3.md",
     "日记/2024-38-09-19-4.md",
     "日记/2024-38-09-20-5.md",
     "日记/2024-38-09-22-7.md",
     "日记/2024-39-09-23-1.md",
-    "blog.md",
-    "todo.md",
     "读书笔记/视觉SLAM十四讲.md",
     "password.md",
     "读书笔记/Accelerated C++.md",
