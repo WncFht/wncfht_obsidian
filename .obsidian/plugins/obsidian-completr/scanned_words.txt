@@ -3461,6 +3461,7 @@ careful
 coherent
 citation
 checklist
+cast
 Computer
 Concepts
 ChatGpt
@@ -13541,6 +13542,7 @@ avoiding
 anything
 added
 article
+additive
 Design
 Data
 Database
@@ -57565,6 +57567,7 @@ nHDs
 needs
 neovim
 notes
+negative
 Network
 Nvidia
 NCNN
@@ -104832,6 +104835,7 @@ involves
 interpreted
 influence
 informed
+inverse
 you
 yX
 yYX
@@ -124510,6 +124514,7 @@ upon
 understanding
 understands
 upload
+union
 kernel
 kickstart
 kdd
@@ -131166,6 +131171,7 @@ BPD
 BeL
 BRISK
 Broad
+Boolean
 rust
 recording
 ref
@@ -134486,6 +134492,7 @@ remote
 rectuitment
 rename
 reorganize
+ring
 xv
 xpy
 xlb
@@ -167391,6 +167398,7 @@ debatable
 daily
 don
 downfalling
+disassembler
 Youtube
 YOLO
 Your

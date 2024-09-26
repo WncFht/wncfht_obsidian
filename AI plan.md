@@ -1,0 +1,3 @@
+- Machine Learing
+	- [GitHub - PKUFlyingPig/CS229](https://github.com/PKUFlyingPig/CS229/tree/master)
+	- [CS229: Machine Learning](https://cs229.stanford.edu/index.html-backup-summer24)

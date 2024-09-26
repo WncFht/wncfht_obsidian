@@ -109,6 +109,7 @@
 			- [mkdocs-material 网站搭建与配置 & github pages 发布 & 搜索引擎收录 | Salvely's Blog](https://salvely.github.io/posts/mkdocs-material%20%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8E%E9%85%8D%E7%BD%AE%20_%20github%20pages%20%E5%8F%91%E5%B8%83%20_%20%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E6%94%B6%E5%BD%95.html)
 			- [Slidev](https://cn.sli.dev/)
 			- latex beamer
+			- [网页美化 - HowJul的学习笔记](https://note.howjul.com/%E7%90%90%E7%A2%8E/triviality/)
 		- github Action
 			- [GitHub Action 快速入门课程 | GitHub 中文社区](https://www.github-zh.com/getting-started/hello-github-actions)
 			- [GitHub Actions 快速入门 - GitHub 文档](https://docs.github.com/zh/actions/writing-workflows/quickstart)
@@ -148,7 +149,12 @@
 	- [HPC入门指南](https://hpc-sjtu.github.io/HPC_Start_Guide/)
 	- linux
 		- [目录 - 《Linux C编程一站式学习》 - 书栈网 · BookStack](https://www.bookstack.cn/read/linux-c/menu.md)
-			- [Linux C编程一站式学习](https://akaedu.github.io/book/)
-			- [鸟哥的Linux私房菜：基础学习篇 第四版 | 鸟哥的 Linux 私房菜：基础学习篇 第四版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e)
+		- [鸟哥的Linux私房菜：基础学习篇 第四版 | 鸟哥的 Linux 私房菜：基础学习篇 第四版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e)
+		- [Linux C编程一站式学习](https://akaedu.github.io/book/)
+		- [Linux基础 — Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh-cn/latest/base/)
+		- [Linux From Scratch](https://lfs.xry111.site/zh_CN/12.2/)
+		- [ArchWiki](https://wiki.archlinux.org/title/Main_page)
+		- [Linux Command Line Books by William Shotts](https://linuxcommand.org/tlcl.php)
+		- [Home | Linux Journey](https://linuxjourney.com/)
 - 数学建模
 	- [“数学建模培训营”管理网站](https://anl.sjtu.edu.cn/mcm)
