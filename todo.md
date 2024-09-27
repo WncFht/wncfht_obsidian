@@ -73,6 +73,8 @@
 			- Deep Learing
 				- d 2 l
 			- [Fundamentals-Of-Artificial-Intelligence-2024Spring-PKU/Note at main · zhuozhiyongde/Fundamentals-Of-Artificial-Intelligence-2024Spring-PKU · GitHub](https://github.com/zhuozhiyongde/Fundamentals-Of-Artificial-Intelligence-2024Spring-PKU/blob/main/Note/)
+		- TCS
+			- [CS Theory 资源总结 - CC98论坛 (zju.edu.cn)](http://www-cc98-org-s.webvpn.zju.edu.cn:8001/topic/4906546)
 	- Algorithm
 		- 刷题：
 			- [一个动态更新的洛谷综合题单 – Studying Father's blog](https://studyingfather.com/archives/841)
