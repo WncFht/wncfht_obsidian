@@ -112,6 +112,8 @@
 			- [Slidev](https://cn.sli.dev/)
 			- latex beamer
 			- [网页美化 - HowJul的学习笔记](https://note.howjul.com/%E7%90%90%E7%A2%8E/triviality/)
+			- typora 
+				- [zhuanlan.zhihu.com/p/692454473](https://zhuanlan.zhihu.com/p/692454473)
 		- github Action
 			- [GitHub Action 快速入门课程 | GitHub 中文社区](https://www.github-zh.com/getting-started/hello-github-actions)
 			- [GitHub Actions 快速入门 - GitHub 文档](https://docs.github.com/zh/actions/writing-workflows/quickstart)

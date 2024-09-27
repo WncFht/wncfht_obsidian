@@ -23,3 +23,5 @@
 	- [Index - Stormckey's Page](https://stormckey.github.io/)
 	- [Home - HowJul的学习笔记](https://note.howjul.com/)
 	- [Harry's Blog](https://harry-hhj.github.io/)
+	- [首页 | Menghuan1918's Blog](https://blog.menghuan1918.com/)
+	- [博客导引 | 二丫讲梵](https://wiki.eryajf.net/pages/b2f34c/)
