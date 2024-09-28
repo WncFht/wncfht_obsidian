@@ -114,6 +114,7 @@
 			- [网页美化 - HowJul的学习笔记](https://note.howjul.com/%E7%90%90%E7%A2%8E/triviality/)
 			- typora 
 				- [zhuanlan.zhihu.com/p/692454473](https://zhuanlan.zhihu.com/p/692454473)
+				- [打造个性化Typora写作体验的必备插件 - peterjxl - 博客园](https://www.cnblogs.com/PeterJXL/p/18350073)
 		- github Action
 			- [GitHub Action 快速入门课程 | GitHub 中文社区](https://www.github-zh.com/getting-started/hello-github-actions)
 			- [GitHub Actions 快速入门 - GitHub 文档](https://docs.github.com/zh/actions/writing-workflows/quickstart)
@@ -162,3 +163,5 @@
 		- [Home | Linux Journey](https://linuxjourney.com/)
 - 数学建模
 	- [“数学建模培训营”管理网站](https://anl.sjtu.edu.cn/mcm)
+- 出国
+	- [【不止留学随笔】大一向留学常见问题答疑，当你很早开始准备留学的时候要准备什么？（第一弹） - CC98论坛 (zju.edu.cn)](http://www-cc98-org-s.webvpn.zju.edu.cn:8001/topic/5374161)
