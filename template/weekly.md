@@ -1,6 +1,6 @@
 # {{date}}
 
-## 1 TODO
+## 1 Plan
 
 ## 2 REVIEW
 

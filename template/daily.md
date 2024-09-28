@@ -1,6 +1,12 @@
 # {{date}}
 
-## 1 TODO
+## 1 Plan
+
+### 1.1 Morning
+
+### 1.2 Afternoon
+
+### 1.3 Night
 
 ## 2 REVIEW
 
