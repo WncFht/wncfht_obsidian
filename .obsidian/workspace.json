@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "转专业/软工5（神）.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "转专业/软工5（神）.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "转专业/软工5（神）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,14 +171,15 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "c43b02e295c4e846",
+  "active": "d97eb214c33d8bd9",
   "lastOpenFiles": [
+    "转专业/软工6.md",
+    "todo.md",
     "密院/学习规划.md",
     "密院/密院相关.md",
     "密院/密院规划.md",
     "密院/101 or 151.md",
     "密院/100工程导论.md",
-    "todo.md",
     "Computer/Algorithm",
     "Computer/Language/C++/Accelerated C++.md",
     "Computer/Advanced/函数式编程",
@@ -208,7 +209,6 @@
     "日记/2024-39-09-23-1.md",
     "日记/2024-39-09-24-2.md",
     "日记/2024-39-09-25-3.md",
-    "日记/2024-39-09-26-4.md",
     "转SE简历.jpg",
     "attachment/QQ_1723428546109.png",
     "attachment/QQ_1723428144501.png",
