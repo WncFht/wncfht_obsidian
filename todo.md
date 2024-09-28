@@ -37,6 +37,8 @@
 		- [状态估计/控制算法实践 - 知乎](https://www.zhihu.com/column/c_1296379521394929664)
 		- [Control Tutorials for MATLAB and Simulink - Introduction: Simulink Control](https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SimulinkControl)
 - Math
+	- 数学建模
+		- [“数学建模培训营”管理网站](https://anl.sjtu.edu.cn/mcm)
 	- [矩阵求导公式推导](https://zhuanlan.zhihu.com/p/273729929)
 	- [linear algebra left undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)
 	- 概率论
@@ -161,7 +163,5 @@
 		- [ArchWiki](https://wiki.archlinux.org/title/Main_page)
 		- [Linux Command Line Books by William Shotts](https://linuxcommand.org/tlcl.php)
 		- [Home | Linux Journey](https://linuxjourney.com/)
-- 数学建模
-	- [“数学建模培训营”管理网站](https://anl.sjtu.edu.cn/mcm)
 - 出国
 	- [【不止留学随笔】大一向留学常见问题答疑，当你很早开始准备留学的时候要准备什么？（第一弹） - CC98论坛 (zju.edu.cn)](http://www-cc98-org-s.webvpn.zju.edu.cn:8001/topic/5374161)
