@@ -6850,6 +6850,7 @@ Characteristics
 Conclusion
 Completr
 Calendar
+Calibration
 Organazation
 OSTEP
 Operating
@@ -87834,6 +87835,7 @@ smooth
 software
 sleep
 simpleTex
+slides
 torch
 training
 tune
