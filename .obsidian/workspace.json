@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f35a5d92e9e15f19",
+            "id": "56834dc6ecff0937",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发环境配置.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发环境配置.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发环境配置.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发环境配置.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,54 +157,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f35a5d92e9e15f19",
+  "active": "56834dc6ecff0937",
   "lastOpenFiles": [
-    "todo.md",
-    "conflict-files-obsidian-git.md",
     "开发环境配置.md",
-    "environment/电脑配置.md",
-    "plan/网址.md",
-    "一些文章未分类/一些重要信息的留档.md",
-    "robot/robomaster.md",
-    "robot",
-    "plan",
-    "environment",
-    "environment/software list.md",
-    "日记/2024.09.13.md",
-    "plan/英语.md",
-    "日记/2024.09.08.md",
-    "日记/2024.09.07.md",
-    "读书笔记/圣经.md",
-    "公开课/CSAPP/csapp相关资源.md",
-    "密院/学习规划.md",
-    "公开课/cs61a/COMPOSING PROGRAMS.md",
-    "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
-    "读书笔记/统计学习方法.md",
+    "未命名.md",
+    "blog.md",
+    "password.md",
+    "summary on 240925.md",
+    "todo.md",
+    "VY100ENGL1000J.md",
+    "Excalidraw/Drawing 2024-10-02 09.07.24.excalidraw.md",
     "读书笔记/视觉SLAM十四讲.md",
-    "公开课/Dive into deep learning/Dive into Deep Learning.md",
-    "密院/密院相关.md",
-    "密院/密院规划.md",
-    "密院/101 or 151.md",
-    "密院/100工程导论.md",
-    "公开课/games101/resource.md",
-    "读书笔记/计算机系统基础.md",
-    "内含你的账户信息，请勿再遗失 1.json",
-    "内含你的账户信息，请勿再遗失.json",
-    "公开课/games101",
-    "attachment/QQ_1723426283414.png",
-    "attachment/QQ_1723426340853.png",
-    "attachment/QQ_1723426500087.png",
-    "attachment/QQ_1723426837256.png",
+    "电控.md",
+    "卡尔曼滤波.md",
+    "个人路线 1.0.0.md",
+    "test.md",
+    "配置.md",
+    "cs70.md",
+    "test1.md",
+    "转SE简历.jpg",
+    "C++/C++.md",
+    "笔记、博客 规范.md",
+    "cs70/cs70.md",
+    "日记/2024-09.md",
+    "cs61a/cs61a.md",
+    "trash/台词本摘抄.md",
+    "trash/单词本整理.md",
+    "cs61b/cs61b.md",
+    "trash/翻译第二期.md",
+    "Untitled-2.log",
+    "cs61c/cs61c.md",
+    "Untitled-2.xdv",
+    "Untitled-2.aux",
+    "Untitled-2.tex",
+    "Untitled-2.fls",
+    "Untitled-2.toc",
+    "高中经验分享/技术经验分享.pdf",
+    "Untitled-2.synctex.gz",
+    "Untitled-2.fdb_latexmk",
+    "attachment/QQ_1723428086546.png",
+    "attachment/QQ_1723428546109.png",
+    "attachment/QQ_1723427987352.png",
     "attachment/QQ_1723427555264.png",
-    "attachment/QQ_1723427974368.png",
-    "attachment/QQ_1723427912021.png",
-    "attachment/QQ_1723427744742.png",
-    "Excalidraw",
-    "日记",
-    "未命名.canvas",
-    "公开课",
-    "tech",
-    "QQ_1724935497889.png",
-    "attachment/QQ_1723427524964.png"
+    "attachment/QQ_1723428144501.png",
+    "attachment/QQ_1723427999572.png",
+    "attachment/QQ_1723427114723.png",
+    "attachment/QQ_1723427040762.png",
+    "C++",
+    "attachment/QQ_1723426283414.png",
+    "未命名.canvas"
   ]
 }

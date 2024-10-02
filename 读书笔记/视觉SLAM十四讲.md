@@ -910,7 +910,7 @@ TODO
 - 透镜会产生畸变
 - 内参数（Intrinsics）
 
-#### 5.1.1 针孔相机模型
+	#### 5.1.1 针孔相机模型
 
 ![QQ_1725253336267.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409021302607.png)
 
@@ -958,7 +958,7 @@ $$
 - 归一化平面
 - 点的深度在投影过程中被丢失了
 
-#### 5.1.2 畸变模型
+#### 5.1.1 畸变模型
 
 - 畸变 (Distortion 失真) 径向畸变
 	- 筒形畸变
@@ -1008,7 +1008,7 @@ $$
 4. 有畸变时，根据畸变参数计算 $\displaystyle \boldsymbol{P}_{c}$ 发生畸变后的坐标。
 5. $\displaystyle P$ 的归一化坐标经过内参后，对应到它的像素坐标: $\displaystyle \boldsymbol{P}_{uv} = \boldsymbol{K} \boldsymbol{P}_{c}$。
 
-#### 5.1.3 双目相机模型
+#### 5.1.2 双目相机模型
 
 ![QQ_1725291418446.png](https://cdn.jsdelivr.net/gh/WncFht/picture/202409022337946.png)  
 两者之间的距离称为双目相机的基线
@@ -1020,7 +1020,7 @@ $$
 - d 定义为左右图的横坐标之差，称为视差。
 	- 由于视差最小为一个像素，所以双目的深度存在一个理论上的最大值。
 
-#### 5.1.4 RGB-D 相机模型
+#### 5.1.3 RGB-D 相机模型
 
 - 红外结构光（Structured lightning）
 - 飞行时间（Time-of-Flight, ToF）  
@@ -1401,7 +1401,7 @@ Non-maximal suppression
 data association  
 Brute-Force Matcher
 
-- 通过测量描述子的距离来去最近的一个作为匹配点。描述瞎子距离表示了两个特征之间的相似程度。
+- 通过测量描述子的距离来去最近的一个作为匹配点。描述子距离表示了两个特征之间的相似程度。
 	- 欧氏距离
 	- 汉明距离
 		- 两个二进制串的不同位数的个数
