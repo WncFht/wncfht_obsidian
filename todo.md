@@ -19,6 +19,7 @@
 			- [ipads 用 moonlight + sunshine 实现副屏方案](https://zhuanlan.zhihu.com/p/669124021#:~:text=%E3%80%90%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%E3%80%91%201.%E8%BD%AF)
 			- [如何远程操作电脑](https://obsidian.zerokei.top/Hub/%E5%A6%82%E4%BD%95%E8%BF%9C%E7%A8%8B%E6%93%8D%E4%BD%9C%E7%94%B5%E8%84%91/)
 			- [Sunshine + Moonlight 熄屏串流方式 - 哔哩哔哩](https://www.bilibili.com/read/cv30603647/#:~:text=%E7%94%B1%E4%BA%8E%E4%B9%8B%E5%89%8D%E6%9C%89%E6%AE%B5%E6%97%B6%E9%97%B4%E4%B8%8D%E5%9C%A8)
+			- [如何使用虚拟机](https://blog.csdn.net/m0_66480474/article/details/142535224#:~:text=parsec%E6%98%AF%E4%B8%80%E6%AC%BE%E7%9B%B8)
 		- [ProxyChain](https://zhuanlan.zhihu.com/p/166375631#:~:text=ProxyChain)
 		- obsidian
 			- [Home - Obsidian Help](https://help.obsidian.md/)
