@@ -1,2 +1,2 @@
 - [在 Ubuntu 安装配置 Fcitx 5 中文输入法 - muzing的杂货铺](https://muzing.top/posts/3fc249cf/#:~:text=Fcitx%205%20%E6%8F%90%E4%BE%9B)
-- [Fetching Title#51k4](https://rovo98.github.io/posts/2f1de6fa/#:~:text=%E4%BD%BF%E7%94%A8%20fcitx5-)
+- [fcitx5-rime 挂接小鹤音形 | rovo98's Blog](https://rovo98.github.io/posts/2f1de6fa/#:~:text=%E4%BD%BF%E7%94%A8%20fcitx5-)
