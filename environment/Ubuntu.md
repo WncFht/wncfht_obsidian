@@ -5,3 +5,4 @@
 - [zhuanlan.zhihu.com/p/658811059](https://zhuanlan.zhihu.com/p/658811059)
 - [PKMer\_TiddyWiki 简易指南](https://pkmer.cn/Pkmer-Docs/12-tiddywiki/tiddywiki/)
 - [Site Unreachable](https://docusaurus.nodejs.cn/docs)
+- [Jedsek | Blog](https://jedsek.xyz/posts/desktop-beautify/gnome/)
