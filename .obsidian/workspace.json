@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robot/robomaster.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robot/robomaster.md"
+                "file": "todo.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robot/robomaster.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,31 +124,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "af4ab8e73361b92f",
+  "active": "72bc55ef4fe5b386",
   "lastOpenFiles": [
-    "robot/视觉部培训.md",
-    "list.md",
+    "summary.md",
     "test.md",
     "todo.md",
+    "robot/robomaster.md",
+    "robot/视觉部培训.md",
+    "list.md",
     "日记/2024-40-10-03-4.md",
     "template/daily.md",
     "日记/2024-40-10-02-3.md",
     "template/weekly.md",
     "template/PDFtpl.md",
     "robot/DartDetect.md",
-    "robot/robomaster.md",
     "日记/2024-40-10-01-2.md",
-    "summary.md",
     "environment/obsidian 配置.md",
     "environment/software list.md",
     "environment/电脑配置.md",
