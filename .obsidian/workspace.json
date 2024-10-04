@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "environment/Ubuntu.md",
+                "file": "日记/2024-40-10-04-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "environment/Ubuntu.md"
+                "file": "日记/2024-40-10-04-5.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "environment/Ubuntu.md",
+                "file": "日记/2024-40-10-04-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,9 +149,10 @@
   },
   "active": "542b653a9593d054",
   "lastOpenFiles": [
-    "environment/software list.md",
-    "environment/Ubuntu.md",
     "todo.md",
+    "日记/2024-40-10-04-5.md",
+    "environment/Ubuntu.md",
+    "environment/software list.md",
     "summary.md",
     "test.md",
     "robot/robomaster.md",
@@ -174,7 +175,6 @@
     "Books/圣经.md",
     "plan/个人路线 1.0.0.md",
     "日记/2024-39-09-24-2.md",
-    "日记/2024-39-09-23-1.md",
     "Computer/Algorithm",
     "Computer/Advanced/函数式编程",
     "Computer/Advanced/TCS",
