@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 226.5
   },
   "right": {
     "id": "a2f3e69f1404aa81",
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md"
+                "file": "todo.md"
               }
             }
           },
@@ -97,30 +97,13 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "06bc19cd732a4ca8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,6 +120,10 @@
   "active": "72bc55ef4fe5b386",
   "lastOpenFiles": [
     "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md",
+    "summary.md",
+    "test.md",
+    "list.md",
+    "website_to_read/2024-10-05 17：34：01-简悦从入门到疯魔.md",
     "website_to_read/2024-10-05 17：53：12-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/导入到 Obsidian.md",
     "website_to_read/2024-10-05 17：53：33-导入到 Obsidian.md",
@@ -147,7 +134,6 @@
     "website_to_read/2024-10-05 17：52：17-{{date}}-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/2024-10-05 17：52：56}-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
-    "website_to_read/2024-10-05 17：34：01-简悦从入门到疯魔.md",
     "website_to_read/强大、好用的「网页剪藏工具」盘点与推荐.md",
     "website_to_read/日常学习工作流 - CS 自学指南.md",
     "website_to_read/3000 + 小时积累的学习工作流.md",
@@ -161,9 +147,6 @@
     "website_to_read",
     "0-简悦从入门到疯魔.md",
     "日记/2024-40-10-05-6.md",
-    "/0-简悦从入门到疯魔.md",
-    "简悦从入门到疯魔.md",
-    "/简悦从入门到疯魔.md",
     "Computer/Algorithm",
     "Computer/Advanced/函数式编程",
     "Computer/Advanced/TCS",
