@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/daily.md",
+                "file": "environment/Ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/daily.md"
+                "file": "environment/Ubuntu.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/daily.md",
+                "file": "environment/Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "542b653a9593d054",
   "lastOpenFiles": [
+    "template/daily.md",
     "日记/2024-40-10-04-5.md",
     "todo.md",
     "environment/Ubuntu.md",
@@ -159,7 +160,6 @@
     "robot/视觉部培训.md",
     "list.md",
     "日记/2024-40-10-03-4.md",
-    "template/daily.md",
     "日记/2024-40-10-02-3.md",
     "template/weekly.md",
     "template/PDFtpl.md",
