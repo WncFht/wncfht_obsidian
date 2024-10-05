@@ -1,10 +1,11 @@
 ```ActivityHistory
-日记
+Computer
 ```
 
 ```ActivityHistory
 /
 ```
+
 - 做 科研进组，发论文，读研究生/直博（可能出国），工作
 - 本科实习直接就业，看情况出国工作
 - 刷 GPA，出国读研，出国工作
