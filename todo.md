@@ -24,6 +24,8 @@
 		- obsidian
 			- [Home - Obsidian Help](https://help.obsidian.md/)
 			- [技巧分享：Quicker 调用 Saladict 实现全局『文本翻译、截图翻译、复制翻译、触边翻译』 · crimx/ext-saladict · Discussion #493 · GitHub](https://github.com/crimx/ext-saladict/discussions/493)
+			- [🍀 花园导览 — 🌱 oldwinterの数字花园](https://notes.oldwinter.top/huayuan)
+			- [回归 Obsidian 的纯与真，写给普通人的入门指南 - 少数派](https://sspai.com/post/72697)
 		- git
 			- [Learn Git Branching](https://learngitbranching.js.org/?demo=&locale=zh_CN)
 			- [超详细的前端程序员 git 指北 | Justin3go](https://justin3go.com/posts/2022/10/14%E8%B6%85%E8%AF%A6%E7%BB%86%E7%9A%84%E5%89%8D%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98git%E6%8C%87%E5%8C%97)
@@ -146,23 +148,23 @@
 - forum, website
 	- [QuickRef.ME - Quick Reference Cheat Sheet](https://quickref.me/)
 		- 好像不是很有用
+		- articles
+			- [Reddit - Dive into anything](https://www.reddit.com/r/learnprogramming/wiki/faq/)
+			- [GitHub - pengsida/learning\_research: 本人的科研经验](https://github.com/pengsida/learning_research)
+			- [GitHub - zjufailure/how-to-succeed-in-zju-cs](https://github.com/zjufailure/how-to-succeed-in-zju-cs)
+			- [🍤 鱼肆周报主题认领！](https://www.yuque.com/xianyuxuan/saltfish_shop/weekly_headlines)
+			- [Yanyan's Wiki](https://jyywiki.cn/Reading_List.md)
+			- [GitHub - mzdluo123/SurfingTutorial: 给中国新大学生的网上冲浪和计算机使用教程](https://github.com/mzdluo123/SurfingTutorial)
+			- [HPC入门指南](https://hpc-sjtu.github.io/HPC_Start_Guide/)
+			- linux
+				- [目录 - 《Linux C编程一站式学习》 - 书栈网 · BookStack](https://www.bookstack.cn/read/linux-c/menu.md)
+				- [鸟哥的Linux私房菜：基础学习篇 第四版 | 鸟哥的 Linux 私房菜：基础学习篇 第四版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e)
+				- [Linux C编程一站式学习](https://akaedu.github.io/book/)
+				- [Linux基础 — Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh-cn/latest/base/)
+				- [Linux From Scratch](https://lfs.xry111.site/zh_CN/12.2/)
+				- [ArchWiki](https://wiki.archlinux.org/title/Main_page)
+				- [Linux Command Line Books by William Shotts](https://linuxcommand.org/tlcl.php)
+				- [Home | Linux Journey](https://linuxjourney.com/)
 	- [LINUX DO](https://linux.do/latest)
-- articles
-	- [Reddit - Dive into anything](https://www.reddit.com/r/learnprogramming/wiki/faq/)
-	- [GitHub - pengsida/learning\_research: 本人的科研经验](https://github.com/pengsida/learning_research)
-	- [GitHub - zjufailure/how-to-succeed-in-zju-cs](https://github.com/zjufailure/how-to-succeed-in-zju-cs)
-	- [🍤 鱼肆周报主题认领！](https://www.yuque.com/xianyuxuan/saltfish_shop/weekly_headlines)
-	- [Yanyan's Wiki](https://jyywiki.cn/Reading_List.md)
-	- [GitHub - mzdluo123/SurfingTutorial: 给中国新大学生的网上冲浪和计算机使用教程](https://github.com/mzdluo123/SurfingTutorial)
-	- [HPC入门指南](https://hpc-sjtu.github.io/HPC_Start_Guide/)
-	- linux
-		- [目录 - 《Linux C编程一站式学习》 - 书栈网 · BookStack](https://www.bookstack.cn/read/linux-c/menu.md)
-		- [鸟哥的Linux私房菜：基础学习篇 第四版 | 鸟哥的 Linux 私房菜：基础学习篇 第四版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e)
-		- [Linux C编程一站式学习](https://akaedu.github.io/book/)
-		- [Linux基础 — Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh-cn/latest/base/)
-		- [Linux From Scratch](https://lfs.xry111.site/zh_CN/12.2/)
-		- [ArchWiki](https://wiki.archlinux.org/title/Main_page)
-		- [Linux Command Line Books by William Shotts](https://linuxcommand.org/tlcl.php)
-		- [Home | Linux Journey](https://linuxjourney.com/)
 - 出国
 	- [【不止留学随笔】大一向留学常见问题答疑，当你很早开始准备留学的时候要准备什么？（第一弹） - CC98论坛 (zju.edu.cn)](http://www-cc98-org-s.webvpn.zju.edu.cn:8001/topic/5374161)
