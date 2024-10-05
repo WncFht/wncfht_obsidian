@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "environment/电脑配置.md",
+                "file": "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "environment/电脑配置.md"
+                "file": "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md"
               }
             }
           },
@@ -99,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,11 +115,14 @@
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "graph:查看关系图谱": false
     }
   },
-  "active": "4fa8b2c3d3772d66",
+  "active": "af4ab8e73361b92f",
   "lastOpenFiles": [
+    "obsidian.md",
+    "environment/电脑配置.md",
     "todo.md",
     "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
     "website_to_read/obsidian 使用教程完全篇 20231202.md",
@@ -146,8 +150,6 @@
     "website_to_read/相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/强大、好用的「网页剪藏工具」盘点与推荐.md",
     "website_to_read/日常学习工作流 - CS 自学指南.md",
-    "website_to_read/3000 + 小时积累的学习工作流.md",
-    "website_to_read/Obsidian 的高级玩法 _ 打造能跳转到任何格式文件的笔记.md",
     "{{date}}",
     "website_to_read",
     "Computer/Algorithm",
