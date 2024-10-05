@@ -11,12 +11,8 @@
             "id": "72bc55ef4fe5b386",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "website_to_read/强大、好用的「网页剪藏工具」盘点与推荐.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,9 +73,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "website_to_read/强大、好用的「网页剪藏工具」盘点与推荐.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "website_to_read/强大、好用的「网页剪藏工具」盘点与推荐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +129,16 @@
   },
   "active": "72bc55ef4fe5b386",
   "lastOpenFiles": [
+    "website_to_read/2024-10-05 17：53：12-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
+    "website_to_read/导入到 Obsidian.md",
+    "website_to_read/2024-10-05 17：53：33-导入到 Obsidian.md",
+    "website_to_read/2024-10-05 17：53：35-导入到 Obsidian.md",
+    "website_to_read/2024-10-05 17：53：39-导入到 Obsidian.md",
+    "website_to_read/untitled.md",
+    "website_to_read/2024-10-05 17：53：40-导入到 Obsidian.md",
+    "website_to_read/2024-10-05 17：52：17-{{date}}-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
+    "website_to_read/2024-10-05 17：52：56}-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
+    "website_to_read/相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/2024-10-05 17：34：01-简悦从入门到疯魔.md",
     "website_to_read/强大、好用的「网页剪藏工具」盘点与推荐.md",
     "website_to_read/日常学习工作流 - CS 自学指南.md",
@@ -154,16 +157,6 @@
     "简悦从入门到疯魔.md",
     "/简悦从入门到疯魔.md",
     "日记/2024-40-10-01-2.md",
-    "日记/2024-40-10-02-3.md",
-    "日记/2024-40-10-04-5.md",
-    "日记/2024-40-10-03-4.md",
-    "environment/Ubuntu.md",
-    "template/daily.md",
-    "todo.md",
-    "summary.md",
-    "test.md",
-    "robot/robomaster.md",
-    "robot/视觉部培训.md",
     "Computer/Algorithm",
     "Computer/Advanced/函数式编程",
     "Computer/Advanced/TCS",

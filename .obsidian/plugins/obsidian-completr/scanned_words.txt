@@ -3465,6 +3465,8 @@ cast
 coastal
 complexity
 comparable
+cover
+comment
 Computer
 Concepts
 ChatGpt
@@ -6863,6 +6865,7 @@ CCcxGSwAAAABJRU
 Clipper
 Copy
 Cyborg
+Chrome
 Organazation
 OSTEP
 Operating
@@ -10158,6 +10161,9 @@ Occasion
 Outliner
 Obsidian
 OneNote
+Obsdian
+Obsidan
+Obsidain
 and
 all
 amp
@@ -13565,6 +13571,9 @@ anki
 azw
 acrobat
 acmjFLqCyJuTd
+author
+annote
+assets
 Design
 Data
 Database
@@ -16821,6 +16830,8 @@ Discuss
 Documentation
 DcAnLUpf
 DEVONthink
+DevTools
+Done
 The
 Team
 TVM
@@ -20402,6 +20413,7 @@ TeujpX
 TaKy
 TabCopy
 Tab
+Telim
 Hardware
 HPC
 Hulu
@@ -27362,6 +27374,9 @@ Summary
 Simple
 Syndication
 Single
+Scheme
+SimpRead
+Sync
 Interface
 Isomorphic
 Inference
@@ -30721,6 +30736,7 @@ IoIYY
 IwxZo
 INgQYEYKBuW
 ImageAssistant
+Installer
 And
 Algorithm
 Analysis
@@ -34073,6 +34089,7 @@ Afternoon
 Annotator
 ASIi
 AahKr
+Advanced
 java
 jyy
 js
@@ -44350,6 +44367,7 @@ UNXe
 UWN
 UQwt
 UJeTN
+Unread
 Linux
 Learning
 Large
@@ -47658,6 +47676,7 @@ LAPzOCDTJYQx
 LEGFttpmkYC
 LYXJgTzjZm
 Logseq
+Live
 Kernel
 Kernal
 Keys
@@ -51057,6 +51076,7 @@ KAZE
 Kinect
 KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP
 Keep
+Kenshin
 os
 of
 on
@@ -67822,6 +67842,7 @@ graphics
 global
 gUNwiEFGz
 grEf
+gumuyueying
 MLsystem
 MLsys
 Mlsys
@@ -71198,6 +71219,7 @@ MLaXUDiJuzwngn
 MCHf
 MarkDownload
 MaoXian
+Mac
 JYY
 Jim
 Jina
@@ -77873,6 +77895,7 @@ where
 weekly
 wScjO
 wlRkq
+weixin
 lab
 lightning
 latex
@@ -87921,6 +87944,9 @@ summary
 sQljjPlMRMsxO
 splxxKYHEgoUUpTo
 sufIhBwKI
+strong
+sspai
+simpread
 torch
 training
 tune
@@ -91351,6 +91377,7 @@ texts
 toString
 tempFileSet
 tKpewWZ
+timestamp
 for
 fancy
 follow
@@ -104956,6 +104983,7 @@ icon
 indexOf
 iVBORw
 ixAAACbklEQVRoQ
+isoDateTime
 you
 yX
 yYX
@@ -108092,6 +108120,7 @@ yOV
 ynUHbU
 ypA
 youtube
+yyyyddmmHHMMss
 Zero
 Zookeeper
 Zanzibar
@@ -121409,6 +121438,8 @@ http
 https
 hlmbG
 hxENJqDKQEJtko
+href
+hovercard
 up
 ucb
 universal
@@ -124648,6 +124679,7 @@ understands
 upload
 union
 url
+untitled
 kernel
 kickstart
 kdd
@@ -134637,6 +134669,7 @@ robot
 request
 rjKRJ
 rrbwDwofGehQjjNcv
+rexchun
 xv
 xpy
 xlb
@@ -141143,6 +141176,7 @@ Easy
 EALMbCAlMCmI
 ErkJggg
 Eagle
+Edge
 Raft
 Rocksdb
 Reader
@@ -151300,6 +151334,8 @@ VIt
 VVa
 VOI
 VEX
+Vivaldi
+Valut
 qq
 questions
 query
@@ -164071,6 +164107,7 @@ version
 vyP
 vzrlNJszESWq
 vZusfBnqZ
+video
 debug
 design
 dead
@@ -167570,6 +167607,8 @@ disassembler
 dMRCGZw
 dUQZcFCQ
 djoQUE
+devonthink
+discussions
 Youtube
 YOLO
 Your
@@ -170860,6 +170899,7 @@ YAfY
 Yyo
 YZrS
 YMPxhIDDOuxC
+YAML
 Xg
 Xx
 XC
