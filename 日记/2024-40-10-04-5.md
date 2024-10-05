@@ -4,7 +4,7 @@
 
 ### 1.1 Plan
 
-### 1.2 Reivew
+### 1.2 Review
 
 ## 2 Afternoon
 

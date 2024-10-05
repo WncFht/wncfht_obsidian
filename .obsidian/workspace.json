@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "environment/Ubuntu.md",
+                "file": "日记/2024-40-10-05-6.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "environment/Ubuntu.md"
+                "file": "日记/2024-40-10-05-6.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "environment/Ubuntu.md",
+                "file": "日记/2024-40-10-05-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -149,22 +149,23 @@
   },
   "active": "542b653a9593d054",
   "lastOpenFiles": [
-    "template/daily.md",
+    "日记/2024-40-10-01-2.md",
+    "日记/2024-40-10-02-3.md",
     "日记/2024-40-10-04-5.md",
-    "todo.md",
+    "日记/2024-40-10-03-4.md",
+    "日记/2024-40-10-05-6.md",
     "environment/Ubuntu.md",
+    "template/daily.md",
+    "todo.md",
     "environment/software list.md",
     "summary.md",
     "test.md",
     "robot/robomaster.md",
     "robot/视觉部培训.md",
     "list.md",
-    "日记/2024-40-10-03-4.md",
-    "日记/2024-40-10-02-3.md",
     "template/weekly.md",
     "template/PDFtpl.md",
     "robot/DartDetect.md",
-    "日记/2024-40-10-01-2.md",
     "environment/obsidian 配置.md",
     "environment/电脑配置.md",
     "environment/arch.md",
@@ -174,7 +175,6 @@
     "日记/2024-40-09-30-1.md",
     "Books/圣经.md",
     "plan/个人路线 1.0.0.md",
-    "日记/2024-39-09-24-2.md",
     "Computer/Algorithm",
     "Computer/Advanced/函数式编程",
     "Computer/Advanced/TCS",
