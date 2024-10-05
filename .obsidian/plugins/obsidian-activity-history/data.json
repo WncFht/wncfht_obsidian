@@ -1,0 +1,76 @@
+{
+  "firstRun": false,
+  "initialized": [
+    {
+      "path": "日记",
+      "initialized": true
+    },
+    {
+      "path": "/",
+      "initialized": true
+    },
+    {
+      "path": "Computer",
+      "initialized": true
+    }
+  ],
+  "trackedProjects": [
+    "日记",
+    "/",
+    "Computer"
+  ],
+  "checkpointList": [
+    {
+      "path": "日记",
+      "date": "2024-10-05",
+      "size": 9469
+    },
+    {
+      "path": "/",
+      "date": "2024-10-05",
+      "size": 1169809
+    },
+    {
+      "path": "Computer",
+      "date": "2024-10-05",
+      "size": 97427
+    }
+  ],
+  "activityHistory": [
+    {
+      "path": "日记",
+      "size": [
+        {
+          "date": "2024-10-05",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "path": "/",
+      "size": [
+        {
+          "date": "2024-10-05",
+          "value": 57
+        }
+      ]
+    },
+    {
+      "path": "Computer",
+      "size": [
+        {
+          "date": "2024-10-05",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "activityColor1": "#ff9292",
+  "activityColor2": "#ff9292",
+  "activityColor3": "#ffb4b4",
+  "activityColor4": "#f14668",
+  "textColor": "#ffffff",
+  "emptyColor": "#ecedf0",
+  "cellRadius": 14,
+  "type": "yearly"
+}
