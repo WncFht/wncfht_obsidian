@@ -1,3 +1,7 @@
 {
-  "cssTheme": "Shimmering Focus"
+  "cssTheme": "obsidian",
+  "accentColor": "",
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "theme": "obsidian"
 }

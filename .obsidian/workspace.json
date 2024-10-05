@@ -15,6 +15,7 @@
               "state": {
                 "file": "todo.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -107,18 +108,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:插入模板": false,
+      "templates:插入模板": true,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": true,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
       "periodic-notes:Open today": false
     }
   },
-  "active": "72bc55ef4fe5b386",
+  "active": "c43b02e295c4e846",
   "lastOpenFiles": [
+    "zob-source/image",
+    "zob-source",
     "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md",
     "summary.md",
     "test.md",
@@ -146,7 +149,6 @@
     "environment/software list.md",
     "website_to_read",
     "0-简悦从入门到疯魔.md",
-    "日记/2024-40-10-05-6.md",
     "Computer/Algorithm",
     "Computer/Advanced/函数式编程",
     "Computer/Advanced/TCS",
@@ -154,7 +156,6 @@
     "Computer/Basic",
     "Computer/Advanced",
     "Computer",
-    "Math",
     "转SE简历.jpg",
     "attachment/QQ_1723428546109.png",
     "attachment/QQ_1723428144501.png",
