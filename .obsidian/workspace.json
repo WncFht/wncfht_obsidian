@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "environment/电脑配置.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "environment/电脑配置.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "4fa8b2c3d3772d66",
   "lastOpenFiles": [
+    "todo.md",
     "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
     "website_to_read/obsidian 使用教程完全篇 20231202.md",
     "test.md",
@@ -127,7 +128,6 @@
     "日记/2024-40-10-05-6.md",
     "日记/2024-W37-09.md",
     "日记/2024-W38-09.md",
-    "todo.md",
     "Computer/Language/C++/Accelerated C++.md",
     "summary.md",
     "zob-source/images",
