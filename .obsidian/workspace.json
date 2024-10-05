@@ -11,8 +11,12 @@
             "id": "72bc55ef4fe5b386",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md"
+              }
             }
           },
           {
@@ -98,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +136,7 @@
   },
   "active": "72bc55ef4fe5b386",
   "lastOpenFiles": [
+    "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md",
     "website_to_read/2024-10-05 17：53：12-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/导入到 Obsidian.md",
     "website_to_read/2024-10-05 17：53：33-导入到 Obsidian.md",
@@ -156,7 +164,6 @@
     "/0-简悦从入门到疯魔.md",
     "简悦从入门到疯魔.md",
     "/简悦从入门到疯魔.md",
-    "日记/2024-40-10-01-2.md",
     "Computer/Algorithm",
     "Computer/Advanced/函数式编程",
     "Computer/Advanced/TCS",

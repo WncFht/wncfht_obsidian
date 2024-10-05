@@ -3467,6 +3467,8 @@ complexity
 comparable
 cover
 comment
+couldn
+calendar
 Computer
 Concepts
 ChatGpt
@@ -6866,6 +6868,11 @@ Clipper
 Copy
 Cyborg
 Chrome
+Content
+ChatGPT
+Claud
+Chat
+ChatPDF
 Organazation
 OSTEP
 Operating
@@ -16832,6 +16839,8 @@ DcAnLUpf
 DEVONthink
 DevTools
 Done
+DavyCloud
+DataView
 The
 Team
 TVM
@@ -20414,6 +20423,8 @@ TaKy
 TabCopy
 Tab
 Telim
+Table
+Topaz
 Hardware
 HPC
 Hulu
@@ -27377,6 +27388,8 @@ Single
 Scheme
 SimpRead
 Sync
+SQL
+Shimmering
 Interface
 Isomorphic
 Inference
@@ -34090,6 +34103,8 @@ Annotator
 ASIi
 AahKr
 Advanced
+Areas
+Archives
 java
 jyy
 js
@@ -37603,6 +37618,7 @@ jewel
 just
 jmld
 jWmE
+journals
 proj
 python
 paper
@@ -40999,6 +41015,9 @@ paxos
 png
 pSIVlrC
 pkfxKMtd
+plain
+pandoc
+publish
 Understanding
 USTC
 Unix
@@ -47677,6 +47696,8 @@ LEGFttpmkYC
 LYXJgTzjZm
 Logseq
 Live
+LYT
+Linking
 Kernel
 Kernal
 Keys
@@ -51077,6 +51098,8 @@ Kinect
 KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP
 Keep
 Kenshin
+Kanban
+Kimi
 os
 of
 on
@@ -57657,6 +57680,7 @@ notes
 negative
 navigation
 nesvGW
+notepad
 Network
 Nvidia
 NCNN
@@ -64460,6 +64484,10 @@ Plan
 Promise
 Paragraph
 PKikjhNNiiPGm
+PARA
+Projects
+PAPERs
+PAGEs
 games
 go
 google
@@ -71220,6 +71248,9 @@ MCHf
 MarkDownload
 MaoXian
 Mac
+MOC
+MarginNote
+Markdownload
 JYY
 Jim
 Jina
@@ -77896,6 +77927,8 @@ weekly
 wScjO
 wlRkq
 weixin
+wiki
+wikilinks
 lab
 lightning
 latex
@@ -84457,6 +84490,7 @@ GraphSLAM
 GJaNd
 GZFERMmUT
 GqyIdJq
+Graphite
 spring
 system
 size
@@ -87947,6 +87981,8 @@ sufIhBwKI
 strong
 sspai
 simpread
+started
+satisfy
 torch
 training
 tune
@@ -91378,6 +91414,10 @@ toString
 tempFileSet
 tKpewWZ
 timestamp
+taking
+todo
+theme
+templates
 for
 fancy
 follow
@@ -94709,6 +94749,9 @@ feedly
 fEQIKIPRGS
 fcywoyIFWqInWN
 flomo
+find
+field
+folder
 model
 mass
 mindspore
@@ -98134,6 +98177,7 @@ mathbf
 myPicBedUrl
 markdwon
 mobi
+mdlinks
 blog
 batchsize
 batch
@@ -104984,6 +105028,7 @@ indexOf
 iVBORw
 ixAAACbklEQVRoQ
 isoDateTime
+iframe
 you
 yX
 yYX
@@ -111376,6 +111421,8 @@ ZVo
 Zjpq
 Zhzx
 ZXgAg
+Zettelkasten
+Zotero
 Fusion
 Fine
 Framework
@@ -114581,6 +114628,7 @@ Find
 Fatkun
 FlowUs
 FLowUs
+Focus
 Quant
 Qa
 QR
@@ -127972,6 +128020,7 @@ king
 kinds
 kind
 kGCuFSRVzSqkfiLiWmY
+knowledge
 BladeDISC
 Bagua
 Blog
@@ -131343,6 +131392,8 @@ BTkHgBdDAgGAC
 BSONbTmFVp
 BsD
 Bear
+Benature
+Blue
 rust
 recording
 ref
@@ -134670,6 +134721,8 @@ request
 rjKRJ
 rrbwDwofGehQjjNcv
 rexchun
+remind
+recent
 xv
 xpy
 xlb
@@ -141177,6 +141230,7 @@ EALMbCAlMCmI
 ErkJggg
 Eagle
 Edge
+Erica
 Raft
 Rocksdb
 Reader
@@ -144606,6 +144660,8 @@ REgoiRIpQkCYClCYpkgIESQFIpIlkW
 Roam
 Really
 Reeder
+Rabbit
+Reverie
 WiscKey
 Web
 WIFI
@@ -148078,6 +148134,8 @@ Writers
 War
 Wrapper
 WULwnb
+Word
+Wiki
 Values
 VP
 Vz
@@ -151336,6 +151394,7 @@ VOI
 VEX
 Vivaldi
 Valut
+Viewer
 qq
 questions
 query
@@ -160905,6 +160964,8 @@ emotion
 expecting
 everyday
 early
+extensible
+emoji
 vue
 vision
 variance
@@ -164108,6 +164169,8 @@ vyP
 vzrlNJszESWq
 vZusfBnqZ
 video
+vitamind
+vault
 debug
 design
 dead
@@ -167609,6 +167672,7 @@ dUQZcFCQ
 djoQUE
 devonthink
 discussions
+dataview
 Youtube
 YOLO
 Your
