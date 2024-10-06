@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
+                "file": "test.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,16 +74,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f0a1b647b0e4e02",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md"
-              }
-            }
-          },
-          {
             "id": "af4ab8e73361b92f",
             "type": "leaf",
             "state": {
@@ -99,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,16 +104,17 @@
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
-      "periodic-notes:Open today": false,
-      "graph:查看关系图谱": false
+      "graph:查看关系图谱": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "af4ab8e73361b92f",
+  "active": "4fa8b2c3d3772d66",
   "lastOpenFiles": [
+    "日记/2024-40-10-06-7.md",
+    "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
     "obsidian.md",
     "environment/电脑配置.md",
     "todo.md",
-    "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
     "website_to_read/obsidian 使用教程完全篇 20231202.md",
     "test.md",
     "zob_config",
@@ -149,7 +139,6 @@
     "website_to_read/2024-10-05 17：52：56}-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/强大、好用的「网页剪藏工具」盘点与推荐.md",
-    "website_to_read/日常学习工作流 - CS 自学指南.md",
     "{{date}}",
     "website_to_read",
     "Computer/Algorithm",
