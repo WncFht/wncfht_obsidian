@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "转专业/IEEE的经验规划.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
       {
         "id": "ee185182cd8a8c48",
         "type": "tabs",
-        "dimension": 42.22222222222222,
+        "dimension": 42.222222222222214,
         "children": [
           {
             "id": "43f2a08e8da8da62",
@@ -103,7 +103,7 @@
       {
         "id": "98328103bdce2a61",
         "type": "tabs",
-        "dimension": 57.77777777777778,
+        "dimension": 57.777777777777786,
         "children": [
           {
             "id": "af4ab8e73361b92f",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "转专业/IEEE的经验规划.md"
               }
             }
           }
@@ -135,19 +135,17 @@
       "templates:插入模板": true,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": true,
-      "pdf-plus:PDF++: Toggle auto-focus": true,
-      "pdf-plus:PDF++: Toggle auto-paste": true,
       "graph:查看关系图谱": false,
-      "periodic-notes:Open today": false,
       "workspaces:管理工作区布局": false,
+      "periodic-notes:Open today": false,
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "38119d24dd106535",
+  "active": "4fa8b2c3d3772d66",
   "lastOpenFiles": [
-    "environment/开发环境配置.md",
+    "日记/2024-41-10-07-1.md",
     "todo.md",
+    "environment/开发环境配置.md",
     "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md",
     "summary.md",
     "test.md",
@@ -174,7 +172,6 @@
     "website_to_read/2024-10-05 17：53：40-导入到 Obsidian.md",
     "website_to_read/2024-10-05 17：52：17-{{date}}-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/2024-10-05 17：52：56}-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
-    "website_to_read/相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "{{date}}",
     "website_to_read",
     "Computer/Algorithm",
