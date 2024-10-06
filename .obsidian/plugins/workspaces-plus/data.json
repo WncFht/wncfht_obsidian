@@ -11,5 +11,5 @@
   "reloadLivePreview": false,
   "workspaceSwitcherRibbon": true,
   "modeSwitcherRibbon": false,
-  "replaceNativeRibbon": false
+  "replaceNativeRibbon": true
 }

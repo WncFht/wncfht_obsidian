@@ -5,12 +5,16 @@
       "path": "todo.md"
     },
     {
-      "basename": "summary",
-      "path": "summary.md"
-    },
-    {
       "basename": "开发环境配置",
       "path": "environment/开发环境配置.md"
+    },
+    {
+      "basename": "2024-10-05 17：59：56-如何使用 Obsidian 软件？",
+      "path": "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md"
+    },
+    {
+      "basename": "summary",
+      "path": "summary.md"
     }
   ],
   "omittedPaths": []

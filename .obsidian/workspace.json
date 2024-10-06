@@ -88,7 +88,7 @@
       {
         "id": "ee185182cd8a8c48",
         "type": "tabs",
-        "dimension": 39.28888888888889,
+        "dimension": 42.22222222222222,
         "children": [
           {
             "id": "43f2a08e8da8da62",
@@ -103,7 +103,7 @@
       {
         "id": "98328103bdce2a61",
         "type": "tabs",
-        "dimension": 60.711111111111116,
+        "dimension": 57.77777777777778,
         "children": [
           {
             "id": "af4ab8e73361b92f",
@@ -139,17 +139,18 @@
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
       "graph:查看关系图谱": false,
-      "workspaces:管理工作区布局": false,
       "periodic-notes:Open today": false,
+      "workspaces:管理工作区布局": false,
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "a50dbc06c6016297",
+  "active": "38119d24dd106535",
   "lastOpenFiles": [
-    "summary.md",
     "environment/开发环境配置.md",
-    "test.md",
     "todo.md",
+    "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md",
+    "summary.md",
+    "test.md",
     "日记/2024-40-10-06-7.md",
     "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
     "obsidian.md",
@@ -163,7 +164,6 @@
     "Computer/Language/C++/Accelerated C++.md",
     "zob-source/images",
     "zob-source",
-    "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md",
     "website_to_read/2024-10-05 17：34：01-简悦从入门到疯魔.md",
     "website_to_read/2024-10-05 17：53：12-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/导入到 Obsidian.md",
