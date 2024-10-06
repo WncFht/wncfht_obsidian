@@ -184,5 +184,7 @@
       "key": ","
     }
   ],
-  "obsidian-excalidraw-plugin:save": []
+  "obsidian-excalidraw-plugin:save": [],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "easy-typing-obsidian:easy-typing-paste-without-format": []
 }

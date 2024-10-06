@@ -10,7 +10,6 @@
   "obsidian-completr",
   "obsidian-image-auto-upload-plugin",
   "obsidian-local-rest-api",
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-mind-map",
   "remember-cursor-position",
@@ -21,5 +20,6 @@
   "tasks-calendar-wrapper",
   "obsidian-tasks-plugin",
   "pdf-plus",
-  "obsidian-wakatime"
+  "obsidian-wakatime",
+  "recent-files-obsidian"
 ]

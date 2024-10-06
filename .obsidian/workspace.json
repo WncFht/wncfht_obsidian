@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "todo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,6 +57,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "38119d24dd106535",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -88,12 +96,22 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "a50dbc06c6016297",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "todo.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -108,22 +126,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4fa8b2c3d3772d66",
+  "active": "c43b02e295c4e846",
   "lastOpenFiles": [
+    "summary.md",
+    "environment/开发环境配置.md",
+    "test.md",
+    "todo.md",
     "日记/2024-40-10-06-7.md",
     "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
     "obsidian.md",
     "environment/电脑配置.md",
-    "todo.md",
     "website_to_read/obsidian 使用教程完全篇 20231202.md",
-    "test.md",
     "zob_config",
     "list.md",
     "日记/2024-40-10-05-6.md",
     "日记/2024-W37-09.md",
     "日记/2024-W38-09.md",
     "Computer/Language/C++/Accelerated C++.md",
-    "summary.md",
     "zob-source/images",
     "zob-source",
     "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md",
@@ -138,7 +157,6 @@
     "website_to_read/2024-10-05 17：52：17-{{date}}-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/2024-10-05 17：52：56}-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
-    "website_to_read/强大、好用的「网页剪藏工具」盘点与推荐.md",
     "{{date}}",
     "website_to_read",
     "Computer/Algorithm",
