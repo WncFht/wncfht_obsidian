@@ -6,5 +6,6 @@
   "command-palette",
   "editor-status",
   "outline",
-  "word-count"
+  "word-count",
+  "workspaces"
 ]

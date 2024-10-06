@@ -32,6 +32,7 @@
       {
         "id": "88a447b3194ed60c",
         "type": "tabs",
+        "dimension": 58.9648798521257,
         "children": [
           {
             "id": "1d3e0639cf4c759c",
@@ -57,7 +58,15 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "414a62a80d4fa672",
+        "type": "tabs",
+        "dimension": 41.0351201478743,
+        "children": [
           {
             "id": "38119d24dd106535",
             "type": "leaf",
@@ -66,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,22 +86,30 @@
     "type": "split",
     "children": [
       {
+        "id": "ee185182cd8a8c48",
+        "type": "tabs",
+        "dimension": 39.28888888888889,
+        "children": [
+          {
+            "id": "43f2a08e8da8da62",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "98328103bdce2a61",
         "type": "tabs",
+        "dimension": 60.711111111111116,
         "children": [
           {
             "id": "af4ab8e73361b92f",
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "43f2a08e8da8da62",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           },
@@ -107,26 +123,28 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "templates:插入模板": true,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": true,
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
       "graph:查看关系图谱": false,
-      "periodic-notes:Open today": false
+      "workspaces:管理工作区布局": false,
+      "periodic-notes:Open today": false,
+      "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "c43b02e295c4e846",
+  "active": "a50dbc06c6016297",
   "lastOpenFiles": [
     "summary.md",
     "environment/开发环境配置.md",
