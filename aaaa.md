@@ -1,6 +1,6 @@
 - [[Environment, software, tools]]
 - [[../robot/Robot]]
-- [[../Math/Math]]
+- [[Math]]
 - [[graph/Computer Science]]
 - [[route]]
 - [[forum, website]]
