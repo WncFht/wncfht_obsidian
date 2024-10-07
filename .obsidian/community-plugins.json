@@ -11,11 +11,9 @@
   "obsidian-image-auto-upload-plugin",
   "obsidian-local-rest-api",
   "obsidian-git",
-  "remember-cursor-position",
   "obsidian-linter",
   "calendar",
   "periodic-notes",
   "recent-files-obsidian",
-  "obsidian-wakatime",
-  "note-refactor-obsidian"
+  "obsidian-wakatime"
 ]
