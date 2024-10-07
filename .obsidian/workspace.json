@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "414a62a80d4fa672",
@@ -139,7 +140,7 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "af4ab8e73361b92f",
+  "active": "c43b02e295c4e846",
   "lastOpenFiles": [
     "神奇的网站.md",
     "todo.md",
