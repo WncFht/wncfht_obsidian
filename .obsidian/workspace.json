@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "todo.md"
               }
             }
           },
@@ -107,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +136,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "e1860ebb4f4cc74e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -147,54 +154,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "56834dc6ecff0937",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "开发环境配置.md",
-    "未命名.md",
-    "blog.md",
-    "password.md",
     "summary on 240925.md",
-    "todo.md",
-    "VY100ENGL1000J.md",
-    "Excalidraw/Drawing 2024-10-02 09.07.24.excalidraw.md",
-    "读书笔记/视觉SLAM十四讲.md",
-    "电控.md",
+    "password.md",
+    "robot/卡尔曼滤波.md",
     "卡尔曼滤波.md",
-    "个人路线 1.0.0.md",
-    "test.md",
-    "配置.md",
-    "cs70.md",
-    "test1.md",
+    "todo.md",
+    "量化/转行量化3.md",
+    "量化/量化1.md",
+    "量化/转行量化2.md",
+    "量化/北大量化4.md",
+    "量化",
+    "读书笔记/计算机组成与设计硬件软件接口.md",
+    "读书笔记/计算机系统基础.md",
+    "读书笔记/视觉SLAM十四讲.md",
+    "读书笔记/统计学习方法.md",
+    "读书笔记/深入理解计算机系统.md",
+    "读书笔记/概率论与数理统计 陈希孺.md",
+    "读书笔记/survivesjtu_note.md",
+    "读书笔记/圣经.md",
+    "读书笔记/STLC开始的类型论入门.md",
+    "读书笔记/Elm Gudie.md",
+    "读书笔记/Convex Optimization.md",
+    "读书笔记/Accelerated C++.md",
+    "读书笔记",
+    "tech/CMake.md",
+    "tech",
+    "VY100ENGL1000J.md",
+    "template/daily.md",
+    "密院/VY100ENGL1000J/Lewis, Norman - Word Power Made Easy-Knopf Doubleday Publishing Group (2014).pdf",
+    "密院/VY100ENGL1000J/jeffrey_r._wilson_academic_writing.pdf",
+    "密院/VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
+    "密院/VY100ENGL1000J/Dreyer_s_English_An_Utterly_Correct_Guid.pdf",
+    "密院/VY100ENGL1000J",
+    "others",
+    "Quantum",
     "转SE简历.jpg",
-    "C++/C++.md",
-    "笔记、博客 规范.md",
-    "cs70/cs70.md",
-    "日记/2024-09.md",
-    "cs61a/cs61a.md",
-    "trash/台词本摘抄.md",
-    "trash/单词本整理.md",
-    "cs61b/cs61b.md",
-    "trash/翻译第二期.md",
-    "Untitled-2.log",
-    "cs61c/cs61c.md",
-    "Untitled-2.xdv",
-    "Untitled-2.aux",
-    "Untitled-2.tex",
-    "Untitled-2.fls",
-    "Untitled-2.toc",
-    "高中经验分享/技术经验分享.pdf",
-    "Untitled-2.synctex.gz",
-    "Untitled-2.fdb_latexmk",
     "attachment/QQ_1723428086546.png",
     "attachment/QQ_1723428546109.png",
     "attachment/QQ_1723427987352.png",
@@ -203,7 +211,6 @@
     "attachment/QQ_1723427999572.png",
     "attachment/QQ_1723427114723.png",
     "attachment/QQ_1723427040762.png",
-    "C++",
     "attachment/QQ_1723426283414.png",
     "未命名.canvas"
   ]

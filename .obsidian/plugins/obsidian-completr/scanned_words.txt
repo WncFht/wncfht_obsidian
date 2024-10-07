@@ -3317,6 +3317,7 @@ consists
 critical
 closed
 characteristics
+completr
 Computer
 Concepts
 ChatGpt
@@ -6555,6 +6556,7 @@ Cyeles
 Conflicts
 Children
 Cuisine
+Calibration
 Organazation
 OSTEP
 Operating
@@ -19604,6 +19606,8 @@ TaG
 Trading
 Teaser
 Trader
+Technology
+THOUGHTS
 Hardware
 HPC
 Hulu
@@ -22855,6 +22859,7 @@ Horn
 HFA
 Homework
 HEAD
+Holes
 Software
 Structure
 System
@@ -32681,6 +32686,8 @@ Aechitecture
 Axmath
 Additional
 Academic
+Advance
+Afternoon
 java
 jyy
 js
@@ -39349,6 +39356,8 @@ participation
 personal
 paragraph
 purpose
+plan
+prepare
 Understanding
 USTC
 Unix
@@ -45817,6 +45826,8 @@ Laplace
 Lisp
 Lesson
 Literature
+Learing
+LINKS
 Kernel
 Kernal
 Keys
@@ -52352,6 +52363,7 @@ option
 occurrence
 others
 origin
+opencv
 net
 nn
 need
@@ -55464,6 +55476,7 @@ nomachine
 night
 nominal
 nihao
+neovim
 Network
 Nvidia
 NCNN
@@ -58595,6 +58608,7 @@ Normalized
 Neob
 Nebo
 Numpy
+Night
 Programming
 Parallel
 PLAM
@@ -62046,6 +62060,7 @@ PowerPoint
 Pandas
 Project
 Please
+Plan
 games
 go
 google
@@ -65309,6 +65324,7 @@ gsudo
 ground
 good
 grammar
+graphics
 MLsystem
 MLsys
 Mlsys
@@ -68564,6 +68580,8 @@ Market
 Making
 Million
 Manuel
+Math
+Morning
 JYY
 Jim
 Jina
@@ -75001,6 +75019,8 @@ wolfram
 wireshark
 wkld
 writing
+words
+workspace
 lab
 lightning
 latex
@@ -84676,6 +84696,8 @@ skills
 something
 situation
 synthesize
+scanned
+software
 torch
 training
 tune
@@ -91224,6 +91246,8 @@ fertile
 freshmen
 firstly
 five
+forum
+few
 model
 mass
 mindspore
@@ -97881,6 +97905,7 @@ below
 bridge
 breaks
 brings
+beamer
 is
 inference
 in
@@ -129932,6 +129957,10 @@ repeated
 requires
 ranging
 reason
+remote
+rectuitment
+route
+reorganize
 xv
 xpy
 xlb
@@ -136202,6 +136231,7 @@ Ether
 ESP
 Efficiency
 ENGL
+Environment
 Raft
 Rocksdb
 Reader
@@ -139498,6 +139528,8 @@ Robust
 Ruby
 Roboanalyzer
 RoboMaster
+Robot
+REVIEW
 WiscKey
 Web
 WIFI
@@ -146036,6 +146068,7 @@ VSCode
 VOFA
 VMware
 VScode
+VEX
 qq
 questions
 query
@@ -161756,6 +161789,7 @@ desired
 discourse
 down
 dominance
+date
 Youtube
 YOLO
 Your
