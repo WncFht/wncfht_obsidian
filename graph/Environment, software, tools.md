@@ -1,0 +1,36 @@
+# Environment, software, tools
+
+- software
+	- [Site Unreachable](https://blog.xm.mk/posts/b15e/)
+	- zotero
+	- [GitHub - deskflow/deskflow: Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.](https://github.com/deskflow/deskflow)
+	- vim：
+		- [A Great Vim Cheat Sheet](https://vimsheet.com/)
+		- [Vim Cheat Sheet](https://vim.rtorr.com/lang/zh_cn)
+		- [VSCodeVim 最佳实践 | 周岩的 BLOG](https://zhouyanlt.github.io/vim/2019/09/20/vscode-vim-best-practices.html)
+		- [VSCode Vim 使用指南](https://hanzhen.wang/posts/vscode-vim)
+		- [vim相关的一个键位教程](https://cworld.top/blog/vim-key)  
+		- neovim
+			- [Fetching Title#rluj](https://innei.in/posts/Z-Turn/nvim-lua-config-init)
+	- remote 
+		- [串流游戏百问百答（4）：PC进阶 | Parsec使用指南 - 哔哩哔哩](https://www.bilibili.com/read/cv32334628)  
+		- [win11使用ipad(平板)做副屏，纯软件实现方案【无需虚拟显示器】 - 哔哩哔哩](https://www.bilibili.com/read/cv23432170/#:~:text=%E6%89%93%E5%BC%80%E5%B9%B3%E6%9D%BF%E7%AB%AF%E7%9A%84moon)
+		- [zhuanlan.zhihu.com/p/657881254](https://zhuanlan.zhihu.com/p/657881254)
+		- [使用Sunshine+Moonlight实现游戏远程串流教程](https://www.hangge.com/blog/cache/detail_3544.html#:~:text=Sunshine%20+)
+		- [Parsec介绍及快速配置 - Makise](https://makise.xlog.app/parsec?)
+		- [ipads 用 moonlight + sunshine 实现副屏方案](https://zhuanlan.zhihu.com/p/669124021#:~:text=%E3%80%90%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%E3%80%91%201.%E8%BD%AF)
+		- [如何远程操作电脑](https://obsidian.zerokei.top/Hub/%E5%A6%82%E4%BD%95%E8%BF%9C%E7%A8%8B%E6%93%8D%E4%BD%9C%E7%94%B5%E8%84%91/)
+		- [Sunshine + Moonlight 熄屏串流方式 - 哔哩哔哩](https://www.bilibili.com/read/cv30603647/#:~:text=%E7%94%B1%E4%BA%8E%E4%B9%8B%E5%89%8D%E6%9C%89%E6%AE%B5%E6%97%B6%E9%97%B4%E4%B8%8D%E5%9C%A8)
+		- [如何使用虚拟机](https://blog.csdn.net/m0_66480474/article/details/142535224#:~:text=parsec%E6%98%AF%E4%B8%80%E6%AC%BE%E7%9B%B8)
+	- [ProxyChain](https://zhuanlan.zhihu.com/p/166375631#:~:text=ProxyChain)
+	- obsidian
+		- [Home - Obsidian Help](https://help.obsidian.md/)
+		- [技巧分享：Quicker 调用 Saladict 实现全局『文本翻译、截图翻译、复制翻译、触边翻译』 · crimx/ext-saladict · Discussion #493 · GitHub](https://github.com/crimx/ext-saladict/discussions/493)
+		- [🍀 花园导览 — 🌱 oldwinterの数字花园](https://notes.oldwinter.top/huayuan)
+		- [回归 Obsidian 的纯与真，写给普通人的入门指南 - 少数派](https://sspai.com/post/72697)
+	- git
+		- [Learn Git Branching](https://learngitbranching.js.org/?demo=&locale=zh_CN)
+		- [超详细的前端程序员 git 指北 | Justin3go](https://justin3go.com/posts/2022/10/14%E8%B6%85%E8%AF%A6%E7%BB%86%E7%9A%84%E5%89%8D%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98git%E6%8C%87%E5%8C%97)
+		- [git 常用操作 | Justin3go](https://justin3go.com/posts/2022/02/04git%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C)
+		- [git 宝典](https://wangloo.github.io/posts/tools/git/git/)
+- Environment
