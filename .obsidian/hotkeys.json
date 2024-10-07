@@ -81,7 +81,7 @@
   "obsidian-completr:completr-select-next-suggestion": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "J"
     }
@@ -89,7 +89,7 @@
   "obsidian-completr:completr-select-previous-suggestion": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "K"
     }
@@ -103,15 +103,6 @@
       "key": "U"
     }
   ],
-  "editor:toggle-numbered-list": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
-  "editor:toggle-checklist-status": [],
   "easy-typing-obsidian:easy-typing-delete-blank-line": [],
   "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-popout": [
     {
@@ -121,5 +112,79 @@
       ],
       "key": "A"
     }
-  ]
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "workspace:goto-tab-2": [],
+  "pdf-plus:copy-link-to-page-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "pdf-plus:copy-link-to-selection": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:fold-more": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "editor:fold-less": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "easy-typing-obsidian:easy-typing-paste-without-format": []
 }

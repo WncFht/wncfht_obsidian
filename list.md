@@ -1,0 +1,8 @@
+- FFT
+	- [快速傅里叶变换 - OI Wiki](https://oi-wiki.org/math/poly/fft)
+	- [超详细易懂FFT（快速傅里叶变换）及代码实现 - 洛谷专栏](https://www.luogu.com.cn/article/g5ud21s1)
+	- [zhuanlan.zhihu.com/p/407885496#:\~:text=对数据结构与算法、F](https://zhuanlan.zhihu.com/p/407885496#:~:text=%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E3%80%81F)
+- Kalman
+	- [zhuanlan.zhihu.com/p/101630539#:\~:text=首先介绍一下什么是K](https://zhuanlan.zhihu.com/p/101630539#:~:text=%E9%A6%96%E5%85%88%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8B%E4%BB%80%E4%B9%88%E6%98%AFK)
+	- [Site Unreachable](https://blog.csdn.net/moge19/article/details/87389728#:~:text=FFT%20FFT%EF%BC%9A%20%E5%BF%AB)
+	- [zhuanlan.zhihu.com/p/649997859#:\~:text=一、概述. 1.1](https://zhuanlan.zhihu.com/p/649997859#:~:text=%E4%B8%80%E3%80%81%E6%A6%82%E8%BF%B0.%201.1)

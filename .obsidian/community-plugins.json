@@ -1,7 +1,6 @@
 [
   "obsidian-auto-link-title",
   "math-booster",
-  "code-styler",
   "easy-typing-obsidian",
   "obsidian-latex-suite",
   "number-headings-obsidian",
@@ -11,9 +10,11 @@
   "obsidian-completr",
   "obsidian-image-auto-upload-plugin",
   "obsidian-local-rest-api",
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-mind-map",
   "remember-cursor-position",
-  "obsidian-linter"
+  "obsidian-linter",
+  "calendar",
+  "periodic-notes",
+  "recent-files-obsidian",
+  "obsidian-wakatime"
 ]

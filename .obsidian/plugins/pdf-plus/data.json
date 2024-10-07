@@ -259,7 +259,11 @@
   "copyOutlineAsHeadingsDisplayTextFormat": "p.{{pageLabel}}",
   "copyOutlineAsHeadingsMinLevel": 2,
   "newFileNameFormat": "Notes/{{file.basename}}.md",
+<<<<<<< HEAD
   "newFileTemplatePath": "template/PDFtpl.md",
+=======
+  "newFileTemplatePath": "zob_config/template/PDFtpl.md",
+>>>>>>> origin/master
   "newPDFLocation": "current",
   "newPDFFolderPath": "",
   "rectEmbedStaticImage": false,

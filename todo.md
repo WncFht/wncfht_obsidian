@@ -1,122 +1,175 @@
-- 图形学
-	- slam 十四讲
-	- games 101
-	- CMake 菜鸟教程
-- [ ] C++
-	- [ ] accelerate C++
-	- [ ] 看看咸鱼暄的 blog
-	- [ ] [介紹 | Effective C++](https://wizardforcel.gitbooks.io/effective-cpp/content/index.html)
-	- [ ] [简介 - Effective Modern C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
-	- [ ] 代码随想录
-	- [ ] [Fetching Title#axsi](https://zh.cppreference.com/)
-- [ ] 体系结构
-	- [ ] csapp
-	- [ ] 软硬件接口
-- [ ] 数学
-	- [ ] [矩阵求导公式推导](https://zhuanlan.zhihu.com/p/273729929)
-	- [ ] [linear algebra left undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)
-	- [ ] 概率论
-	- [ ] [Web page of the course ITT9131 - Concrete Mathematics](https://cs.ioc.ee/cm/)
-	- [ ] 凸优化
-		- [ ] [【凸优化 10-725 2018】卡耐基梅隆—中英字幕\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1NYHve9EdX)
-			- [ ] [Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/)
-		- [ ] [优化基本理论与方法 - 图灵班学习指南](https://zju-turing.github.io/TuringCourses/major_basic/convex_optimization)
-		- [ ] [我的凸优化学习之路 | 韩鼎の个人网站](https://deanhan.com/2018/01/17/convex/)
-- [ ] d 2 l
-- [ ] 函数式编程
-	- [ ] [c++ faq - The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-	- [ ] 15-122
-	- [ ] [Introduction · An Introduction to Elm](https://guide.elm-lang.org/)
-	- [ ] [JavaScript Tutorial](https://www.w3schools.com/js/)
-- [ ] 路线、课程
-	- [ ] 鱼皮
-	- [ ] [GitHub - Eplankton/EmbedRoadAndCSInEU: 嵌入式软件之路与欧陆CS留学工作](https://github.com/Eplankton/EmbedRoadAndCSInEU)
-	- [ ] [roadmap UCB](https://hkn.eecs.berkeley.edu/courseguides)
-	- [ ] [图灵班学习指南](https://zju-turing.github.io/TuringCourses/)
-- [ ] make/makefile
-	- [ ] [一个简单的 make & makefile 教程](https://zhuanlan.zhihu.com/p/92010728)
-- [ ] 一些文章
-	- [ ] [Reddit - Dive into anything](https://www.reddit.com/r/learnprogramming/wiki/faq/)
-- [ ] linux
-	- [ ] [目录 - 《Linux C编程一站式学习》 - 书栈网 · BookStack](https://www.bookstack.cn/read/linux-c/menu.md)
-		- [ ] [Linux C编程一站式学习](https://akaedu.github.io/book/)
-		- [ ] [鸟哥的Linux私房菜：基础学习篇 第四版 | 鸟哥的 Linux 私房菜：基础学习篇 第四版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e)
-- [ ] RoboMaster
-	- [ ] [RM学长1](https://www.zhihu.com/people/zengen-38)
-- [ ] 控制理论
-	- [ ] [GitHub - ivaquero/book-control: DR\_CAN 哔站系列课程笔记 + 代码](https://github.com/ivaquero/book-control)
-	- [ ] [状态估计/控制算法实践 - 知乎](https://www.zhihu.com/column/c_1296379521394929664)
-	- [ ] [Control Tutorials for MATLAB and Simulink - Introduction: Simulink Control](https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SimulinkControl)
-- [ ] Rust
-- [ ] AI
-	- [ ] [Fundamentals-Of-Artificial-Intelligence-2024Spring-PKU/Note at main · zhuozhiyongde/Fundamentals-Of-Artificial-Intelligence-2024Spring-PKU · GitHub](https://github.com/zhuozhiyongde/Fundamentals-Of-Artificial-Intelligence-2024Spring-PKU/blob/main/Note/)
-- [ ] github Action
-	- [ ] [GitHub Action 快速入门课程 | GitHub 中文社区](https://www.github-zh.com/getting-started/hello-github-actions)
-	- [ ] [GitHub Actions 快速入门 - GitHub 文档](https://docs.github.com/zh/actions/writing-workflows/quickstart)
-	- [ ] [zhuanlan.zhihu.com/p/164744104#:\~:text=Github Act](https://zhuanlan.zhihu.com/p/164744104#:~:text=Github%20Act)
-	- [ ] [使用 GitHub Workflow 快速构建和部署 MkDocs 项目文档-CSDN博客](https://blog.csdn.net/li_yatao/article/details/141035509#:~:text=%E9%80%9A%E8%BF%87%E7%BC%96%E5%86%99%20Workf)
-- [ ] web
-	- [ ] [【UW–M CS571】【Web技术】【中英字幕】（2023 Fall）\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1vK421y7aY)
-- [ ] 算法：
-	- [ ] 刷题：
-		- [ ] [一个动态更新的洛谷综合题单 – Studying Father's blog](https://studyingfather.com/archives/841)
-		- [ ] [力扣 (LeetCode) 全球极客挚爱的技术成长平台](https://leetcode.cn/)
-		- [ ] [首页 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/)
-		- [ ] [leetcode.cn/circle/discuss/RvFUtj/](https://leetcode.cn/circle/discuss/RvFUtj/)
-		- [ ] [algorithmzuo (左程云) · GitHub](https://github.com/algorithmzuo)
-	- [ ] 教程：
-		- [ ] [代码随想录](https://programmercarl.com/)
-		- [ ] [Hello 算法](https://www.hello-algo.com/)
-		- [ ] [OI Wiki - OI Wiki](https://oi-wiki.org/)
-- [ ] 排版、blog
-	- [ ] typst
-		- [ ] [脚本 – Typst 中文文档](https://typst-doc-cn.github.io/docs/reference/scripting)
-		- [ ] [搭建舒适的typst写作环境](https://zhuanlan.zhihu.com/p/642509853)
-	- [ ] Axmath
-	- [ ] mdbook
-	- [ ] mkdocs 之类的文档
-	- [ ] [Material for MkDocs - Material for MkDocs 中文文档](https://mkdoc-material.llango.com/)
-	- [ ] [实验文档降压宝典](https://hypotensor.tonycrane.cc/)
-	- [ ] [工具&&博客站点集合](https://wangloo.github.io/posts/tools/useful_sites/)
-	- [ ] git-revision-localized-plugin
-	- [ ] [技术 - Wcowin's Web](https://wcowin.work/blog/indexblog.html)
-	- [ ] [mkdocs-material 网站搭建与配置 & github pages 发布 & 搜索引擎收录 | Salvely's Blog](https://salvely.github.io/posts/mkdocs-material%20%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8E%E9%85%8D%E7%BD%AE%20_%20github%20pages%20%E5%8F%91%E5%B8%83%20_%20%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E6%94%B6%E5%BD%95.html)
-	- [ ] [Slidev](https://cn.sli.dev/)
-- [ ] vim：
-	- [ ] [A Great Vim Cheat Sheet](https://vimsheet.com/)
-	- [ ] [Vim Cheat Sheet](https://vim.rtorr.com/lang/zh_cn)
-	- [ ] [VSCodeVim 最佳实践 | 周岩的 BLOG](https://zhouyanlt.github.io/vim/2019/09/20/vscode-vim-best-practices.html)
-	- [ ] [VSCode Vim 使用指南](https://hanzhen.wang/posts/vscode-vim)
-	- [ ] [vim相关的一个键位教程](https://cworld.top/blog/vim-key)  
-- [ ] git：
-	- [ ] [Learn Git Branching](https://learngitbranching.js.org/?demo=&locale=zh_CN)
-	- [ ] [超详细的前端程序员 git 指北 | Justin3go](https://justin3go.com/posts/2022/10/14%E8%B6%85%E8%AF%A6%E7%BB%86%E7%9A%84%E5%89%8D%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98git%E6%8C%87%E5%8C%97)
-	- [ ] [git 常用操作 | Justin3go](https://justin3go.com/posts/2022/02/04git%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C)
-	- [ ] [git 宝典](https://wangloo.github.io/posts/tools/git/git/)
-- [ ] 远程连接  
-	- [ ] [串流游戏百问百答（4）：PC进阶 | Parsec使用指南 - 哔哩哔哩](https://www.bilibili.com/read/cv32334628)  
-	- [ ] [win11使用ipad(平板)做副屏，纯软件实现方案【无需虚拟显示器】 - 哔哩哔哩](https://www.bilibili.com/read/cv23432170/#:~:text=%E6%89%93%E5%BC%80%E5%B9%B3%E6%9D%BF%E7%AB%AF%E7%9A%84moon)
-	- [ ] [zhuanlan.zhihu.com/p/657881254](https://zhuanlan.zhihu.com/p/657881254)
-	- [ ] [使用Sunshine+Moonlight实现游戏远程串流教程](https://www.hangge.com/blog/cache/detail_3544.html#:~:text=Sunshine%20+)
-	- [ ] [Parsec介绍及快速配置 - Makise](https://makise.xlog.app/parsec?)
-	- [ ] [ipads 用 moonlight + sunshine 实现副屏方案](https://zhuanlan.zhihu.com/p/669124021#:~:text=%E3%80%90%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%E3%80%91%201.%E8%BD%AF)
-	- [ ] [如何远程操作电脑](https://obsidian.zerokei.top/Hub/%E5%A6%82%E4%BD%95%E8%BF%9C%E7%A8%8B%E6%93%8D%E4%BD%9C%E7%94%B5%E8%84%91/)
-- [ ] STLite
-	- [ ] ans:
-		- [ ] [GitHub - Geral-Yuan/STLite: This is the big homework of SJTU 2022-2023 Spring course CS0501H Data Structure (Honor), implementing part of cpp containers library based on the framework provided by TAs of ACM Class.](https://github.com/Geral-Yuan/STLite/tree/main)
-- [ ] obsidian
-	- [ ] [Home - Obsidian Help](https://help.obsidian.md/)
-- [ ] some website
-	- [ ] [QuickRef.ME - Quick Reference Cheat Sheet](https://quickref.me/)
+- Environment, software, tools
+	- software
+		- [Site Unreachable](https://blog.xm.mk/posts/b15e/)
+		- zotero
+		- [GitHub - deskflow/deskflow: Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.](https://github.com/deskflow/deskflow)
+		- vim：
+			- [A Great Vim Cheat Sheet](https://vimsheet.com/)
+			- [Vim Cheat Sheet](https://vim.rtorr.com/lang/zh_cn)
+			- [VSCodeVim 最佳实践 | 周岩的 BLOG](https://zhouyanlt.github.io/vim/2019/09/20/vscode-vim-best-practices.html)
+			- [VSCode Vim 使用指南](https://hanzhen.wang/posts/vscode-vim)
+			- [vim相关的一个键位教程](https://cworld.top/blog/vim-key)  
+			- neovim
+				- [Fetching Title#rluj](https://innei.in/posts/Z-Turn/nvim-lua-config-init)
+		- remote 
+			- [串流游戏百问百答（4）：PC进阶 | Parsec使用指南 - 哔哩哔哩](https://www.bilibili.com/read/cv32334628)  
+			- [win11使用ipad(平板)做副屏，纯软件实现方案【无需虚拟显示器】 - 哔哩哔哩](https://www.bilibili.com/read/cv23432170/#:~:text=%E6%89%93%E5%BC%80%E5%B9%B3%E6%9D%BF%E7%AB%AF%E7%9A%84moon)
+			- [zhuanlan.zhihu.com/p/657881254](https://zhuanlan.zhihu.com/p/657881254)
+			- [使用Sunshine+Moonlight实现游戏远程串流教程](https://www.hangge.com/blog/cache/detail_3544.html#:~:text=Sunshine%20+)
+			- [Parsec介绍及快速配置 - Makise](https://makise.xlog.app/parsec?)
+			- [ipads 用 moonlight + sunshine 实现副屏方案](https://zhuanlan.zhihu.com/p/669124021#:~:text=%E3%80%90%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%E3%80%91%201.%E8%BD%AF)
+			- [如何远程操作电脑](https://obsidian.zerokei.top/Hub/%E5%A6%82%E4%BD%95%E8%BF%9C%E7%A8%8B%E6%93%8D%E4%BD%9C%E7%94%B5%E8%84%91/)
+			- [Sunshine + Moonlight 熄屏串流方式 - 哔哩哔哩](https://www.bilibili.com/read/cv30603647/#:~:text=%E7%94%B1%E4%BA%8E%E4%B9%8B%E5%89%8D%E6%9C%89%E6%AE%B5%E6%97%B6%E9%97%B4%E4%B8%8D%E5%9C%A8)
+			- [如何使用虚拟机](https://blog.csdn.net/m0_66480474/article/details/142535224#:~:text=parsec%E6%98%AF%E4%B8%80%E6%AC%BE%E7%9B%B8)
+		- [ProxyChain](https://zhuanlan.zhihu.com/p/166375631#:~:text=ProxyChain)
+		- obsidian
+			- [Home - Obsidian Help](https://help.obsidian.md/)
+			- [技巧分享：Quicker 调用 Saladict 实现全局『文本翻译、截图翻译、复制翻译、触边翻译』 · crimx/ext-saladict · Discussion #493 · GitHub](https://github.com/crimx/ext-saladict/discussions/493)
+			- [🍀 花园导览 — 🌱 oldwinterの数字花园](https://notes.oldwinter.top/huayuan)
+			- [回归 Obsidian 的纯与真，写给普通人的入门指南 - 少数派](https://sspai.com/post/72697)
+		- git
+			- [Learn Git Branching](https://learngitbranching.js.org/?demo=&locale=zh_CN)
+			- [超详细的前端程序员 git 指北 | Justin3go](https://justin3go.com/posts/2022/10/14%E8%B6%85%E8%AF%A6%E7%BB%86%E7%9A%84%E5%89%8D%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98git%E6%8C%87%E5%8C%97)
+			- [git 常用操作 | Justin3go](https://justin3go.com/posts/2022/02/04git%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C)
+			- [git 宝典](https://wangloo.github.io/posts/tools/git/git/)
+	- Environment
+- Robot
+	- RoboMaster
+		- [RM学长1](https://www.zhihu.com/people/zengen-38)
+	- control theory
+		- [GitHub - ivaquero/book-control: DR\_CAN 哔站系列课程笔记 + 代码](https://github.com/ivaquero/book-control)
+		- [状态估计/控制算法实践 - 知乎](https://www.zhihu.com/column/c_1296379521394929664)
+		- [Control Tutorials for MATLAB and Simulink - Introduction: Simulink Control](https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SimulinkControl)
+- Math
+	- 数学建模
+		- [“数学建模培训营”管理网站](https://anl.sjtu.edu.cn/mcm)
+	- [矩阵求导公式推导](https://zhuanlan.zhihu.com/p/273729929)
+	- [linear algebra left undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)
+	- 概率论
+	- [Web page of the course ITT9131 - Concrete Mathematics](https://cs.ioc.ee/cm/)
+	- 凸优化
+		- [【凸优化 10-725 2018】卡耐基梅隆—中英字幕\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1NYHve9EdX)
+			- [Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/)
+		- [优化基本理论与方法 - 图灵班学习指南](https://zju-turing.github.io/TuringCourses/major_basic/convex_optimization)
+		- [我的凸优化学习之路 | 韩鼎の个人网站](https://deanhan.com/2018/01/17/convex/)
+- Computer Science
+	- Computer Basic
+		- 体系结构
+			- csapp
+			- 软硬件接口
+	- Computer Advance
+		- 函数式编程
+			- [c++ faq - The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+			- 15-122
+			- [Introduction · An Introduction to Elm](https://guide.elm-lang.org/)
+			- [JavaScript Tutorial](https://www.w3schools.com/js/)
+		- web
+			- [【UW–M CS571】【Web技术】【中英字幕】（2023 Fall）\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1vK421y7aY)
+		- graphics
+			- CMake 菜鸟教程
+			- games 101
+			- slam 十四讲
+			- [传统视觉处理方法笔记 - NickD - 博客园](https://www.cnblogs.com/cntech/p/15342241.html#:~:text=1.%20%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2%20%E4%BC%A0%E7%BB%9F)
+			- opencv
+				- [OpenCV快速入门：移动物体检测和目标跟踪\_移动目标跟踪-CSDN博客](https://blog.csdn.net/qq_31463571/article/details/134646806#:~:text=%E9%80%9A%E8%BF%87%E5%88%86%E6%9E%90%E8%BF%99%E4%BA%9B%E5%90%91%E9%87%8F%EF%BC%8C%E5%8F%AF)
+				- [OpenCV: OpenCV modules](https://docs.opencv.org/4.x/index.html)
+			- 传统计算机视觉
+				- [一些关于计算机视觉的思考和学习方法\_牛客博客](https://blog.nowcoder.net/n/79b7219009fb4ed6b863944a7eb7ce85?from=nowcoder_improve)
+		- AI
+			- Deep Learing
+				- d 2 l
+			- [Fundamentals-Of-Artificial-Intelligence-2024Spring-PKU/Note at main · zhuozhiyongde/Fundamentals-Of-Artificial-Intelligence-2024Spring-PKU · GitHub](https://github.com/zhuozhiyongde/Fundamentals-Of-Artificial-Intelligence-2024Spring-PKU/blob/main/Note/)
+		- TCS
+			- [CS Theory 资源总结 - CC98论坛 (zju.edu.cn)](http://www-cc98-org-s.webvpn.zju.edu.cn:8001/topic/4906546)
+	- Algorithm
+		- 刷题：
+			- [一个动态更新的洛谷综合题单 – Studying Father's blog](https://studyingfather.com/archives/841)
+			- [力扣 (LeetCode) 全球极客挚爱的技术成长平台](https://leetcode.cn/)
+			- [首页 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/)
+			- [leetcode.cn/circle/discuss/RvFUtj/](https://leetcode.cn/circle/discuss/RvFUtj/)
+			- [algorithmzuo (左程云) · GitHub](https://github.com/algorithmzuo)
+		- 教程：
+			- [代码随想录](https://programmercarl.com/)
+			- [Hello 算法](https://www.hello-algo.com/)
+			- [OI Wiki - OI Wiki](https://oi-wiki.org/)
+		- oj
+			- [主页 · ACMOJ](https://acm.sjtu.edu.cn/OnlineJudge/)
+	- rectuitment
+		- 金融/量化
+			- [CC98论坛](https://www.cc98.org/topic/5132208)
+	- Technology
+		- make/makefile
+			- [一个简单的 make & makefile 教程](https://zhuanlan.zhihu.com/p/92010728)
+		- python 虚拟环境
+			- [zhuanlan.zhihu.com/p/216157886](https://zhuanlan.zhihu.com/p/216157886)
+		- 排版、blog
+			- typst
+				- [脚本 – Typst 中文文档](https://typst-doc-cn.github.io/docs/reference/scripting)
+				- [搭建舒适的typst写作环境](https://zhuanlan.zhihu.com/p/642509853)
+				- [typst-doc-cn.github.io](https://typst-doc-cn.github.io/)
+				- [Typst: Compose papers faster](https://typst.app/)
+			- Axmath
+			- mdbook
+			- mkdocs 之类的文档
+			- [Material for MkDocs - Material for MkDocs 中文文档](https://mkdoc-material.llango.com/)
+			- [实验文档降压宝典](https://hypotensor.tonycrane.cc/)
+			- [工具&&博客站点集合](https://wangloo.github.io/posts/tools/useful_sites/)
+			- git-revision-localized-plugin
+			- [技术 - Wcowin's Web](https://wcowin.work/blog/indexblog.html)
+			- [mkdocs-material 网站搭建与配置 & github pages 发布 & 搜索引擎收录 | Salvely's Blog](https://salvely.github.io/posts/mkdocs-material%20%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8E%E9%85%8D%E7%BD%AE%20_%20github%20pages%20%E5%8F%91%E5%B8%83%20_%20%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E6%94%B6%E5%BD%95.html)
+			- [Slidev](https://cn.sli.dev/)
+			- latex beamer
+			- [网页美化 - HowJul的学习笔记](https://note.howjul.com/%E7%90%90%E7%A2%8E/triviality/)
+			- typora 
+				- [zhuanlan.zhihu.com/p/692454473](https://zhuanlan.zhihu.com/p/692454473)
+				- [打造个性化Typora写作体验的必备插件 - peterjxl - 博客园](https://www.cnblogs.com/PeterJXL/p/18350073)
+		- github Action
+			- [GitHub Action 快速入门课程 | GitHub 中文社区](https://www.github-zh.com/getting-started/hello-github-actions)
+			- [GitHub Actions 快速入门 - GitHub 文档](https://docs.github.com/zh/actions/writing-workflows/quickstart)
+			- [zhuanlan.zhihu.com/p/164744104#:\~:text=Github Act](https://zhuanlan.zhihu.com/p/164744104#:~:text=Github%20Act)
+			- [使用 GitHub Workflow 快速构建和部署 MkDocs 项目文档-CSDN博客](https://blog.csdn.net/li_yatao/article/details/141035509#:~:text=%E9%80%9A%E8%BF%87%E7%BC%96%E5%86%99%20Workf)
+	- Language
+		- C++
+			- accelerate C++
+			- 看看咸鱼暄的 blog
+			- [介紹 | Effective C++](https://wizardforcel.gitbooks.io/effective-cpp/content/index.html)
+			- [简介 - Effective Modern C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
+			- 代码随想录
+			- [Fetching Title#axsi](https://zh.cppreference.com/)
+			- STLite
+				- ans:
+					- [GitHub - Geral-Yuan/STLite: This is the big homework of SJTU 2022-2023 Spring course CS0501H Data Structure (Honor), implementing part of cpp containers library based on the framework provided by TAs of ACM Class.](https://github.com/Geral-Yuan/STLite/tree/main)
+		- Java
+		- Python
+		- C
+		- Rust
+- route, plan
+	- 鱼皮
+	- [GitHub - Eplankton/EmbedRoadAndCSInEU: 嵌入式软件之路与欧陆CS留学工作](https://github.com/Eplankton/EmbedRoadAndCSInEU)
+	- [roadmap UCB](https://hkn.eecs.berkeley.edu/courseguides)
+	- [图灵班学习指南](https://zju-turing.github.io/TuringCourses/)
+- forum, website
+	- [QuickRef.ME - Quick Reference Cheat Sheet](https://quickref.me/)
 		- 好像不是很有用
-- [ ] articles
-	- [ ] [GitHub - pengsida/learning\_research: 本人的科研经验](https://github.com/pengsida/learning_research)
-	- [ ] [GitHub - zjufailure/how-to-succeed-in-zju-cs](https://github.com/zjufailure/how-to-succeed-in-zju-cs)
-	- [ ] [🍤 鱼肆周报主题认领！](https://www.yuque.com/xianyuxuan/saltfish_shop/weekly_headlines)
-	- [ ] [Yanyan's Wiki](https://jyywiki.cn/Reading_List.md)
-- [ ] 秋招
-	- [ ] 金融/量化
-		- [ ] [CC98论坛](https://www.cc98.org/topic/5132208)
-- [传统视觉处理方法笔记 - NickD - 博客园](https://www.cnblogs.com/cntech/p/15342241.html#:~:text=1.%20%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2%20%E4%BC%A0%E7%BB%9F)
-- [GitHub - deskflow/deskflow: Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.](https://github.com/deskflow/deskflow)
-- zotero
+	- [[神奇的网站]]
+	- articles
+		- [Reddit - Dive into anything](https://www.reddit.com/r/learnprogramming/wiki/faq/)
+		- [GitHub - pengsida/learning\_research: 本人的科研经验](https://github.com/pengsida/learning_research)
+		- [GitHub - zjufailure/how-to-succeed-in-zju-cs](https://github.com/zjufailure/how-to-succeed-in-zju-cs)
+		- [🍤 鱼肆周报主题认领！](https://www.yuque.com/xianyuxuan/saltfish_shop/weekly_headlines)
+		- [Yanyan's Wiki](https://jyywiki.cn/Reading_List.md)
+		- [GitHub - mzdluo123/SurfingTutorial: 给中国新大学生的网上冲浪和计算机使用教程](https://github.com/mzdluo123/SurfingTutorial)
+		- [HPC入门指南](https://hpc-sjtu.github.io/HPC_Start_Guide/)
+		- linux
+			- [目录 - 《Linux C编程一站式学习》 - 书栈网 · BookStack](https://www.bookstack.cn/read/linux-c/menu.md)
+			- [鸟哥的Linux私房菜：基础学习篇 第四版 | 鸟哥的 Linux 私房菜：基础学习篇 第四版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e)
+			- [Linux C编程一站式学习](https://akaedu.github.io/book/)
+			- [Linux基础 — Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh-cn/latest/base/)
+			- [Linux From Scratch](https://lfs.xry111.site/zh_CN/12.2/)
+			- [ArchWiki](https://wiki.archlinux.org/title/Main_page)
+			- [Linux Command Line Books by William Shotts](https://linuxcommand.org/tlcl.php)
+			- [Home | Linux Journey](https://linuxjourney.com/)
+	- [LINUX DO](https://linux.do/latest)
+- 出国
+	- [【不止留学随笔】大一向留学常见问题答疑，当你很早开始准备留学的时候要准备什么？（第一弹） - CC98论坛 (zju.edu.cn)](http://www-cc98-org-s.webvpn.zju.edu.cn:8001/topic/5374161)
+

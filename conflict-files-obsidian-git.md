@@ -5,10 +5,12 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 [[#Additional Instructions]] available below file list
 
 - Not a file: .obsidian/plugins/obsidian-completr/scanned_words.txt
+- Not a file: .obsidian/plugins/pdf-plus/data.json
+- Not a file: .obsidian/plugins/periodic-notes/data.json
 - Not a file: .obsidian/plugins/remember-cursor-position/cursor-positions.json
 - Not a file: .obsidian/workspace.json
-- [[daily]]
-- [[weekly]]
+- [[Computer/Technology/blog]]
+- [[test]]
 - [[todo]]
 - [[开发环境配置]]
 

@@ -5,13 +5,21 @@
   "daily": {
     "format": "YYYY-WW-MM-DD-E",
     "folder": "日记",
+<<<<<<< HEAD
     "template": "template/daily.md",
+=======
+    "template": "zob_config/template/daily.md",
+>>>>>>> origin/master
     "enabled": true
   },
   "weekly": {
     "format": "gggg-[W]ww-MM",
     "folder": "日记",
+<<<<<<< HEAD
     "template": "template/weekly.md",
+=======
+    "template": "zob_config/template/weekly.md",
+>>>>>>> origin/master
     "enabled": true
   },
   "monthly": {

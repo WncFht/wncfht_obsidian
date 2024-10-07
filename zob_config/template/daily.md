@@ -1,0 +1,25 @@
+# {{date}}
+
+## 1 Morning
+
+### 1.1 Plan
+
+### 1.2 Review
+
+## 2 Afternoon
+
+### 2.1 Plan
+
+### 2.2 Review
+
+## 3 Night
+
+### 3.1 Plan
+
+### 3.2 REVIEW
+
+## 4 Review
+
+## 5 THOUGHTS
+
+## 6 LINKS

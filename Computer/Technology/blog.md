@@ -25,3 +25,4 @@
 	- [Harry's Blog](https://harry-hhj.github.io/)
 	- [首页 | Menghuan1918's Blog](https://blog.menghuan1918.com/)
 	- [博客导引 | 二丫讲梵](https://wiki.eryajf.net/pages/b2f34c/)
+	- [静かな森 - 致虚极，守静笃。](https://innei.in/)

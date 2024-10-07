@@ -39358,6 +39358,7 @@ paragraph
 purpose
 plan
 prepare
+periodic
 Understanding
 USTC
 Unix
@@ -55477,6 +55478,7 @@ night
 nominal
 nihao
 neovim
+notes
 Network
 Nvidia
 NCNN
@@ -94554,6 +94556,7 @@ mode
 mindset
 meaning
 myths
+mathbf
 blog
 batchsize
 batch
