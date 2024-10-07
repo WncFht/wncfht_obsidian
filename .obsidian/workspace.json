@@ -19,20 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "383cb7c9441e4fda",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/remember-cursor-position/cursor-positions.json",
-                "staged": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -173,7 +161,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "383cb7c9441e4fda",
+  "active": "7543aa36b0e205f5",
   "lastOpenFiles": [
     "todo.md",
     "conflict-files-obsidian-git.md",
