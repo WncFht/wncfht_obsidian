@@ -11,8 +11,13 @@
             "id": "960f6cd63f1704a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "password.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +32,7 @@
       {
         "id": "88a447b3194ed60c",
         "type": "tabs",
-        "dimension": 58.9648798521257,
+        "dimension": 76.98706099815156,
         "children": [
           {
             "id": "1d3e0639cf4c759c",
@@ -60,7 +65,7 @@
       {
         "id": "414a62a80d4fa672",
         "type": "tabs",
-        "dimension": 41.0351201478743,
+        "dimension": 23.01293900184843,
         "children": [
           {
             "id": "38119d24dd106535",
@@ -113,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "password.md"
+              }
             }
           }
         ]
@@ -134,20 +141,25 @@
   },
   "active": "960f6cd63f1704a6",
   "lastOpenFiles": [
-    "视觉部培训.md",
-    "笔记、博客 规范.md",
-    "电控.md",
+    "list.md",
+    "blog.md",
     "未命名.md",
-    "开发环境配置.md",
-    "卡尔曼滤波.md",
     "个人路线 1.0.0.md",
+    "开发环境配置.md",
+    "robot/卡尔曼滤波.md",
+    "笔记、博客 规范.md",
+    "卡尔曼滤波.md",
+    "todo.md",
+    "summary.md",
+    "summary on 240925.md",
+    "test.md",
+    "视觉部培训.md",
+    "电控.md",
     "template/weekly.md",
     "template/daily.md",
     "template/PDFtpl.md",
     "template",
-    "summary on 240925.md",
     "password.md",
-    "blog.md",
     "VY100ENGL1000J.md",
     "Untitled-2.xdv",
     "Untitled-2.toc",
@@ -162,14 +174,9 @@
     "C++/Accelerated C++.md",
     "C++",
     "日记/2024-41-10-07-1.md",
-    "todo.md",
     "- Environment, software, tools.md",
-    "test.md",
     "神奇的网站.md",
     "Computer/Technology/blog.md",
-    "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
-    "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
-    "日记/2024-W40-09.md",
     "转SE简历.jpg",
     "attachment/QQ_1723428546109.png",
     "attachment/QQ_1723428144501.png",

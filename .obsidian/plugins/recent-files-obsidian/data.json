@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-41-10-07-1",
-      "path": "日记/2024-41-10-07-1.md"
+      "basename": "password",
+      "path": "password.md"
+    },
+    {
+      "basename": "list",
+      "path": "list.md"
+    },
+    {
+      "basename": "blog",
+      "path": "blog.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "个人路线 1.0.0",
+      "path": "个人路线 1.0.0.md"
+    },
+    {
+      "basename": "卡尔曼滤波",
+      "path": "robot/卡尔曼滤波.md"
     },
     {
       "basename": "todo",
       "path": "todo.md"
     },
     {
-      "basename": "test",
-      "path": "test.md"
+      "basename": "2024-41-10-07-1",
+      "path": "日记/2024-41-10-07-1.md"
     },
     {
       "basename": "神奇的网站",
@@ -71,10 +91,6 @@
     {
       "basename": "开发环境配置",
       "path": "environment/开发环境配置.md"
-    },
-    {
-      "basename": "summary",
-      "path": "summary.md"
     }
   ],
   "omittedPaths": []
