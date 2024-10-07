@@ -1,15 +1,6 @@
-[[Environment, software, tools]]
-
-[[graph/Robot]]
-
-[[graph/Math]]
-
-[[graph/Computer Science]]
-
-[[graph/route, plan]]
-
-[[graph/forum, website]]
-
-[[graph/route, plan]]
-
-[[graph/forum, website]]
+- [[Environment, software, tools]]
+- [[../robot/Robot]]
+- [[../Math/Math]]
+- [[graph/Computer Science]]
+- [[route]]
+- [[forum, website]]
