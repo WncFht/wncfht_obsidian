@@ -88,7 +88,7 @@
       {
         "id": "ee185182cd8a8c48",
         "type": "tabs",
-        "dimension": 42.22222222222222,
+        "dimension": 42.222222222222214,
         "children": [
           {
             "id": "43f2a08e8da8da62",
@@ -103,7 +103,7 @@
       {
         "id": "98328103bdce2a61",
         "type": "tabs",
-        "dimension": 57.77777777777778,
+        "dimension": 57.777777777777786,
         "children": [
           {
             "id": "af4ab8e73361b92f",
@@ -135,15 +135,16 @@
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
       "graph:查看关系图谱": false,
-      "periodic-notes:Open today": false,
       "workspaces:管理工作区布局": false,
-      "workspaces-plus:Manage workspaces": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "c43b02e295c4e846",
+  "active": "4fa8b2c3d3772d66",
   "lastOpenFiles": [
-    "神奇的网站.md",
+    "- Environment, software, tools.md",
     "todo.md",
+    "test.md",
+    "神奇的网站.md",
     "日记/2024-41-10-07-1.md",
     "Computer/Technology/blog.md",
     "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
@@ -160,7 +161,6 @@
     "转专业/IEEE的经验规划.md",
     "environment/开发环境配置.md",
     "summary.md",
-    "test.md",
     "obsidian.md",
     "environment/电脑配置.md",
     "website_to_read/obsidian 使用教程完全篇 20231202.md",
@@ -168,7 +168,6 @@
     "list.md",
     "日记/2024-W37-09.md",
     "日记/2024-W38-09.md",
-    "Computer/Language/C++/Accelerated C++.md",
     "zob-source/images",
     "zob-source",
     "{{date}}",

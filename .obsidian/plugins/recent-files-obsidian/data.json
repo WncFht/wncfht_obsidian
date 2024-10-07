@@ -5,6 +5,10 @@
       "path": "todo.md"
     },
     {
+      "basename": "test",
+      "path": "test.md"
+    },
+    {
       "basename": "神奇的网站",
       "path": "神奇的网站.md"
     },
