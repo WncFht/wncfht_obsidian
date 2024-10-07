@@ -77974,6 +77974,7 @@ webpage
 withBinaryFile
 webread
 weread
+workshop
 lab
 lightning
 latex
