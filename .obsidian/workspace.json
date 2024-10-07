@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer/Technology/blog.md",
+                "file": "todo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,12 +118,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer/Technology/blog.md"
+                "file": "todo.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,12 +139,14 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "4fa8b2c3d3772d66",
+  "active": "af4ab8e73361b92f",
   "lastOpenFiles": [
-    "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
-    "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
+    "神奇的网站.md",
     "todo.md",
     "日记/2024-41-10-07-1.md",
+    "Computer/Technology/blog.md",
+    "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
+    "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
     "日记/2024-W40-09.md",
     "日记/2024-40-09-30-1.md",
     "日记/2024-40-10-02-3.md",
@@ -169,8 +170,6 @@
     "Computer/Language/C++/Accelerated C++.md",
     "zob-source/images",
     "zob-source",
-    "website_to_read/2024-10-05 17：53：12-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
-    "website_to_read/导入到 Obsidian.md",
     "{{date}}",
     "website_to_read",
     "Computer/Algorithm",

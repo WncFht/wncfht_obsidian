@@ -151,23 +151,24 @@
 - forum, website
 	- [QuickRef.ME - Quick Reference Cheat Sheet](https://quickref.me/)
 		- 好像不是很有用
-		- articles
-			- [Reddit - Dive into anything](https://www.reddit.com/r/learnprogramming/wiki/faq/)
-			- [GitHub - pengsida/learning\_research: 本人的科研经验](https://github.com/pengsida/learning_research)
-			- [GitHub - zjufailure/how-to-succeed-in-zju-cs](https://github.com/zjufailure/how-to-succeed-in-zju-cs)
-			- [🍤 鱼肆周报主题认领！](https://www.yuque.com/xianyuxuan/saltfish_shop/weekly_headlines)
-			- [Yanyan's Wiki](https://jyywiki.cn/Reading_List.md)
-			- [GitHub - mzdluo123/SurfingTutorial: 给中国新大学生的网上冲浪和计算机使用教程](https://github.com/mzdluo123/SurfingTutorial)
-			- [HPC入门指南](https://hpc-sjtu.github.io/HPC_Start_Guide/)
-			- linux
-				- [目录 - 《Linux C编程一站式学习》 - 书栈网 · BookStack](https://www.bookstack.cn/read/linux-c/menu.md)
-				- [鸟哥的Linux私房菜：基础学习篇 第四版 | 鸟哥的 Linux 私房菜：基础学习篇 第四版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e)
-				- [Linux C编程一站式学习](https://akaedu.github.io/book/)
-				- [Linux基础 — Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh-cn/latest/base/)
-				- [Linux From Scratch](https://lfs.xry111.site/zh_CN/12.2/)
-				- [ArchWiki](https://wiki.archlinux.org/title/Main_page)
-				- [Linux Command Line Books by William Shotts](https://linuxcommand.org/tlcl.php)
-				- [Home | Linux Journey](https://linuxjourney.com/)
+	- [[神奇的网站]]
+	- articles
+		- [Reddit - Dive into anything](https://www.reddit.com/r/learnprogramming/wiki/faq/)
+		- [GitHub - pengsida/learning\_research: 本人的科研经验](https://github.com/pengsida/learning_research)
+		- [GitHub - zjufailure/how-to-succeed-in-zju-cs](https://github.com/zjufailure/how-to-succeed-in-zju-cs)
+		- [🍤 鱼肆周报主题认领！](https://www.yuque.com/xianyuxuan/saltfish_shop/weekly_headlines)
+		- [Yanyan's Wiki](https://jyywiki.cn/Reading_List.md)
+		- [GitHub - mzdluo123/SurfingTutorial: 给中国新大学生的网上冲浪和计算机使用教程](https://github.com/mzdluo123/SurfingTutorial)
+		- [HPC入门指南](https://hpc-sjtu.github.io/HPC_Start_Guide/)
+		- linux
+			- [目录 - 《Linux C编程一站式学习》 - 书栈网 · BookStack](https://www.bookstack.cn/read/linux-c/menu.md)
+			- [鸟哥的Linux私房菜：基础学习篇 第四版 | 鸟哥的 Linux 私房菜：基础学习篇 第四版](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e)
+			- [Linux C编程一站式学习](https://akaedu.github.io/book/)
+			- [Linux基础 — Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh-cn/latest/base/)
+			- [Linux From Scratch](https://lfs.xry111.site/zh_CN/12.2/)
+			- [ArchWiki](https://wiki.archlinux.org/title/Main_page)
+			- [Linux Command Line Books by William Shotts](https://linuxcommand.org/tlcl.php)
+			- [Home | Linux Journey](https://linuxjourney.com/)
 	- [LINUX DO](https://linux.do/latest)
 - 出国
 	- [【不止留学随笔】大一向留学常见问题答疑，当你很早开始准备留学的时候要准备什么？（第一弹） - CC98论坛 (zju.edu.cn)](http://www-cc98-org-s.webvpn.zju.edu.cn:8001/topic/5374161)

@@ -3474,6 +3474,7 @@ callout
 callouts
 crtl
 caption
+chem
 Computer
 Concepts
 ChatGpt
@@ -88032,6 +88033,7 @@ simpread
 started
 satisfy
 shifter
+solidworks
 torch
 training
 tune
