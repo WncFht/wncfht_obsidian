@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "blog",
+      "path": "Computer/Technology/blog.md"
+    },
+    {
+      "basename": "深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客",
+      "path": "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md"
+    },
+    {
+      "basename": "2024-10-05 21：10：00-obsidian 使用教程完全篇",
+      "path": "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md"
+    },
+    {
       "basename": "todo",
       "path": "todo.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "2024-10-05 17：59：56-如何使用 Obsidian 软件？",
       "path": "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md"
-    },
-    {
-      "basename": "2024-10-05 21：10：00-obsidian 使用教程完全篇",
-      "path": "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md"
     },
     {
       "basename": "IEEE的经验规划",

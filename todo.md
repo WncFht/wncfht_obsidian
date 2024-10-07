@@ -10,6 +10,7 @@
 			- [VSCode Vim 使用指南](https://hanzhen.wang/posts/vscode-vim)
 			- [vim相关的一个键位教程](https://cworld.top/blog/vim-key)  
 			- neovim
+				- [Fetching Title#rluj](https://innei.in/posts/Z-Turn/nvim-lua-config-init)
 		- remote 
 			- [串流游戏百问百答（4）：PC进阶 | Parsec使用指南 - 哔哩哔哩](https://www.bilibili.com/read/cv32334628)  
 			- [win11使用ipad(平板)做副屏，纯软件实现方案【无需虚拟显示器】 - 哔哩哔哩](https://www.bilibili.com/read/cv23432170/#:~:text=%E6%89%93%E5%BC%80%E5%B9%B3%E6%9D%BF%E7%AB%AF%E7%9A%84moon)

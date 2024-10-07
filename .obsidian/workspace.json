@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "Computer/Technology/blog.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "畸变",
+                "query": "quality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "414a62a80d4fa672",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "Computer/Technology/blog.md"
               }
             }
           }
@@ -141,8 +140,10 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "a50dbc06c6016297",
+  "active": "4fa8b2c3d3772d66",
   "lastOpenFiles": [
+    "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
+    "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
     "todo.md",
     "日记/2024-41-10-07-1.md",
     "日记/2024-W40-09.md",
@@ -154,7 +155,6 @@
     "日记/2024-40-10-06-7.md",
     "website_to_read/2024-10-05 17：34：01-简悦从入门到疯魔.md",
     "website_to_read/2024-10-05 17：59：56-如何使用 Obsidian 软件？.md",
-    "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
     "转专业/IEEE的经验规划.md",
     "environment/开发环境配置.md",
     "summary.md",
@@ -171,7 +171,6 @@
     "zob-source",
     "website_to_read/2024-10-05 17：53：12-相机镜头购买求建议 - 数码科技 _ 硬件产品 - 水源社区.md",
     "website_to_read/导入到 Obsidian.md",
-    "website_to_read/2024-10-05 17：53：33-导入到 Obsidian.md",
     "{{date}}",
     "website_to_read",
     "Computer/Algorithm",
