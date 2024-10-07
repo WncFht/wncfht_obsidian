@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "todo",
+      "path": "todo.md"
+    },
+    {
       "basename": "2024-41-10-07-1",
       "path": "日记/2024-41-10-07-1.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "IEEE的经验规划",
       "path": "转专业/IEEE的经验规划.md"
-    },
-    {
-      "basename": "todo",
-      "path": "todo.md"
     },
     {
       "basename": "开发环境配置",
