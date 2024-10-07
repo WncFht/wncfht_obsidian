@@ -1,5 +1,3 @@
-# Robot
-
 - RoboMaster
 	- [RM学长1](https://www.zhihu.com/people/zengen-38)
 - control theory  

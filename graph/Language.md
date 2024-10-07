@@ -1,0 +1,14 @@
+- C++
+	- accelerate C++
+	- 看看咸鱼暄的 blog
+	- [介紹 | Effective C++](https://wizardforcel.gitbooks.io/effective-cpp/content/index.html)
+	- [简介 - Effective Modern C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
+	- 代码随想录
+	- [Fetching Title#axsi](https://zh.cppreference.com/)
+	- STLite
+		- ans:
+			- [GitHub - Geral-Yuan/STLite: This is the big homework of SJTU 2022-2023 Spring course CS0501H Data Structure (Honor), implementing part of cpp containers library based on the framework provided by TAs of ACM Class.](https://github.com/Geral-Yuan/STLite/tree/main)
+- Java
+- Python
+- C
+- Rust

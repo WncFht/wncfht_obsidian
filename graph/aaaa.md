@@ -1,4 +1,4 @@
-[[graph/Environment, software, tools]]
+[[Environment, software, tools]]
 
 [[graph/Robot]]
 

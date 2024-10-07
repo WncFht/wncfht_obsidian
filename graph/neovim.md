@@ -1,0 +1,1 @@
+- [Fetching Title#rluj](https://innei.in/posts/Z-Turn/nvim-lua-config-init)
