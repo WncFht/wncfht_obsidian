@@ -4,24 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d2c8d706b130b427",
+        "id": "483f0abdef49d0c2",
         "type": "tabs",
         "children": [
           {
-            "id": "ca3d73b4faa0f2a6",
+            "id": "960f6cd63f1704a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "个人路线 1.0.0.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
         "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -33,24 +29,15 @@
       {
         "id": "88a447b3194ed60c",
         "type": "tabs",
+        "dimension": 58.9648798521257,
         "children": [
-          {
-            "id": "ed6c87ad8e4e2f25",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "1d3e0639cf4c759c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "安装",
+                "query": "quality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,10 +47,28 @@
             }
           },
           {
-            "id": "d4619f622bb7ea8c",
+            "id": "c43b02e295c4e846",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "414a62a80d4fa672",
+        "type": "tabs",
+        "dimension": 41.0351201478743,
+        "children": [
+          {
+            "id": "38119d24dd106535",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -71,67 +76,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 226.5
   },
   "right": {
     "id": "a2f3e69f1404aa81",
     "type": "split",
     "children": [
       {
-        "id": "98328103bdce2a61",
+        "id": "ee185182cd8a8c48",
         "type": "tabs",
+        "dimension": 42.222222222222214,
         "children": [
           {
-            "id": "563892e8b45c44d0",
+            "id": "43f2a08e8da8da62",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "calendar",
+              "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "98328103bdce2a61",
+        "type": "tabs",
+        "dimension": 57.777777777777786,
+        "children": [
           {
-            "id": "2f0a1b647b0e4e02",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "个人路线 1.0.0.md"
-              }
-            }
-          },
-          {
-            "id": "a77a8fd2948fdb75",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "94e64c801fdbd62b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "todo.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7543aa36b0e205f5",
+            "id": "af4ab8e73361b92f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -139,56 +111,64 @@
             }
           },
           {
-            "id": "e1860ebb4f4cc74e",
+            "id": "a50dbc06c6016297",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:查看关系图谱": false,
-      "workspaces:管理工作区布局": false,
-      "templates:插入模板": false,
+      "templates:插入模板": true,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open this week": false
+      "graph:查看关系图谱": false,
+      "workspaces:管理工作区布局": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "ca3d73b4faa0f2a6",
+  "active": "960f6cd63f1704a6",
   "lastOpenFiles": [
+    "视觉部培训.md",
     "笔记、博客 规范.md",
     "电控.md",
-    "个人路线 1.0.0.md",
-    "开发环境配置.md",
-    "神奇的网站.md",
-    "视觉部培训.md",
     "未命名.md",
-    "password.md",
-    "VY100ENGL1000J.md",
-    "test.md",
-    "summary on 240925.md",
-    "list.md",
-    "blog.md",
+    "开发环境配置.md",
     "卡尔曼滤波.md",
-    "todo/1 Environment, software, tools.md",
-    "todo/7 出国.md",
-    "todo/6 forum, website.md",
-    "todo/5 route, plan.md",
-    "todo/4 Computer Science.md",
-    "todo/3 Math.md",
-    "todo/2 Robot.md",
-    "todo/todo.md",
-    "todo",
-    "conflict-files-obsidian-git.md",
+    "个人路线 1.0.0.md",
+    "template/weekly.md",
+    "template/daily.md",
+    "template/PDFtpl.md",
+    "template",
+    "summary on 240925.md",
+    "password.md",
+    "blog.md",
+    "VY100ENGL1000J.md",
+    "Untitled-2.xdv",
+    "Untitled-2.toc",
+    "Untitled-2.tex",
+    "Untitled-2.synctex.gz",
+    "Untitled-2.log",
+    "Untitled-2.fls",
+    "Untitled-2.fdb_latexmk",
+    "Excalidraw/Drawing 2024-10-02 09.07.24.excalidraw.md",
+    "Excalidraw",
+    "C++/C++.md",
+    "C++/Accelerated C++.md",
+    "C++",
+    "日记/2024-41-10-07-1.md",
+    "todo.md",
+    "- Environment, software, tools.md",
+    "test.md",
+    "神奇的网站.md",
     "Computer/Technology/blog.md",
     "zob_config/template/weekly.md",
     "zob_config/template/PDFtpl.md",
@@ -201,16 +181,19 @@
     "密院/VY100ENGL1000J/Lewis, Norman - Word Power Made Easy-Knopf Doubleday Publishing Group (2014).pdf",
     "密院/VY100ENGL1000J/jeffrey_r._wilson_academic_writing.pdf",
     "密院/VY100ENGL1000J/irvin--what-is-academic-writing.pdf",
+    "公开课/CSAPP/深入理解计算机系统（CSAPP）含 lab 详解 完结 - CSDN 博客.md",
+    "website_to_read/2024-10-05 21：10：00-obsidian 使用教程完全篇.md",
+    "日记/2024-W40-09.md",
     "转SE简历.jpg",
-    "attachment/QQ_1723428086546.png",
     "attachment/QQ_1723428546109.png",
-    "attachment/QQ_1723427987352.png",
-    "attachment/QQ_1723427555264.png",
     "attachment/QQ_1723428144501.png",
-    "attachment/QQ_1723427999572.png",
-    "attachment/QQ_1723427114723.png",
+    "attachment/QQ_1723427744742.png",
     "attachment/QQ_1723427040762.png",
+    "attachment/QQ_1723428086546.png",
+    "attachment/QQ_1723426099514.png",
     "attachment/QQ_1723426283414.png",
+    "attachment/QQ_1723426340853.png",
+    "attachment/QQ_1723426500087.png",
     "未命名.canvas"
   ]
 }
