@@ -5,3 +5,4 @@
 - [CSAPP深入理解计算机系统 Lab1(Data Lab) 详解 | LCJD BLOG# 页面title](https://lcjd99.github.io/Course/csapp/Lab1/)
 - [CSAPP 苹悠记绿 - 知乎](https://www.zhihu.com/column/c_1656079231888171008)
 - [CSAPPLab - 知乎](https://www.zhihu.com/column/c_1458204480777273344)
+- [[csapp-lab记录]]
