@@ -1,5 +1,5 @@
 - [[Environment, software, tools]]
-- [[../robot/Robot]]
+- [[Robot]]
 - [[Math]]
 - [[Computer Science]]
 - [[route]]

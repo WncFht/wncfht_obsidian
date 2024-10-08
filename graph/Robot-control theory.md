@@ -1,0 +1,4 @@
+- [GitHub - ivaquero/book-control: DR\_CAN 哔站系列课程笔记 + 代码](https://github.com/ivaquero/book-control)  
+- [状态估计/控制算法实践 - 知乎](https://www.zhihu.com/column/c_1296379521394929664)  
+- [Control Tutorials for MATLAB and Simulink - Introduction: Simulink Control](https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SimulinkControl)
+- [[卡尔曼滤波]]
