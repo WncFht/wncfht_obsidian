@@ -6,3 +6,4 @@
 - [ArchWiki](https://wiki.archlinux.org/title/Main_page)
 - [Linux Command Line Books by William Shotts](https://linuxcommand.org/tlcl.php)
 - [Home | Linux Journey](https://linuxjourney.com/)
+- [Fetching Title#dsg1](https://linuxtools-rst.readthedocs.io/)

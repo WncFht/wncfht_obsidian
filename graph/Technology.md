@@ -4,3 +4,7 @@
 	- [zhuanlan.zhihu.com/p/216157886](https://zhuanlan.zhihu.com/p/216157886)
 - [[排版、blog]]
 - [[github Action]]
+- [[CMake]]
+- [[gdb]]
+- [[cgdb]]
+- [[linux]]
