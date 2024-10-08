@@ -1,0 +1,6 @@
+- [[Computer Basic]]
+- [[Computer Advance]]
+- [[Algorithm]]
+- [[rectuitment]]
+- [[Technology]]
+- [[Language]]

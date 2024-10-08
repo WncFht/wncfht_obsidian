@@ -1,0 +1,15 @@
+- [QuickRef.ME - Quick Reference Cheat Sheet](https://quickref.me/)
+	- 好像不是很有用
+- [[神奇的网站]]
+- articles
+	- [Reddit - Dive into anything](https://www.reddit.com/r/learnprogramming/wiki/faq/)
+	- [GitHub - pengsida/learning\_research: 本人的科研经验](https://github.com/pengsida/learning_research)
+	- [GitHub - zjufailure/how-to-succeed-in-zju-cs](https://github.com/zjufailure/how-to-succeed-in-zju-cs)
+	- [🍤 鱼肆周报主题认领！](https://www.yuque.com/xianyuxuan/saltfish_shop/weekly_headlines)
+	- [Yanyan's Wiki](https://jyywiki.cn/Reading_List.md)
+	- [GitHub - mzdluo123/SurfingTutorial: 给中国新大学生的网上冲浪和计算机使用教程](https://github.com/mzdluo123/SurfingTutorial)
+	- [HPC入门指南](https://hpc-sjtu.github.io/HPC_Start_Guide/)
+	- [[linux]]
+- [LINUX DO](https://linux.do/latest)
+- [[自学网站]]
+- [[课程]]

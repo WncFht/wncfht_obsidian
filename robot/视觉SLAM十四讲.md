@@ -939,7 +939,7 @@ $$
 $$
 
 $$
-Z\begin{pmatrix}u\\\\v\\\\1\end{pmatrix}=\begin{pmatrix}f_x&0&c_x\\0&f_y&c_y\\\\0&0&1\end{pmatrix}\begin{pmatrix}X\\\\Y\\\\Z\end{pmatrix}\overset{\text{def}}{=}\boldsymbol{KP}.
+Z\begin{pmatrix}u\\\\v\\\\1\end{pmatrix}=\begin{pmatrix}f_x&0&c_x\\\\0&f_y&c_y\\\\0&0&1\end{pmatrix}\begin{pmatrix}X\\\\Y\\\\Z\end{pmatrix}\overset{\text{def}}{=}\boldsymbol{KP}.
 $$
 
 最中间的矩阵称为相机的内参数（Camera Inrinsics）矩阵 $\displaystyle \boldsymbol{K}$。  
@@ -957,6 +957,8 @@ $$
 
 - 归一化平面
 - 点的深度在投影过程中被丢失了
+- 一个不知道哪里的公式  
+![[Pasted image 20241008194118.png]]
 
 #### 5.1.1 畸变模型
 

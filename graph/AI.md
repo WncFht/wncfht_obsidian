@@ -1,0 +1,5 @@
+- [《动手学深度学习》 — 动手学深度学习 2.0.0 documentation](https://zh.d2l.ai/)
+- [[Dive into Deep Learning]]
+- [[统计学习方法]]
+- 一些汇总
+	- [优质课程与资料汇总（持续更新） - 哔哩哔哩](https://www.bilibili.com/read/cv15624770/)

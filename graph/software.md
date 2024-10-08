@@ -1,0 +1,8 @@
+- [别人的软件](https://blog.xm.mk/posts/b15e/)
+- [[zotero]]
+- [GitHub - deskflow/deskflow: Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.](https://github.com/deskflow/deskflow)
+- [[vim]]
+- [[remote]]
+- [ProxyChain](https://zhuanlan.zhihu.com/p/166375631#:~:text=ProxyChain)
+- [[obsidian]]
+- [[git]]

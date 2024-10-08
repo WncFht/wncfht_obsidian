@@ -1,0 +1,7 @@
+- [[../plan/个人路线 1.0.0|个人路线 1.0.0]]
+- 鱼皮
+- [GitHub - Eplankton/EmbedRoadAndCSInEU: 嵌入式软件之路与欧陆CS留学工作](https://github.com/Eplankton/EmbedRoadAndCSInEU)
+- [roadmap UCB](https://hkn.eecs.berkeley.edu/courseguides)
+- [图灵班学习指南](https://zju-turing.github.io/TuringCourses/)
+- 出国
+	- [【不止留学随笔】大一向留学常见问题答疑，当你很早开始准备留学的时候要准备什么？（第一弹） - CC98论坛 (zju.edu.cn)](http://www-cc98-org-s.webvpn.zju.edu.cn:8001/topic/5374161)

@@ -1,0 +1,5 @@
+- [[Java]]
+- [[Python]]
+- [[C]]
+- [[Rust]]
+- [[../Computer/Language/C++/C++|C++]]
