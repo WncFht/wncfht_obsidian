@@ -1,4 +1,0 @@
-The article is a guide for college freshmen to understand the meaning of academic writing. It firstly explains that writing isn't a lock-step linear process; it's recursive and repeated. Subsequently, it breaks down several common myths, like the idea that good grammar is good writing or that we should avoid the five-paragraph essay.  
-It emphasizes that you should look more closely at the 'Academic Writing' situation, which consists of audience, context, and purpose. Academic writing often requires research, critical reading, and the ability to analyze and synthesize information.  
-Then it illustrates the three types of college writing assignments: closed, semi-open, and open. It also brings out three characteristics of academic writing, ranging from clear evidence, the dominance of reason over emotions, and an imagined reader.  
-To sum up, the article leads students to explore what academic writing is.
