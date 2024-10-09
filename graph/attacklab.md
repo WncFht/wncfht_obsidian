@@ -11,4 +11,6 @@ PASS: Would have posted the following:
         result  1:PASS:0xffffffff:ctarget:1:00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 C0 17 40 00 
 ```
 
-[Fix CS:APP Attack Lab Segmentation Fault on Newest Ubuntu 22.04 | Rijuyuezhu's Blog](https://blog.rijuyuezhu.top/posts/db646f34/)
+- [Fix CS:APP Attack Lab Segmentation Fault on Newest Ubuntu 22.04 | Rijuyuezhu's Blog](https://blog.rijuyuezhu.top/posts/db646f34/)
+
+- [ ] patchelf
