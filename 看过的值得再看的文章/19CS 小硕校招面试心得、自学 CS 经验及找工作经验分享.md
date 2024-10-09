@@ -22,84 +22,83 @@
 
 全文接近 4 万字，可以根据目录各取所需。然而发现我不会知乎的 Markdown 目录 >_< 点了之后无法跳转，大家要跳转的话只能自己找一下位置啦，或者可以在 GitHub 上的原文看。
 
-*   [面试心得](https://zhuanlan.zhihu.com/p/108911948/edit#面试心得)
-	*   [声明](https://zhuanlan.zhihu.com/p/108911948/edit#声明)
-	*   [编程部分心得](https://zhuanlan.zhihu.com/p/108911948/edit#编程部分心得)
-		*   [一个非常简单的例子](https://zhuanlan.zhihu.com/p/108911948/edit#一个非常简单的例子)
-		*   [练习白板编程](https://zhuanlan.zhihu.com/p/108911948/edit#练习白板编程)
-		*   [问清题目](https://zhuanlan.zhihu.com/p/108911948/edit#问清题目)
-		*   [与面试官确认函数签名](https://zhuanlan.zhihu.com/p/108911948/edit#与面试官确认函数签名)
-		*   [与面试官确认思路](https://zhuanlan.zhihu.com/p/108911948/edit#与面试官确认思路)
-		*   [确认边界处理](https://zhuanlan.zhihu.com/p/108911948/edit#确认边界处理)
-		*   [代码中使用可读性高的变量名和函数名](https://zhuanlan.zhihu.com/p/108911948/edit#代码中使用可读性高的变量名和函数名)
-		*   [写代码过程中不断与面试官交流](https://zhuanlan.zhihu.com/p/108911948/edit#写代码过程中不断与面试官交流)
-		*   [写完代码后主动测试](https://zhuanlan.zhihu.com/p/108911948/edit#写完代码后主动测试)
-		*   [主动给出算法的复杂度](https://zhuanlan.zhihu.com/p/108911948/edit#主动给出算法的复杂度)
-		*   [讨论算法的 trade-off](https://zhuanlan.zhihu.com/p/108911948/edit#讨论算法的trade-off)
-	*   [计算机基础部分心得](https://zhuanlan.zhihu.com/p/108911948/edit#计算机基础部分心得)
-		*   [面经的使用](https://zhuanlan.zhihu.com/p/108911948/edit#面经的使用)
-		*   [抓住面试官想问的点](https://zhuanlan.zhihu.com/p/108911948/edit#抓住面试官想问的点)
-		*   [说出自己的 insight](https://zhuanlan.zhihu.com/p/108911948/edit#说出自己的insight)
-		*   [结合自己的使用经验阐述](https://zhuanlan.zhihu.com/p/108911948/edit#结合自己的使用经验阐述)
-	*   [项目部分心得](https://zhuanlan.zhihu.com/p/108911948/edit#项目部分心得)
-		*   [简要介绍项目背景](https://zhuanlan.zhihu.com/p/108911948/edit#简要介绍项目背景)
-		*   [介绍项目的 approach](https://zhuanlan.zhihu.com/p/108911948/edit#介绍项目的approach)
-		*   [指出项目中的困难点和解决方案](https://zhuanlan.zhihu.com/p/108911948/edit#指出项目中的困难点和解决方案)
-	*   [论文部分心得](https://zhuanlan.zhihu.com/p/108911948/edit#论文部分心得)
-		*   [简要介绍自己 research 的背景](https://zhuanlan.zhihu.com/p/108911948/edit#简要介绍自己research的背景)
-		*   [像做 talk 一样介绍一遍自己的论文](https://zhuanlan.zhihu.com/p/108911948/edit#像做talk一样介绍一遍自己的论文)
-	*   [模拟面试](https://zhuanlan.zhihu.com/p/108911948/edit#模拟面试)
-	*   [面试大忌](https://zhuanlan.zhihu.com/p/108911948/edit#面试大忌)
-		*   [不懂装懂](https://zhuanlan.zhihu.com/p/108911948/edit#不懂装懂)
-		*   [狂傲不羁](https://zhuanlan.zhihu.com/p/108911948/edit#狂傲不羁)
-		*   [远远达不到面试官对自己的期望](https://zhuanlan.zhihu.com/p/108911948/edit#远远达不到面试官对自己的期望)
-	*   [心态](https://zhuanlan.zhihu.com/p/108911948/edit#心态)
-	*   [最后](https://zhuanlan.zhihu.com/p/108911948/edit#最后)
-
-*   [番外篇：找工作的流水账与心路历程](https://zhuanlan.zhihu.com/p/108911948/edit#番外篇找工作的流水账与心路历程)
-	*   [背景介绍与 CS 学习历程](https://zhuanlan.zhihu.com/p/108911948/edit#背景介绍与cs学习历程)
-		*   [我总结的学习方式](https://zhuanlan.zhihu.com/p/108911948/edit#我总结的学习方式)
-		*   [CS 学习历程](https://zhuanlan.zhihu.com/p/108911948/edit#cs学习历程)
-	*   [找工作之前的准备](https://zhuanlan.zhihu.com/p/108911948/edit#找工作之前的准备)
-		*   [刷题](https://zhuanlan.zhihu.com/p/108911948/edit#刷题)
-		*   [面经与面试技巧](https://zhuanlan.zhihu.com/p/108911948/edit#面经与面试技巧)
-		*   [模拟面试](https://zhuanlan.zhihu.com/p/108911948/edit#模拟面试-1)
-		*   [日常实习](https://zhuanlan.zhihu.com/p/108911948/edit#日常实习)
-		*   [做 research](https://zhuanlan.zhihu.com/p/108911948/edit#做research)
-	*   [找实习](https://zhuanlan.zhihu.com/p/108911948/edit#找实习)
-		*   [Google](https://zhuanlan.zhihu.com/p/108911948/edit#google)
-		*   [拼多多](https://zhuanlan.zhihu.com/p/108911948/edit#拼多多)
-		*   [摩根士丹利](https://zhuanlan.zhihu.com/p/108911948/edit#摩根士丹利)
-		*   [头条](https://zhuanlan.zhihu.com/p/108911948/edit#头条)
-		*   [阿里](https://zhuanlan.zhihu.com/p/108911948/edit#阿里)
-		*   [腾讯](https://zhuanlan.zhihu.com/p/108911948/edit#腾讯)
-		*   [微软](https://zhuanlan.zhihu.com/p/108911948/edit#微软)
-		*   [Optiver](https://zhuanlan.zhihu.com/p/108911948/edit#optiver)
-		*   [百度](https://zhuanlan.zhihu.com/p/108911948/edit#百度)
-		*   [Airbnb](https://zhuanlan.zhihu.com/p/108911948/edit#airbnb)
-		*   [Hulu](https://zhuanlan.zhihu.com/p/108911948/edit#hulu)
-	*   [实习经历](https://zhuanlan.zhihu.com/p/108911948/edit#实习经历)
-		*   [入职](https://zhuanlan.zhihu.com/p/108911948/edit#入职)
-		*   [项目初期进展](https://zhuanlan.zhihu.com/p/108911948/edit#项目初期进展)
-		*   [进抢救室](https://zhuanlan.zhihu.com/p/108911948/edit#进抢救室)
-		*   [恢复实习](https://zhuanlan.zhihu.com/p/108911948/edit#恢复实习)
-		*   [总结](https://zhuanlan.zhihu.com/p/108911948/edit#总结)
-	*   [秋招](https://zhuanlan.zhihu.com/p/108911948/edit#秋招)
-		*   [百度](https://zhuanlan.zhihu.com/p/108911948/edit#百度-1)
-		*   [腾讯 WXG](https://zhuanlan.zhihu.com/p/108911948/edit#腾讯wxg)
-		*   [阿里](https://zhuanlan.zhihu.com/p/108911948/edit#阿里-1)
-		*   [Optiver](https://zhuanlan.zhihu.com/p/108911948/edit#optiver-1)
-		*   [腾讯数据库内核](https://zhuanlan.zhihu.com/p/108911948/edit#腾讯数据库内核)
-		*   [Google](https://zhuanlan.zhihu.com/p/108911948/edit#google-1)
-		*   [Offer 选择](https://zhuanlan.zhihu.com/p/108911948/edit#offer选择)
-	*   [一些学习资料推荐](https://zhuanlan.zhihu.com/p/108911948/edit#一些学习资料推荐)
-		*   [数学](https://zhuanlan.zhihu.com/p/108911948/edit#数学)
-		*   [CS 导论](https://zhuanlan.zhihu.com/p/108911948/edit#cs导论)
-		*   [数据结构与算法](https://zhuanlan.zhihu.com/p/108911948/edit#数据结构与算法)
-		*   [操作系统](https://zhuanlan.zhihu.com/p/108911948/edit#操作系统)
-		*   [机器学习](https://zhuanlan.zhihu.com/p/108911948/edit#机器学习)
-		*   [深度学习](https://zhuanlan.zhihu.com/p/108911948/edit#深度学习)
-	*   [尾声](https://zhuanlan.zhihu.com/p/108911948/edit#尾声)
+- [面试心得](https://zhuanlan.zhihu.com/p/108911948/edit#面试心得)
+	- [声明](https://zhuanlan.zhihu.com/p/108911948/edit#声明)
+	- [编程部分心得](https://zhuanlan.zhihu.com/p/108911948/edit#编程部分心得)
+		- [一个非常简单的例子](https://zhuanlan.zhihu.com/p/108911948/edit#一个非常简单的例子)
+		- [练习白板编程](https://zhuanlan.zhihu.com/p/108911948/edit#练习白板编程)
+		- [问清题目](https://zhuanlan.zhihu.com/p/108911948/edit#问清题目)
+		- [与面试官确认函数签名](https://zhuanlan.zhihu.com/p/108911948/edit#与面试官确认函数签名)
+		- [与面试官确认思路](https://zhuanlan.zhihu.com/p/108911948/edit#与面试官确认思路)
+		- [确认边界处理](https://zhuanlan.zhihu.com/p/108911948/edit#确认边界处理)
+		- [代码中使用可读性高的变量名和函数名](https://zhuanlan.zhihu.com/p/108911948/edit#代码中使用可读性高的变量名和函数名)
+		- [写代码过程中不断与面试官交流](https://zhuanlan.zhihu.com/p/108911948/edit#写代码过程中不断与面试官交流)
+		- [写完代码后主动测试](https://zhuanlan.zhihu.com/p/108911948/edit#写完代码后主动测试)
+		- [主动给出算法的复杂度](https://zhuanlan.zhihu.com/p/108911948/edit#主动给出算法的复杂度)
+		- [讨论算法的 trade-off](https://zhuanlan.zhihu.com/p/108911948/edit#讨论算法的trade-off)
+	- [计算机基础部分心得](https://zhuanlan.zhihu.com/p/108911948/edit#计算机基础部分心得)
+		- [面经的使用](https://zhuanlan.zhihu.com/p/108911948/edit#面经的使用)
+		- [抓住面试官想问的点](https://zhuanlan.zhihu.com/p/108911948/edit#抓住面试官想问的点)
+		- [说出自己的 insight](https://zhuanlan.zhihu.com/p/108911948/edit#说出自己的insight)
+		- [结合自己的使用经验阐述](https://zhuanlan.zhihu.com/p/108911948/edit#结合自己的使用经验阐述)
+	- [项目部分心得](https://zhuanlan.zhihu.com/p/108911948/edit#项目部分心得)
+		- [简要介绍项目背景](https://zhuanlan.zhihu.com/p/108911948/edit#简要介绍项目背景)
+		- [介绍项目的 approach](https://zhuanlan.zhihu.com/p/108911948/edit#介绍项目的approach)
+		- [指出项目中的困难点和解决方案](https://zhuanlan.zhihu.com/p/108911948/edit#指出项目中的困难点和解决方案)
+	- [论文部分心得](https://zhuanlan.zhihu.com/p/108911948/edit#论文部分心得)
+		- [简要介绍自己 research 的背景](https://zhuanlan.zhihu.com/p/108911948/edit#简要介绍自己research的背景)
+		- [像做 talk 一样介绍一遍自己的论文](https://zhuanlan.zhihu.com/p/108911948/edit#像做talk一样介绍一遍自己的论文)
+	- [模拟面试](https://zhuanlan.zhihu.com/p/108911948/edit#模拟面试)
+	- [面试大忌](https://zhuanlan.zhihu.com/p/108911948/edit#面试大忌)
+		- [不懂装懂](https://zhuanlan.zhihu.com/p/108911948/edit#不懂装懂)
+		- [狂傲不羁](https://zhuanlan.zhihu.com/p/108911948/edit#狂傲不羁)
+		- [远远达不到面试官对自己的期望](https://zhuanlan.zhihu.com/p/108911948/edit#远远达不到面试官对自己的期望)
+	- [心态](https://zhuanlan.zhihu.com/p/108911948/edit#心态)
+	- [最后](https://zhuanlan.zhihu.com/p/108911948/edit#最后)
+- [番外篇：找工作的流水账与心路历程](https://zhuanlan.zhihu.com/p/108911948/edit#番外篇找工作的流水账与心路历程)
+	- [背景介绍与 CS 学习历程](https://zhuanlan.zhihu.com/p/108911948/edit#背景介绍与cs学习历程)
+		- [我总结的学习方式](https://zhuanlan.zhihu.com/p/108911948/edit#我总结的学习方式)
+		- [CS 学习历程](https://zhuanlan.zhihu.com/p/108911948/edit#cs学习历程)
+	- [找工作之前的准备](https://zhuanlan.zhihu.com/p/108911948/edit#找工作之前的准备)
+		- [刷题](https://zhuanlan.zhihu.com/p/108911948/edit#刷题)
+		- [面经与面试技巧](https://zhuanlan.zhihu.com/p/108911948/edit#面经与面试技巧)
+		- [模拟面试](https://zhuanlan.zhihu.com/p/108911948/edit#模拟面试-1)
+		- [日常实习](https://zhuanlan.zhihu.com/p/108911948/edit#日常实习)
+		- [做 research](https://zhuanlan.zhihu.com/p/108911948/edit#做research)
+	- [找实习](https://zhuanlan.zhihu.com/p/108911948/edit#找实习)
+		- [Google](https://zhuanlan.zhihu.com/p/108911948/edit#google)
+		- [拼多多](https://zhuanlan.zhihu.com/p/108911948/edit#拼多多)
+		- [摩根士丹利](https://zhuanlan.zhihu.com/p/108911948/edit#摩根士丹利)
+		- [头条](https://zhuanlan.zhihu.com/p/108911948/edit#头条)
+		- [阿里](https://zhuanlan.zhihu.com/p/108911948/edit#阿里)
+		- [腾讯](https://zhuanlan.zhihu.com/p/108911948/edit#腾讯)
+		- [微软](https://zhuanlan.zhihu.com/p/108911948/edit#微软)
+		- [Optiver](https://zhuanlan.zhihu.com/p/108911948/edit#optiver)
+		- [百度](https://zhuanlan.zhihu.com/p/108911948/edit#百度)
+		- [Airbnb](https://zhuanlan.zhihu.com/p/108911948/edit#airbnb)
+		- [Hulu](https://zhuanlan.zhihu.com/p/108911948/edit#hulu)
+	- [实习经历](https://zhuanlan.zhihu.com/p/108911948/edit#实习经历)
+		- [入职](https://zhuanlan.zhihu.com/p/108911948/edit#入职)
+		- [项目初期进展](https://zhuanlan.zhihu.com/p/108911948/edit#项目初期进展)
+		- [进抢救室](https://zhuanlan.zhihu.com/p/108911948/edit#进抢救室)
+		- [恢复实习](https://zhuanlan.zhihu.com/p/108911948/edit#恢复实习)
+		- [总结](https://zhuanlan.zhihu.com/p/108911948/edit#总结)
+	- [秋招](https://zhuanlan.zhihu.com/p/108911948/edit#秋招)
+		- [百度](https://zhuanlan.zhihu.com/p/108911948/edit#百度-1)
+		- [腾讯 WXG](https://zhuanlan.zhihu.com/p/108911948/edit#腾讯wxg)
+		- [阿里](https://zhuanlan.zhihu.com/p/108911948/edit#阿里-1)
+		- [Optiver](https://zhuanlan.zhihu.com/p/108911948/edit#optiver-1)
+		- [腾讯数据库内核](https://zhuanlan.zhihu.com/p/108911948/edit#腾讯数据库内核)
+		- [Google](https://zhuanlan.zhihu.com/p/108911948/edit#google-1)
+		- [Offer 选择](https://zhuanlan.zhihu.com/p/108911948/edit#offer选择)
+	- [一些学习资料推荐](https://zhuanlan.zhihu.com/p/108911948/edit#一些学习资料推荐)
+		- [数学](https://zhuanlan.zhihu.com/p/108911948/edit#数学)
+		- [CS 导论](https://zhuanlan.zhihu.com/p/108911948/edit#cs导论)
+		- [数据结构与算法](https://zhuanlan.zhihu.com/p/108911948/edit#数据结构与算法)
+		- [操作系统](https://zhuanlan.zhihu.com/p/108911948/edit#操作系统)
+		- [机器学习](https://zhuanlan.zhihu.com/p/108911948/edit#机器学习)
+		- [深度学习](https://zhuanlan.zhihu.com/p/108911948/edit#深度学习)
+	- [尾声](https://zhuanlan.zhihu.com/p/108911948/edit#尾声)
 
 ## **面试心得**
 
@@ -274,11 +273,11 @@ int getHeightOfBinaryTree(TreeNode* root) {
 
 一个 CS 领域的学习过程大致可以分为以下三个阶段。当然，有的时候不同阶段是可以迭代地进行，例如开始科研之后发现自己还缺少了某些基础知识，那可以再进行基础知识的学习。同时，在学习中，很重要的一个指导思想是要获得**监督信息与正反馈**。三个阶段如下：
 
-1.  如果想学某门课程知识，那就找国外名校（主要是 MIT/Stanford/CMU/Berkeley）有课程录像的对应课程，假装自己真的在上课一般地按照课程安排上课、看阅读材料并**完成作业**。**完成作业是极其重要的**，因为在这个过程中你会获得大量的监督信息，来指导你发现自己哪些地方学得不扎实；而如果仅仅看视频与阅读材料的话，常常会产生自己已经学懂了的错觉。另一方面，许多编程的作业完成之后也可以带来**成就感与正反馈，支持着自己的学习动力**。
-2.  之后，找自己感兴趣的领域。根据是做开发还是做算法，做研究还是做工程，第二阶段可以分成两种不同的方式。  
+1. 如果想学某门课程知识，那就找国外名校（主要是 MIT/Stanford/CMU/Berkeley）有课程录像的对应课程，假装自己真的在上课一般地按照课程安排上课、看阅读材料并**完成作业**。**完成作业是极其重要的**，因为在这个过程中你会获得大量的监督信息，来指导你发现自己哪些地方学得不扎实；而如果仅仅看视频与阅读材料的话，常常会产生自己已经学懂了的错觉。另一方面，许多编程的作业完成之后也可以带来**成就感与正反馈，支持着自己的学习动力**。
+2. 之后，找自己感兴趣的领域。根据是做开发还是做算法，做研究还是做工程，第二阶段可以分成两种不同的方式。  
     a) 做工程：找一些适合练手的项目，自己实现与重构，并对照他人的实现方案。实际上如果第一阶段认真完成了好课程的作业的话，那么已经算是完成了很多练手的项目了。  
     b) 做科研：了解这个领域的经典方法与最新方法，并**复现这些方法**，做实验比较结果，同时以论文的要求写报告分析结果，这个其实基本上就是国外很多课的 project。**复现好的论文是极其重要的，因为复现可以获得监督信息**。在真正入门一个领域之前，人们常常会产生自己已经读懂了论文的细节，实际上如果你没有能力复现一篇论文，你就不能说自己已经完全读懂了这篇论文。另外，论文中往往不会给出全部的细节，但这些细节并不 trivial，需要你在复现论文的过程中自己发现体会。尤其是在系统相关的领域，**论文中一句带过的设计细节往往也蕴含着 insight**，而这在你复现的时候会有更深的体会。另外，复现论文也能带来一些正反馈。复现完论文做实验的报告也是很重要的，这个整理的过程会逼迫你去进行一些更深层次的思考，整理的实验结果也可以供以后随时查阅。
-3.  同样，第三阶段也可以分成两种不同的方式。  
+3. 同样，第三阶段也可以分成两种不同的方式。  
     a) 做工程：可以考虑在 GitHub 上找一些好的开源的项目，读源代码，并且帮助社区进行开发。有条件的话，可以去实习。  
     b) 做科研：之后就是阅读论文、跟踪最新的成果、提出想法并撰写提交论文了。
 
@@ -376,11 +375,11 @@ int getHeightOfBinaryTree(TreeNode* root) {
 
 先写一些简单的总结体会吧：
 
-1.  能找内推尽量找内推。一方面是有些公司可以免掉笔试避免自己翻车，另一方面是有内推人的话在很多公司可以帮忙查询进度什么的，比较方便。
-2.  多看公司的面经了解风格。不同公司考察的重点、风格可以有很大差异，一定要提前了解公司的面试。
-3.  简历上的内容一定要非常熟悉。这个没啥可说的了。
-4.  面试官真的是一家公司的门面，极大地影响我对公司的印象。
-5.  剩下的要点都在前面 tips 部分提过了，这里不再赘述。
+1. 能找内推尽量找内推。一方面是有些公司可以免掉笔试避免自己翻车，另一方面是有内推人的话在很多公司可以帮忙查询进度什么的，比较方便。
+2. 多看公司的面经了解风格。不同公司考察的重点、风格可以有很大差异，一定要提前了解公司的面试。
+3. 简历上的内容一定要非常熟悉。这个没啥可说的了。
+4. 面试官真的是一家公司的门面，极大地影响我对公司的印象。
+5. 剩下的要点都在前面 tips 部分提过了，这里不再赘述。
 
 实际上，我实习的第一个 offer 就是自己的 dream offer Google，本来打算就此结束找实习了，把时间用来补 CS 基础上。陪妹子参加了一场拼多多的面试，与面试官聊了聊他们在做的事情以及难点与痛点的时候，竟然受到了一些启发，有了个 idea（虽然这个 fancy 的 idea 最后没有 work）。于是决定多投递多面试，与各家公司的面试官多聊聊。每家公司的面试官往往是公司里水平比较不错的人，尤其是最后一面技术面的面试官更是技术 leader 甚至是技术 Boss，平时想要与他们聊天的机会可不容易获得。但是面试这样的事情能够让他们自动送上门来聊天，何乐而不为呢？
 
@@ -546,10 +545,10 @@ L 到了之后，医生让她去帮我买了很多生活用品，我意识到似
 
 我带着少有的必胜的决心进了 Optiver 的上海 office。面试安排在下午两点左右，我到得比较早，大约是下午一点，所以 HR 小姐姐先和我聊了会儿天。她先和我聊了一下自己的方向选择问题，她有些疑惑我本科毕业就大跨度地从航天转了 CS，现在竟然又要从算法岗转开发岗。我大概解释了一下。我们又聊了一些公司 culture 什么的。HR 大概告诉了我几点。其中有几点特别吸引了我的关注：
 
-1.  公司注重 work-life balance。例如公司不提供晚饭，不鼓励大家晚上还继续加班。
-2.  公司的福利也是相当不错。有很多年假带薪病假等，也有一些免费的餐饮、咖啡厅、大额商业保险、健身房等等。
-3.  高频交易是一个竞争激烈的行业，公司希望大家都能够 **self-motivated 地，独当一面地去做出有 impact 的工作**。
-4.  公司招聘宁缺毋滥，highly selective。例如我实习面的 AE 岗位，最后公司也没有勉强招不合适的人。
+1. 公司注重 work-life balance。例如公司不提供晚饭，不鼓励大家晚上还继续加班。
+2. 公司的福利也是相当不错。有很多年假带薪病假等，也有一些免费的餐饮、咖啡厅、大额商业保险、健身房等等。
+3. 高频交易是一个竞争激烈的行业，公司希望大家都能够 **self-motivated 地，独当一面地去做出有 impact 的工作**。
+4. 公司招聘宁缺毋滥，highly selective。例如我实习面的 AE 岗位，最后公司也没有勉强招不合适的人。
 
 技术面试终于开始了，两位 team lead 进入面试房间后先很客气地与我握手并做了自我介绍。随后他们给了我一道相当复杂的系统设计的问题。在提问以确认自己理解了题目之后，我进行了一些思考，并给出了第一个设计方案。两位面试官非常细致地问了我这个方案的各个细节之处、性能分析、trade-off 等等，这些问题设计到数据结构、算法、操作系统、体系结构与计算机网络的各种知识。好在我在说出自己的解决方案之前就已经对这些细节进行了思考，所以回答得还算流利。面试官接下来让我在白板上实现自己的代码，在这个过程中同时也考察了我的抽象能力、模块设计能力等等。写完代码并证明它是 bug-free 之后，面试官突然狡黠一笑，问我能不能再改进这个方案。与面试官进行了大量的讨论之后，我终于成功地给出了第二版的设计方案，当我给出来的时候一位面试官非常激动地说了一句 “Exactly！" 然而两位面试官并不打算就这么简单地放过我，又继续问了大量的 follow-up 问题，直到确认我每个细节都考虑到了之后才终于流露出了满意的笑容。随后，他们让我问了一些问题。我最好奇的一个问题是，明明有一位面试官是 data 组的 team lead，为什么并没有问我任何机器学习相关的问题，而是问了这么一个在我看来更偏 system 的问题。面试官告诉我说，这个问题在他们看来是 problem solving ability 的问题，而 Optiver 认为基础扎实、沟通能力出色并且有很好的 problem solving ability 的人可以胜任公司的任何一个 IT 岗位。我还问了一个问题是，他们选择 optiver 的最重要的原因是什么。他们告诉我是 **exciting work and impact**。
 
