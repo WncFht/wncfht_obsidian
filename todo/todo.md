@@ -1,7 +1,0 @@
-[[1 Environment, software, tools]]  
-[[2 Robot]]  
-[[3 Math]]  
-[[4 Computer Science]]  
-[[5 route, plan]]  
-[[6 forum, website]]  
-[[7 出国]]
