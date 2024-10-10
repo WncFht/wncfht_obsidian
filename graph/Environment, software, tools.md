@@ -1,2 +1,2 @@
-- [[software]]
-- [[Environment]]
+- [[../environment/software list|software list]]
+- [[../environment/Environment]]

@@ -1,0 +1,2 @@
+- [[Books/圣经|圣经]]
+- [[Books/survivesjtu_note|survivesjtu_note]]

@@ -14,3 +14,4 @@
 - typora 
 	- [zhuanlan.zhihu.com/p/692454473](https://zhuanlan.zhihu.com/p/692454473)
 	- [打造个性化Typora写作体验的必备插件 - peterjxl - 博客园](https://www.cnblogs.com/PeterJXL/p/18350073)
+- [[../Computer/Technology/blog]]
