@@ -14,3 +14,4 @@
 - [[../plan/csdiy补充]]
 - [[../plan/xlb专刊]]
 - [[../Quantum/量化|量化]]
+- [GitHub - l0ngc/hpc-learning: hpc-learning](https://github.com/l0ngc/hpc-learning)
