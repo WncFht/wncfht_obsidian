@@ -80,7 +80,6 @@ Transformer类在cv上就是VIT Swin Transformers这种，开篇就是VIT。
 比如上面的MobileNet，EfficientNet就是在模型上进行轻量化设计。
 
 ---
-	
 
 还有就是我最近也刚开始学的GNN, 但这块比较偏一点感觉，如果有兴趣再说
 
