@@ -59,3 +59,4 @@
 - [PKMer\_PKMer](https://pkmer.cn/)
 - [Obsidian 中文论坛 - Obsidian 知识管理 笔记](https://forum-zh.obsidian.md/)
 - [Obsidian文档咖啡豆版 | Obsidian Docs by CoffeeBean](https://coffeetea.top/)
+- [zhuanlan.zhihu.com/p/619960525](https://zhuanlan.zhihu.com/p/619960525)
