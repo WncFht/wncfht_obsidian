@@ -48,3 +48,8 @@ add_executable(${PROJECT_NAME} ${SRC_LIST})
 	- PUBLIC
 	- 静态链接库/动态链接库
 - build 目录介绍
+
+## links
+
+- [Site Unreachable](https://www.runoob.com/cmake/cmake-tutorial.html)
+- [IPADS新人培训第二讲：CMake\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV14h41187FZ/)

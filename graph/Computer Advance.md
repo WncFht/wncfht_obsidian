@@ -7,3 +7,4 @@
 - [[TCS]]
 	- [CS Theory 资源总结 - CC98论坛 (zju.edu.cn)](http://www-cc98-org-s.webvpn.zju.edu.cn:8001/topic/4906546)
 - [[图形学]]
+- [[并行计算]]
