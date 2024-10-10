@@ -6,3 +6,4 @@
 - [CSAPP 苹悠记绿 - 知乎](https://www.zhihu.com/column/c_1656079231888171008)
 - [CSAPPLab - 知乎](https://www.zhihu.com/column/c_1458204480777273344)
 - [[csapp-lab记录]]
+- [[自己的csapp笔记]]
